@@ -31,7 +31,7 @@ alert = #bd2c40
 [bar/main]
 ;monitor = ${env:MONITOR:HDMI-1}
 width = 1896 
-height = 36 
+height = 40 
 offset-x = 12
 offset-y = 8
 radius = 0

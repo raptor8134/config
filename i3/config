@@ -247,7 +247,7 @@ for_window [class=".*"] border pixel 0
 #for_window [class="Termite"] border pixel 1
 gaps inner 12
 #gaps bottom 36
-gaps bottom 32
+gaps bottom 36
 
 # colors
 # class                 border  backgr. text    indicator child_border
