@@ -1,0 +1,7 @@
+define quadsolve(a,b,c) {
+	print ((-b+sqrt(b^2 -4*a*c))/(2*a));
+	print ((-b-sqrt(b^2 -4*a*c))/(2*a));
+}
+pi = pi()
+tau = 2*pi()
+e = exp(1)
