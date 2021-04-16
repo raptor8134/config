@@ -1,0 +1,105 @@
+[options]
+#allow_bold = true
+audible_bell = true 
+#bold_is_bright = true 
+#cell_height_scale = 1.0
+#cell_width_scale = 1.0
+#clickable_url = true
+#dynamic_title = true
+font = Monospace 10
+#fullscreen = false 
+#icon_name = terminal
+#mouse_autohide = false
+#scroll_on_output = false
+#scroll_on_keystroke = true
+# Length of the scrollback buffer, 0 disabled the scrollback buffer
+# and setting it to a negative value means "infinite scrollback"
+scrollback_lines = 10000
+#search_wrap = true
+#urgent_on_bell = true
+#hyperlinks = false
+
+# $BROWSER is used by default if set, with xdg-open as a fallback
+#browser = xdg-open
+
+# "system", "on" or "off"
+#cursor_blink = system
+
+# "block", "underline" or "ibeam"
+#cursor_shape = block
+
+# Hide links that are no longer valid in url select overlay mode
+#filter_unmatched_urls = true
+
+# Emit escape sequences for extra modified keys
+#modify_other_keys = false
+
+# set size hints for the window
+#size_hints = false
+
+# "off", "left" or "right"
+#scrollbar = off
+
+[hints]
+#font = Monospace 12
+#foreground = #dcdccc
+#background = #3f3f3f
+#active_foreground = #e68080
+#active_background = #3f3f3f
+#padding = 2 
+#border = #3f3f3f
+#border_width = 0.5 
+#roundness = 2.0
+
+# vim: ft=dosini cms=#%s
+
+[colors]
+# Base16 Snazzy
+# Author: Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+
+foreground          = #e2e4e5
+foreground_bold     = #e2e4e5
+cursor              = #e2e4e5
+cursor_foreground   = #282a36
+#background          = #282a36
+background = rgba(0,0,0,0.6)
+
+# 16 color space
+
+# Black, Gray, Silver, White
+color0  = #282a36
+color8  = #78787e
+color7  = #e2e4e5
+color15 = #f1f1f0
+
+# Red
+color1  = #ff5c57
+color9  = #ff5c57
+
+# Green
+color2  = #5af78e
+color10 = #5af78e
+
+# Yellow
+color3  = #f3f99d
+color11 = #f3f99d
+
+# Blue
+color4  = #57c7ff
+color12 = #57c7ff
+
+# Purple
+color5  = #ff6ac1
+color13 = #ff6ac1
+
+# Teal
+color6  = #9aedfe
+color14 = #9aedfe
+
+# Extra colors
+color16 = #ff9f43
+color17 = #b2643c
+color18 = #34353e
+color19 = #43454f
+color20 = #a5a5a9
+color21 = #eff0eb
