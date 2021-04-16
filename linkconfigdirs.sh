@@ -1,3 +1,5 @@
 # execute from the cloned config dir
-rm -rf ~/.config/$1
-ln -s $1 ~/.config/$1
+for x in $@; do
+	rm -rf ~/.config/$x
+	ln -s $(pwd)/$x ~/.config/$x
+done
