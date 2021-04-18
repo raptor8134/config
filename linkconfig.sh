@@ -1,4 +1,5 @@
 homedirfile="$(ls -a | egrep '^\.' | egrep -v '(^.git$|^.gitignore$)' | sed 1,2d)"
+echo $homedirfile
 for x in $homedirfile; do 
 	rm -rf $HOME/$x
 	echo Removed $HOME/$x
@@ -12,3 +13,4 @@ for x in $dotconfigs; do
 	ln -s $(pwd)/$x ~/.config/$x
 	echo Linked $XDG_CONFIG_HOME$x to ./$x
 done
+git add .

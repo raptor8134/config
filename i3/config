@@ -65,7 +65,8 @@ bindsym $mod+Shift+q kill
 # .desktop file. It is a wrapper around dmenu, so you need that installed.
 #
 #bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
-bindsym $mod+d exec --no-startup-id rofi -show combi 
+#bindsym $mod+d exec --no-startup-id rofi -show combi 
+bindsym $mod+d exec --no-startup-id rofi -show drun 
 
 # change focus
 bindsym $mod+j focus left
@@ -235,7 +236,7 @@ exec_always bluetoothctl power on
 exec_always bluetoothctl scan on 
 bindsym $mod+b exec bluetoothctl connect 1C:52:16:6A:7B:AA
 bindsym $mod+shift+b exec bluetoothctl disconnect 1C:52:16:6A:7B:AA
-bindsym $mod+ctrl+b exec bluetoothctl remove 1C:52:16:6A:7B:AA && sleep 3 && bluetoothctl pair 1C:52:16:6A:7B:AA
+bindsym $mod+ctrl+b exec earbuds.sh
 
 # compositor, wallpapers, polybar
 exec_always feh --bg-center $bgimage 
@@ -265,7 +266,7 @@ exec udiskie -nt
 exec twmnd
 exec discord --start-minimized
 exec sleep 3 && redshift -l $(cweather --location | tr "," ":") -t 6500K:3500K 
-exec_always pkill xbacklight-auto; nice -n -10 xbacklight-auto -t 3 -m 1
+exec_always pkill xbacklight-auto #; nice -n -10 xbacklight-auto -t 3 -m 1
 
 # make certain windows always floating
 for_window [title="^Network Connections$"] floating enable
