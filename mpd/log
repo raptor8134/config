@@ -3848,3 +3848,102 @@ Apr 17 21:46 : player: played "Killing In the Name.m4a"
 Apr 17 21:46 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
 Apr 18 12:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
 Apr 18 12:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 14:19 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 14:25 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 14:31 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 15:06 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 15:06 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 15:18 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 18 15:18 : update: added /&.mp3
+Apr 18 16:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 16:55 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 17:00 : player: played "For Whom the Bell Tolls.mp3"
+Apr 18 17:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 17:07 : player: played "Holy Wars... The Punishment Due.mp3"
+Apr 18 17:14 : player: played "One.mp3"
+Apr 18 17:16 : player: played "Fortunate Son.mp3"
+Apr 18 17:19 : player: played "Boom!.mp3"
+Apr 18 17:22 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Apr 18 17:31 : player: played "Disposable Heroes.mp3"
+Apr 18 17:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 17:35 : player: played "Peace Sells.mp3"
+Apr 18 17:35 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 18 17:35 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 17:40 : player: played "Killing In the Name.m4a"
+Apr 18 17:40 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 17:48 : player: played "War Pigs.mp3"
+Apr 18 17:53 : player: played "For Whom the Bell Tolls.mp3"
+Apr 18 17:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 17:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 17:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 17:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Apr 18 17:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 17:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 18 17:54 : player: played "Peace Sells.mp3"
+Apr 19 10:16 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Apr 19 10:16 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 10:16 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 10:17 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 14:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 14:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 14:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 14:06 : player: played "Bosanska Artiljerija.mp3"
+Apr 19 14:06 : player: played "Bosanska Artiljerija.mp3"
+Apr 19 14:07 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 14:07 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 14:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 14:33 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 19:34 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 19:36 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 19:37 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+                                                                  Apr 19 20:01 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Apr 19 20:01 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 20:01 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 20:02 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 20:03 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 20:03 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 20:34 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 20:34 : player: played "Money Game, Pt. 2.mp3"
+Apr 19 20:34 : exception: Not playing
+Apr 19 20:34 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 20:37 : player: played "Voices.mp3_new.mp3"
+Apr 19 20:42 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 20:42 : player: played "Bosanska Artiljerija.mp3"
+Apr 19 21:21 : update: added /Chop Suey!.mp3
+Apr 19 21:21 : update: added /Protect The Land.mp3
+Apr 19 21:21 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 21:23 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 21:23 : update: added /Smells Like Teen Spirit.mp3
+Apr 19 21:27 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 21:28 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 21:28 : player: played "Chop Suey!.mp3"
+Apr 19 21:28 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 21:31 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 19 21:31 : player: played "Boom!.mp3"
+Apr 19 21:32 : exception: Failed to open '/home/raptor8134/Music/Music/Aces High (Live).mp3': No such file or directory
+Apr 19 21:32 : exception: No such playlist
+Apr 19 21:32 : exception: No such directory
+Apr 19 21:32 : exception: No such directory
+Apr 19 21:33 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 21:35 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 21:39 : player: played "Aces High (Live).mp3"
+Apr 19 21:42 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 19 21:42 : player: played "Aces High (Live).mp3"
+Apr 19 21:42 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 09:02 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Apr 20 09:02 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 20 09:02 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 09:03 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 20 10:00 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 20 10:00 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 20 10:00 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 20 10:00 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 10:01 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 20 11:49 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Apr 20 11:49 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 11:49 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 20 14:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 14:06 : player: played "Protect The Land.mp3"
+Apr 20 14:13 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 14:13 : exception: No such directory
+Apr 20 14:13 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM

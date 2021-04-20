@@ -42,7 +42,6 @@ export EDITOR='vim'
 export TERMINAL='termite'
 export XDG_CONFIG_HOME='/home/raptor8134/.config/'
 export PATH='/bin:/usr/bin:/usr/local/bin:/user/local/sbin:/user/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/raptor8134/scripts/:/home/raptor8134/.local/bin/:/home/raptor8134/.cargo/bin:/home/raptor8134/appnativefy/'
-export GH='https://github.com/'
 
 alias sudo="doas"
 alias entry='vim ~/.journal/"$(date +%m-%d-%Y\(%a\))".txt'

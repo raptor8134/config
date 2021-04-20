@@ -221,14 +221,14 @@ bindsym shift+XF86MonBrightnessDown exec xbacklight -dec 1%
 
 # Play/pause/fast forward mpd
 bindsym $mod+p exec mpc toggle
-bindsym $mod+shift+p exec mpc stop
+bindsym $mod+control+p exec mpc stop
 bindsym XF86AudioPlay exec mpc play
 bindsym XF86AudioPause exec mpc pause
 bindsym $mod+bracketright exec mpc next
 bindsym $mod+bracketleft exec mpc prev
 bindsym $mod+shift+bracketright exec mpc seek +0:10
 bindsym $mod+shift+bracketleft exec mpc seek -0:10
-bindsym $mod+ctrl+p exec termite -e ncmpcpp -t ncmpcpp
+bindsym $mod+shift+p exec termite -e ncmpcpp -t ncmpcpp
 exec_always mpc update /
 
 # connect to earbuds
@@ -264,7 +264,8 @@ client.background       #000000
 exec blueman-applet
 exec udiskie -nt
 exec twmnd
-exec discord --start-minimized
+exec discord --start-minimized 
+exec mpd-rpc
 exec sleep 3 && redshift -l $(cweather --location | tr "," ":") -t 6500K:3500K 
 exec_always pkill xbacklight-auto #; nice -n -10 xbacklight-auto -t 3 -m 1
 
