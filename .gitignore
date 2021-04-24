@@ -1,1 +1,5 @@
 ./.git/
+./mpd/database
+./mpd/log
+./mpd/pid
+./mpd/state

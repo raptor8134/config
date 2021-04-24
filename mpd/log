@@ -3947,3 +3947,198 @@ Apr 20 14:06 : player: played "Protect The Land.mp3"
 Apr 20 14:13 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
 Apr 20 14:13 : exception: No such directory
 Apr 20 14:13 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 14:18 : player: played "Walk.mp3"
+Apr 20 14:19 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 14:23 : player: played "Thanatos (From 'Neon Genesis Evangelion').mp3"
+Apr 20 14:50 : exception: No such directory
+Apr 20 16:44 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 16:45 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 16:49 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 20 16:49 : player: played "Don't Tread On Me.mp3"
+Apr 20 16:50 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 16:50 : player: played "Don't Tread On Me.mp3"
+Apr 20 16:50 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 16:52 : player: played "Misato.mp3"
+Apr 20 16:56 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Apr 20 17:06 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 17:09 : player: played "Komm, Süsser Todd.mp3"
+Apr 20 17:15 : player: played "Thanatos (From 'Neon Genesis Evangelion').mp3"
+Apr 20 17:22 : player: played "Everything You Ever Dreamed.mp3"
+Apr 20 17:22 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 17:25 : player: played "&.mp3"
+Apr 20 17:29 : player: played "Ruler of Everything.mp3"
+Apr 20 17:32 : player: played "Turn the Lights Off.mp3"
+Apr 20 17:33 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 17:36 : player: played "The Red Army Is the Strongest.mp3"
+Apr 20 17:37 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 17:42 : player: played "Smells Like Teen Spirit.mp3"
+Apr 20 17:45 : player: played "Fucked with an Anchor.mp3"
+Apr 20 20:38 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 20:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 20 20:40 : player: played "Cowboys from Hell.mp3"
+Apr 20 20:48 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 20:51 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 20:51 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 20:54 : player: played "The Red Army Is the Strongest.mp3"
+Apr 20 20:57 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 21:00 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 21:02 : player: played "Smells Like Teen Spirit.mp3"
+Apr 20 21:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 21:05 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 21:06 : player: played "Fucked with an Anchor.mp3"
+Apr 20 21:06 : player: played "Cowboys from Hell.mp3"
+Apr 20 21:06 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 21:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 21:24 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 20 22:40 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 07:43 : avahi: Client Disconnected, will reconnect shortly
+Apr 21 07:43 : player: played "All Along the Watchtower.mp3"
+Apr 21 08:52 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Apr 21 08:52 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 08:52 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 21 10:55 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 21 10:55 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 21 10:55 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 21 19:41 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 19:44 : player: played "All Along the Watchtower.mp3"
+Apr 21 19:46 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 19:46 : player: played "All Along the Watchtower.mp3"
+Apr 21 19:46 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 19:51 : player: played "Mr. Blue Sky.mp3"
+Apr 21 19:56 : player: played "Smells Like Teen Spirit.mp3"
+Apr 21 20:00 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 20:05 : player: played "The Real Folk Blues.mp3"
+Apr 21 20:09 : player: played "Ruler of Everything.mp3"
+Apr 21 20:12 : player: played "Always Look On the Bright Side of Life.mp3"
+Apr 21 20:17 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 21 20:17 : update: added /Print Money.mp3
+Apr 21 20:17 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 21 20:17 : exception: No such directory
+Apr 21 20:17 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Apr 21 20:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 20:19 : player: played "Print Money.mp3"
+Apr 21 20:19 : exception: No such directory
+Apr 21 20:19 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 20:22 : player: played "The Red Army Is the Strongest.mp3"
+Apr 21 20:25 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Apr 21 20:29 : player: played "Don't Tread On Me.mp3"
+Apr 21 20:33 : player: played "September.mp3"
+Apr 21 20:35 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+                                                                  Apr 21 21:02 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Apr 21 21:02 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 21:02 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 21 21:56 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 21:56 : update: updating /Chop Suey!.mp3
+Apr 21 21:56 : update: updating /Protect The Land.mp3
+Apr 21 21:56 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 21 21:56 : update: updating /Print Money.mp3
+Apr 21 21:56 : update: updating /Fucked with an Anchor.mp3
+Apr 21 21:56 : update: updating /Smells Like Teen Spirit.mp3
+Apr 21 21:56 : update: updating /&.mp3
+Apr 21 21:56 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 21 21:56 : player: played "&.mp3"
+Apr 21 21:57 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 21:59 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 21 21:59 : player: played "Barefoot In The Park.mp3"
+Apr 21 22:14 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 21 22:22 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 21 22:22 : player: played "ППК - Воскрешение.mp3"
+Apr 22 07:43 : avahi: Client Disconnected, will reconnect shortly
+Apr 22 08:51 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Apr 22 08:51 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 08:51 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 10:16 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 10:16 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Apr 22 10:16 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 17:06 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:12 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:15 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:16 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:17 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:18 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:18 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:19 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 17:23 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:23 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:23 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:24 : player: played "Seek & Destroy.mp3"
+Apr 22 17:24 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:24 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:24 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:28 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:28 : player: played "Back In Black.mp3"
+Apr 22 17:28 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:28 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:28 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:28 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:29 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:29 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:29 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:30 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:30 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:31 : player: played "Voices.mp3_new.mp3"
+Apr 22 17:31 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:31 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:32 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:32 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:33 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:33 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:33 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:33 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:33 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:34 : player: played "Highway to Hell.mp3"
+Apr 22 17:35 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:35 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:36 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:36 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:37 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 17:43 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 17:44 : player: played "Aces High (Live).mp3"
+Apr 22 17:49 : player: played "Protect The Land.mp3"
+Apr 22 17:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 17:54 : player: played "Protect The Land.mp3"
+Apr 22 18:00 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 18:00 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 18:03 : player: played "TMABird - Everybody's Circulation.mp3"
+Apr 22 18:13 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 22 18:13 : player: played "Finlandia.mp3"
+Apr 22 18:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 18:20 : player: played "&.mp3"
+Apr 22 18:20 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 18:24 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 18:24 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 22 18:24 : player: played "Turn the Lights Off.mp3"
+Apr 22 18:28 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 18:32 : player: played "Bosanska Artiljerija.mp3"
+Apr 22 18:50 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 18:53 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 18:54 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Apr 22 18:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 18:54 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Apr 22 18:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 18:56 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 19:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 19:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 19:06 : player: played "The Red Army Is the Strongest.mp3"
+Apr 22 19:58 : update: added /Down with the Sickness.mp3
+Apr 22 19:58 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 20:11 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 22 20:11 : update: added /The Mind Electric.mp3
+Apr 22 20:14 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 20:18 : player: played "Down with the Sickness.mp3"
+Apr 22 20:19 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 20:25 : player: played "The Mind Electric.mp3"
+Apr 22 20:26 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 20:28 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 22 20:29 : player: played "Barefoot In The Park.mp3"
+Apr 22 20:32 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Apr 22 22:19 : player: played "Ode to Joy.mp3"
+Apr 22 22:20 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 23 11:51 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 23 11:51 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Apr 23 11:51 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+Apr 23 11:59 : avahi: Client Disconnected, will reconnect shortly
+Apr 23 12:04 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 23 12:04 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Apr 23 12:04 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied

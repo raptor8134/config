@@ -1,0 +1,23 @@
+configuration {
+	modi: "window,drun,ssh,combi";
+	theme: "Monokai.rasi";
+    background: rgba ( 39, 40, 34, 40% );
+	font: "Deja Vu Sans 12";
+	width: 700;
+	lines: 4;
+	combi-modi: "window,drun";
+	show-icons: true;
+	icon-theme: "Adwaita";
+	columns: 3;
+	location: 0; 
+}
+element {
+	orientation: vertical;
+	spacing: 5px;
+}
+element-icon {
+	size: 5ch;
+}
+element-text {
+	horizontal-align: 0.5;
+}
