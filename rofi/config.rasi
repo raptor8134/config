@@ -1,14 +1,14 @@
 configuration {
 	modi: "window,drun,ssh,combi";
 	theme: "Monokai.rasi";
-    background: rgba ( 39, 40, 34, 40% );
-	font: "Deja Vu Sans 12";
-	width: 700;
+	font: "Deja Vu Mono 12";
+	width: 600;
 	lines: 4;
 	combi-modi: "window,drun";
 	show-icons: true;
 	icon-theme: "Adwaita";
 	columns: 3;
+	terminal: "termite";
 	location: 0; 
 }
 element {

@@ -1,4 +1,4 @@
-homedirfile="$(ls -a | egrep '^\.' | egrep -v '(^.git$|^.gitignore$)' | sed 1,2d)"
+homedirfile="$(ls -A | egrep '^\.' | egrep -v '(^.git$|^.gitignore$)'"
 echo $homedirfile
 for x in $homedirfile; do 
 	rm -rf $HOME/$x

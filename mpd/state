@@ -1,8 +1,9 @@
 sw_volume: 100
 audio_device_state:1:My ALSA Device
 audio_device_state:1:Visualizer feed
-state: stop
-current: 2
+state: pause
+current: 20
+time: 67.377000
 random: 0
 repeat: 0
 single: 0
@@ -11,45 +12,32 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Barefoot In The Park.mp3
-1:Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3
-2:Ode to Joy.mp3
-3:Il Vento D'oro.mp3
-4:Always Look On the Bright Side of Life.mp3
-5:Enormous Penis.mp3
-6:The Real Folk Blues.mp3
-7:Mr. Blue Sky.mp3
-8:Turn the Lights Off.mp3
-9:September.mp3
-10:Hooked On a Feeling.mp3
-11:Happy Together.mp3
-12:Bakamitai(Taxi Driver Edition).mp3
-13:Ruler of Everything.mp3
-14:Misato.mp3
-15:Wham Bam Shang-A-Lang.mp3
-16:A Cruel Angel's Thesis (Director's Edit Version).mp3
-17:Everything You Ever Dreamed.mp3
-18:Komm, Süsser Todd.mp3
-19:Barefoot In The Park.mp3
-20:Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3
-21:Ode to Joy.mp3
-22:Il Vento D'oro.mp3
-23:Always Look On the Bright Side of Life.mp3
-24:Enormous Penis.mp3
-25:The Real Folk Blues.mp3
-26:Mr. Blue Sky.mp3
-27:Turn the Lights Off.mp3
-28:September.mp3
-29:Hooked On a Feeling.mp3
-30:Happy Together.mp3
-31:Bakamitai(Taxi Driver Edition).mp3
-32:Ruler of Everything.mp3
-33:Misato.mp3
-34:Wham Bam Shang-A-Lang.mp3
-35:A Cruel Angel's Thesis (Director's Edit Version).mp3
-36:Everything You Ever Dreamed.mp3
-37:Komm, Süsser Todd.mp3
-38:No Woman, No Cry.mp3
-39:Finlandia.mp3
-40:TMABird - Everybody's Circulation.mp3
+0:Tylko jedno w głowie mam (lyrics).mp3
+1:Finlandia.mp3
+2:The Real Folk Blues.mp3
+3:Mr. Blue Sky.mp3
+4:Feel Good Inc.mp3
+5:Turn the Lights Off.mp3
+6:September.mp3
+7:The Mind Electric.mp3
+8:Bakamitai(Taxi Driver Edition).mp3
+9:Seek & Destroy.mp3
+10:Aces High (Live).mp3
+11:Good Day.mp3
+12:Brass Monkey.mp3
+13:Kashmir.mp3
+14:Wham Bam Shang-A-Lang.mp3
+15:Smells Like Teen Spirit.mp3
+16:Fucked with an Anchor.mp3
+17:Peace Sells.mp3
+18:Protect The Land.mp3
+19:Electric Funeral.mp3
+20:A Cruel Angel's Thesis (Director's Edit Version).mp3
+21:Boom!.mp3
+22:Floods.mp3
+23:Chop Suey!.mp3
+24:Toxicity.mp3
+25:Banana Man.mp3
+26:Carry On Wayward Son.mp3
+27:Everybody Wants To Rule the World.mp3
 playlist_end

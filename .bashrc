@@ -8,20 +8,7 @@
 # If logging in on tty1, start X server
 if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then 
 	bluetoothctl power on 
-#	clear
-#	printf "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
-#	figlet -ct "LOADING GRAPHICAL INTERFACE"
-#	i="0"
-#	printf "  "
-#	while [ $i -lt 4 ]; do 
-#		sleep 1 
-#		printf "..........................................................."
-		bluetoothctl connect 1C:52:16:6A:7B:AA &>/dev/null
-#		i=$[$i+1]
-#	done
-#	clear
-	startx && exit
-	#mplayer 
+	startx
 fi
 
 alias ls='ls --color=auto'
@@ -42,6 +29,7 @@ export EDITOR='vim'
 export TERMINAL='termite'
 export XDG_CONFIG_HOME='/home/raptor8134/.config/'
 export PATH='/bin:/usr/bin:/usr/local/bin:/user/local/sbin:/user/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/raptor8134/scripts/:/home/raptor8134/.local/bin/:/home/raptor8134/.cargo/bin:/home/raptor8134/appnativefy/'
+source /etc/profile.d/emscripten.sh
 
 alias sudo="doas"
 alias entry='vim ~/.journal/"$(date +%m-%d-%Y\(%a\))".txt'

@@ -38,6 +38,7 @@
 window {
     background-color: @background;
     border:           1;
+	border-radius:    4;
     padding:          5;
 }
 mainbox {
@@ -79,6 +80,7 @@ element.normal.active {
 element.selected.normal {
     background-color: @selected-normal-background;
     text-color:       @selected-normal-foreground;
+	border-radius:    4px;
 }
 element.selected.urgent {
     background-color: @selected-urgent-background;
