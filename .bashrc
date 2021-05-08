@@ -43,7 +43,4 @@ alias formatoff='printf "\033[0m"'
 alias status='echo -e "`acpi`\n`date`\n`date +%s`"'
 alias status2='clear && while true; do printf %b "`acpi`"   "\n`date`\n`date +%s`" && sleep 1 && printf "\033[0;0H"; done'
 
-eval "$(thefuck --alias)"
-alias shit='fuck'
-alias damn='fuck'
-alias FUCK='sudo $(fc -ln -1)'
+alias please='sudo $(fc -ln -1)'

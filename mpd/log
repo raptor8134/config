@@ -4587,3 +4587,156 @@ May 04 08:43 : avahi: Service 'Music Player @ thinkbook' successfully establishe
 May 04 08:43 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
 May 04 08:43 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
 May 04 09:37 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+May 04 19:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 19:21 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+May 04 19:24 : player: played "Boom!.mp3"
+May 04 19:31 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 19:31 : player: played "Floods.mp3"
+May 04 19:35 : player: played "Chop Suey!.mp3"
+May 04 19:39 : player: played "Toxicity.mp3"
+May 04 19:42 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 19:43 : player: played "Banana Man.mp3"
+May 04 19:46 : player: played "Carry On Wayward Son.mp3"
+May 04 19:47 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 19:51 : player: played "Everybody Wants To Rule the World.mp3"
+May 04 19:51 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 19:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 19:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 20:00 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 04 20:00 : player: played "Asayake.mp3"
+May 04 20:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 20:07 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 20:07 : player: played "Barefoot In The Park.mp3"
+May 04 20:10 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+May 04 20:22 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 20:23 : player: played "Ode to Joy.mp3"
+May 04 22:07 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 04 22:07 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 13:32 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 13:32 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 13:42 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 13:48 : player: played "Always Look On the Bright Side of Life.mp3"
+May 05 13:51 : player: played "Enormous Penis.mp3"
+May 05 13:57 : player: played "The Real Folk Blues.mp3"
+May 05 14:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 14:04 : player: played "The Real Folk Blues.mp3"
+May 05 14:09 : player: played "Mr. Blue Sky.mp3"
+May 05 14:12 : player: played "Turn the Lights Off.mp3"
+May 05 14:15 : player: played "September.mp3"
+May 05 14:19 : player: played "Hooked On a Feeling.mp3"
+May 05 14:22 : player: played "Happy Together.mp3"
+May 05 14:25 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 19:20 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 19:21 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 19:25 : player: played "Ruler of Everything.mp3"
+May 05 19:26 : player: played "Misato.mp3"
+May 05 19:30 : player: played "Wham Bam Shang-A-Lang.mp3"
+May 05 19:34 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+May 05 19:40 : player: played "Everything You Ever Dreamed.mp3"
+May 05 19:48 : player: played "Komm, Süsser Todd.mp3"
+May 05 19:52 : player: played "No Woman, No Cry.mp3"
+May 05 20:01 : player: played "Finlandia.mp3"
+May 05 20:05 : player: played "TMABird - Everybody's Circulation.mp3"
+May 05 20:09 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+May 05 20:10 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 20:10 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+May 05 20:10 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 20:14 : avahi: Client Disconnected, will reconnect shortly
+May 05 20:14 : player: played "The Real Folk Blues.mp3"
+May 05 20:14 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 05 20:14 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 20:14 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 05 22:21 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 05 22:21 : player: played "Mr. Blue Sky.mp3"
+May 06 07:49 : avahi: Client Disconnected, will reconnect shortly
+May 06 07:50 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 06 07:50 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 07:50 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 06 08:24 : avahi: Client Disconnected, will reconnect shortly
+May 06 08:25 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 08:25 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 06 08:25 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 06 17:10 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 17:11 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 17:15 : player: played "Mr. Blue Sky.mp3"
+May 06 17:20 : player: played "Feel Good Inc.mp3"
+May 06 17:23 : player: played "Turn the Lights Off.mp3"
+May 06 17:26 : player: played "September.mp3"
+May 06 17:30 : player: played "The Mind Electric.mp3"
+May 06 17:35 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+May 06 17:42 : player: played "Seek & Destroy.mp3"
+May 06 17:47 : player: played "Aces High (Live).mp3"
+May 06 18:20 : avahi: Client Disconnected, will reconnect shortly
+May 06 18:20 : player: played "Good Day.mp3"
+May 06 18:30 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 06 18:30 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 18:30 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 06 18:45 : avahi: Client Disconnected, will reconnect shortly
+May 06 18:45 : player: played "Good Day.mp3"
+May 06 18:45 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 06 18:45 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 18:45 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 06 20:20 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 20:21 : player: played "Good Day.mp3"
+May 06 20:24 : player: played "Brass Monkey.mp3"
+May 06 20:32 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 20:33 : player: played "Kashmir.mp3"
+May 06 20:36 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 20:36 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 20:37 : player: played "Wham Bam Shang-A-Lang.mp3"
+May 06 20:42 : player: played "Smells Like Teen Spirit.mp3"
+May 06 20:43 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 20:46 : player: played "Fucked with an Anchor.mp3"
+May 06 20:50 : player: played "Peace Sells.mp3"
+May 06 20:56 : player: played "Protect The Land.mp3"
+May 06 21:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 21:03 : player: played "Electric Funeral.mp3"
+May 06 21:07 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+May 06 21:09 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 21:11 : player: played "Boom!.mp3"
+May 06 21:17 : update: added /God Save the Tsar!.mp3
+May 06 21:17 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 06 21:18 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 21:20 : player: played "God Save the Tsar!.mp3"
+May 06 21:20 : update: removing God Save the Tsar!.mp3
+May 06 21:20 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 06 21:20 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 21:21 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 21:25 : update: added /God Save the Tsar!.mp3
+May 06 21:25 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 06 21:26 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 21:29 : player: played "Chop Suey!.mp3"
+May 06 21:33 : player: played "Toxicity.mp3"
+May 06 21:38 : player: played "Asayake.mp3"
+May 06 21:41 : player: played "Money Game, Pt. 2.mp3"
+May 06 21:42 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 06 21:42 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 07:33 : exception: Playlist already exists
+May 07 07:34 : exception: Playlist already exists
+May 07 07:34 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 07:34 : player: played "Midnight Rendezvous.mp3"
+May 07 07:34 : avahi: Client Disconnected, will reconnect shortly
+May 07 07:53 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 07 07:53 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 07:53 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 07 08:26 : avahi: Client Disconnected, will reconnect shortly
+May 07 08:33 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 08:33 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 07 08:33 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 07 14:09 : avahi: Client Disconnected, will reconnect shortly
+May 07 21:00 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 07 21:00 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 21:00 : exception: Failed to open '/home/raptor8134/Music/ytmdl/.mpdignore': Permission denied
+May 07 21:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 21:07 : player: played "Midnight Rendezvous.mp3"
+May 07 21:09 : player: played "Time Limit.mp3"
+May 07 21:16 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 21:16 : exception: Failed to flush filter on "My ALSA Device" (alsa): snd_pcm_writei() failed: Broken pipe
+May 07 21:16 : player: played "Everybody Wants To Rule the World.mp3"
+May 07 21:16 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 21:19 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 21:25 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 21:35 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 07 21:42 : player: played "Finlandia.mp3"
+May 07 21:48 : player: played "The Real Folk Blues.mp3"
+May 07 21:53 : player: played "Mr. Blue Sky.mp3"

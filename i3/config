@@ -211,9 +211,8 @@ bindsym $mod+r mode "resize"
 # Screenshot from printscreen
 bindsym Print exec scrot ~/Pictures/Screenshots/Screenshot_$(date +%m-%d-%Y-%H:%M:%S).png && twmnc -c "Screenshot added at $(date +%m-%d-%y\ %H:%M:%S)" --pos top_center --fn Monospace --fs 15 
  
-bindsym $mod+c exec twmnc -c \"$(calc -q round\(\($(date +%s)-$(date -f .file.txt +%s)\)/86400\) | tr -d '\t') days\" -d 1000 --pos top_center --fs 16
-bindsym $mod+w exec termite -e "vim $HOME/.journal/'$(date +%m-%d-%Y\(%a\))'.txt"
- 
+bindsym $mod+w exec ~/.j.sh 
+
 # Brightness keys
 bindsym XF86MonBrightnessUp exec xbacklight -inc 5% 
 bindsym XF86MonBrightnessDown exec xbacklight -dec 5% 

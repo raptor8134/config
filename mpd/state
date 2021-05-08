@@ -1,9 +1,9 @@
 sw_volume: 100
 audio_device_state:1:My ALSA Device
 audio_device_state:1:Visualizer feed
-state: pause
-current: 20
-time: 67.377000
+state: play
+current: 4
+time: 120.001000
 random: 0
 repeat: 0
 single: 0
@@ -37,7 +37,10 @@ playlist_begin
 22:Floods.mp3
 23:Chop Suey!.mp3
 24:Toxicity.mp3
-25:Banana Man.mp3
-26:Carry On Wayward Son.mp3
-27:Everybody Wants To Rule the World.mp3
+25:Asayake.mp3
+26:Money Game, Pt. 2.mp3
+27:God Save the Tsar!.mp3
+28:Midnight Rendezvous.mp3
+29:Time Limit.mp3
+30:Everybody Wants To Rule the World.mp3
 playlist_end
