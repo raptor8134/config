@@ -55,14 +55,14 @@ padding = 10
 
 [colors]
 # Base16 Snazzy
-# Author: Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# Author: Chawye Hsu ( https://github.com/chawyehsu/base16-snazzy-scheme ) based on Hyper Snazzy Theme ( https://github.com/sindresorhus/hyper-snazzy )
 
 foreground          = #e2e4e5
 foreground_bold     = #e2e4e5
 cursor              = #e2e4e5
 cursor_foreground   = #282a36
 #background          = #282a36
-background = rgba(0,0,0,0.45)
+background = rgba(0,0,0,0.4)
 
 # 16 color space
 

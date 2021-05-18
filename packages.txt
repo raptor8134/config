@@ -1,6 +1,8 @@
 acpi
+adobe-source-han-serif-jp-fonts
 afetch-git
 alacarte
+alacritty
 alsa-utils
 android-file-transfer
 android-tools
@@ -28,7 +30,7 @@ cheese
 chromium
 cjson
 cli-visualizer-git
-cmatrix
+cmatrix-git
 code
 cowsay
 cronie
@@ -36,6 +38,7 @@ cura
 cweather
 cython
 debtap
+dhcpcd
 discord
 dmenu
 dmidecode
@@ -48,7 +51,6 @@ ed
 efibootmgr
 electrum
 emacs
-emscripten
 eog
 evince
 evtest
@@ -61,6 +63,7 @@ figlet
 file
 findutils
 firefox
+firewalld
 flashplayer-standalone-debug
 flashpoint-bin
 flashrom
@@ -113,8 +116,11 @@ i3status
 ideamaker
 imgur-screenshot
 inetutils
+inkscape
 intel-media-driver
 intel-ucode
+ipscan
+iptables-nft
 jre-openjdk
 lib32-openssl-1.0
 libfprint
@@ -144,19 +150,21 @@ meshlab
 mlocate
 mpc
 mpd
-mpd-rich-presence-discord-git
 mpv
 multipath-tools
 musl
+nano
 nautilus
+nbsdgames-git
 ncdu
 ncmpcpp
 nemo
 neofetch
+net-tools
 netctl
 network-manager-applet
 nm-connection-editor
-npm
+nmap
 nss-mdns
 ntp
 openarena
@@ -169,6 +177,7 @@ pacman
 pacman-contrib
 patch
 pavucontrol
+pdftk
 perl-locale-gettext
 pfetch
 picom-jonaburg-git
@@ -181,6 +190,7 @@ qbittorrent
 qemu
 qtile
 qutebrowser
+ranger
 redshift
 rofi
 rust
@@ -189,7 +199,6 @@ scrot
 sed
 sharutils
 sl
-slack-desktop
 slock
 snd-pcsp-dkms
 sox
@@ -199,7 +208,6 @@ tcsh
 termite
 testdisk
 texinfo
-thefuck
 thinkfan
 tidy
 tilp
@@ -288,4 +296,5 @@ youtube-dl
 ytmdl
 zip
 zoom
+zork1
 zsh
