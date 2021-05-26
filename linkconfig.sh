@@ -7,6 +7,7 @@ for x in $homedirfile; do
 	echo Linked $x to $HOME/$x
 done
 dotconfigs="$(ls -d */ | tr -d '/')"
+dotconfigs="$dotconfigs $(ls *.conf *.yaml *rc)"
 for x in $dotconfigs; do
 	rm -rf $XDG_CONFIG_HOME/$x
 	echo Removed $XDG_CONFIG_HOME$x
