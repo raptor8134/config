@@ -43,6 +43,7 @@ discord
 dmenu
 dmidecode
 dnsmasq
+doge
 dos2unix
 drawing
 easystroke
@@ -125,6 +126,7 @@ jre-openjdk
 lib32-openssl-1.0
 libfprint
 libinput-gestures
+librecad
 libreoffice-fresh
 libsixel
 libtool
@@ -185,7 +187,10 @@ pkgconf
 polybar
 printrun
 pulseaudio
+python-conda-build
 python-pip
+python2-gimp
+python2-typing
 qbittorrent
 qemu
 qtile
@@ -218,6 +223,7 @@ torbrowser-launcher
 torsocks
 tree
 ttf-dejavu
+ttf-ms-fonts
 ttf-nerd-fonts-symbols
 ttf-unifont-csur
 twmn-git

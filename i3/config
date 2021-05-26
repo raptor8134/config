@@ -10,14 +10,14 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 # List of background images
-#set $bgimage /home/raptor8134/Pictures/beach.png
+set $bgimage /home/raptor8134/Pictures/beach.png
 #set $bgimage /home/raptor8134/Documents/blender/orbit.png
 #set $bgimage /home/raptor8134/Documents/blender/orbit2.png
 #set $bgimage /usr/share/backgrounds/Mandelbrot*.jpg
 #set $bgimage /usr/share/backgrounds/archlinux/archwave.png
 #set $bgimage /usr/share/backgrounds/archlinux/archwaveinv.png
 #set $bgimage /usr/share/backgrounds/archlinux/landscape.jpg
-set $bgimage /home/raptor8134/Pictures/sunset.png
+#set $bgimage /home/raptor8134/Pictures/sunset.png
 
 exec_always xmodmap ~/.Xmodmap
 set $mod Mod4
@@ -272,6 +272,7 @@ exec_always pkill xbacklight-auto; xbacklight-auto -t 3 -m 1
 for_window [title="^Network Connections$"] floating enable
 for_window [title="^htop$"] floating enable
 for_window [title="^ncmpcpp$"] floating enable
+for_window [title="^calc$"] floating enable
 
 # To do list
 bindsym $mod+m exec twmnc -t "To do " -c \"$(printf \" \" && cat ~/todo.txt | perl -pe \"s/\n/\  ~  /g\" | sed 's/.\{4\}$//')\" --pos top_center --fn Monospace --fs 15 --fg white --bg black -d 5000 -s 50 
