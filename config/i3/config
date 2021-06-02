@@ -17,7 +17,7 @@ set $bgimage /home/raptor8134/Pictures/beach.png
 #set $bgimage /usr/share/backgrounds/archlinux/archwave.png
 #set $bgimage /usr/share/backgrounds/archlinux/archwaveinv.png
 #set $bgimage /usr/share/backgrounds/archlinux/landscape.jpg
-#set $bgimage /home/raptor8134/Pictures/sunset.png
+set $bgimage /home/raptor8134/Pictures/sunset.png
 
 exec_always xmodmap ~/.Xmodmap
 set $mod Mod4
@@ -266,7 +266,7 @@ exec twmnd
 exec discord --start-minimized 
 exec mpd-rpc
 exec sleep 3 && redshift -l $(cweather -l | tr "," ":") -t 6500K:3500K 
-exec_always pkill xbacklight-auto; xbacklight-auto -t 3 -m 1
+#exec_always pkill xbacklight-auto; xbacklight-auto -t 3 -m 1
 
 # make certain windows always floating
 for_window [title="^Network Connections$"] floating enable

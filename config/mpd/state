@@ -1,0 +1,78 @@
+sw_volume: 32
+audio_device_state:1:My ALSA Device
+audio_device_state:1:Stream to phone
+audio_device_state:1:Visualizer feed
+state: play
+current: 0
+time: 66.694000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:2112.mp3
+1:Aces High (Live).mp3
+2:A Cruel Angel's Thesis (Director's Edit Version).mp3
+3:Always Look On the Bright Side of Life.mp3
+4:Asayake.mp3
+5:Bakamitai(Taxi Driver Edition).mp3
+6:Banana Man.mp3
+7:Barefoot In The Park.mp3
+8:Boom!.mp3
+9:Bosanska Artiljerija.mp3
+10:Brass Monkey.mp3
+11:Cannibal.mp3
+12:Carry On Wayward Son.mp3
+13:Chameleon.mp3
+14:Chop Suey!.mp3
+15:Cowboys from Hell.mp3
+16:Crazy Train.mp3
+17:Don't Stop Me Now.mp3
+18:Electric Funeral.mp3
+19:Enormous Penis.mp3
+20:Everybody Wants To Rule the World.mp3
+21:Feel Good Inc.mp3
+22:Finlandia.mp3
+23:Floods.mp3
+24:Fortunate Son.mp3
+25:Fucked with an Anchor.mp3
+26:God Save the Tsar!.mp3
+27:Good Day.mp3
+28:Happy Together.mp3
+29:Hooked On a Feeling.mp3
+30:Immigrant Song.mp3
+31:Kashmir.mp3
+32:Lose Yourself.mp3
+33:Low Rider.mp3
+34:Midnight Rendezvous.mp3
+35:Money Game, Pt. 2.mp3
+36:Mr. Blue Sky.mp3
+37:Peace Sells.mp3
+38:Print Money.mp3
+39:Protect The Land.mp3
+40:Rise Above.mp3
+41:Running in the 90's.mp3
+42:Seek & Destroy.mp3
+43:September.mp3
+44:Shoot to Thrill.mp3
+45:Smells Like Teen Spirit.mp3
+46:Space Lion.mp3
+47:Sunday Best.mp3
+48:Swallowing Dust.mp3
+49:Sweet Home Alabama.mp3
+50:Take Five.mp3
+51:The Mind Electric.mp3
+52:The Real Folk Blues.mp3
+53:The Red Army Is the Strongest.mp3
+54:Time Limit.mp3
+55:Toxicity.mp3
+56:Turn the Lights Off.mp3
+57:TV Party.mp3
+58:Tylko jedno w głowie mam (lyrics).mp3
+59:Walk.mp3
+60:Wham Bam Shang-A-Lang.mp3
+61:White Winter Hymnal.mp3
+playlist_end

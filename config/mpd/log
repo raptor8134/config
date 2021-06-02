@@ -5424,3 +5424,1259 @@ May 26 08:52 : player: played "Sweet Home Alabama.mp3"
 May 26 08:53 : avahi: Service 'Music Player @ thinkbook' successfully established.
 May 26 08:53 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
 May 26 08:59 : player: played "Sweet Home Alabama.mp3"
+May 26 12:15 : avahi: Client Disconnected, will reconnect shortly
+May 26 22:12 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 26 22:12 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 07:39 : avahi: Client Disconnected, will reconnect shortly
+May 27 13:22 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 27 13:22 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 15:15 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 15:15 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 15:16 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 15:20 : player: played "Sweet Home Alabama.mp3"
+May 27 15:28 : player: played "TV Party.mp3"
+May 27 15:30 : player: played "Sunday Best.mp3"
+May 27 15:34 : player: played "Banana Man.mp3"
+May 27 20:46 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 20:49 : update: updating /Swallowing Dust.mp3
+May 27 20:52 : player: played "Swallowing Dust.mp3"
+May 27 20:56 : player: played "Always Look On the Bright Side of Life.mp3"
+May 27 20:59 : player: played "Carry On Wayward Son.mp3"
+May 27 21:03 : player: played "Good Day.mp3"
+May 27 21:30 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 21:32 : player: played "Hooked On a Feeling.mp3"
+May 27 21:35 : player: played "Bosanska Artiljerija.mp3"
+May 27 21:39 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+May 27 21:44 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 21:44 : player: played "Cannibal.mp3"
+May 28 17:21 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 28 17:21 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 28 22:35 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 28 22:39 : player: played "Cannibal.mp3"
+May 28 22:47 : update: added /White Winter Hymnal.mp3
+May 28 23:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 28 23:24 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 28 23:26 : player: played "Happy Together.mp3"
+May 28 23:28 : player: played "Print Money.mp3"
+May 28 23:32 : player: played "Smells Like Teen Spirit.mp3"
+May 28 23:36 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 28 23:37 : player: played "Everybody Wants To Rule the World.mp3"
+May 28 23:45 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 15:00 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 17:15 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 17:35 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 17:37 : player: played "Always Look On the Bright Side of Life.mp3"
+May 29 17:52 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 17:57 : player: played "Sweet Home Alabama.mp3"
+May 29 18:02 : player: played "TV Party.mp3"
+May 29 18:18 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:19 : player: played "Sunday Best.mp3"
+May 29 18:22 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:24 : player: played "Banana Man.mp3"
+May 29 18:24 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:29 : player: played "Swallowing Dust.mp3"
+May 29 18:32 : player: played "The Red Army Is the Strongest.mp3"
+May 29 18:35 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+May 29 18:37 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:37 : player: played "Swallowing Dust.mp3"
+May 29 18:37 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 18:41 : player: played "Tank!.mp3"
+May 29 18:45 : player: played "Chameleon.mp3"
+May 29 18:50 : player: played "Giant Steps.mp3"
+May 29 20:40 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 20:41 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 20:43 : player: played "Asayake.mp3"
+May 29 21:18 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 22:51 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 22:51 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 22:52 : player: played "Midnight Rendezvous.mp3"
+May 29 23:12 : update: added /Low Rider.mp3
+May 30 12:40 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 30 12:40 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 30 12:43 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 30 12:47 : player: played "Swear.mp3"
+May 30 12:52 : player: played "Take Me.mp3"
+May 30 12:56 : player: played "Tears Of The Star.mp3"
+May 30 12:59 : player: played "Time Limit.mp3"
+May 30 15:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 30 16:45 : avahi: Client Disconnected, will reconnect shortly
+May 30 16:45 : player: played "Domino Line.mp3"
+May 30 16:46 : avahi: Service 'Music Player @ thinkbook' successfully established.
+May 30 16:46 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 30 20:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 30 20:18 : player: played "Domino Line.mp3"
+May 30 20:23 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 30 20:23 : player: played "Take Five.mp3"
+May 30 20:25 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 30 20:29 : player: played "Low Rider.mp3"
+May 30 20:31 : player: played "Sunday Best.mp3"
+May 30 20:37 : player: played "Swallowing Dust.mp3"
+May 30 20:39 : player: played "Enormous Penis.mp3"
+Jun 01 10:56 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 11:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 11:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 11:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 11:07 : player: played "Everybody Wants To Rule the World.mp3"
+Jun 01 11:12 : player: played "Lose Yourself.mp3"
+Jun 01 11:17 : player: played "Sweet Home Alabama.mp3"
+Jun 01 11:19 : player: played "Rise Above.mp3"
+Jun 01 11:25 : player: played "Take Five.mp3"
+Jun 01 11:30 : player: played "Mr. Blue Sky.mp3"
+Jun 01 11:32 : player: played "White Winter Hymnal.mp3"
+Jun 01 11:36 : player: played "Cannibal.mp3"
+Jun 01 11:40 : player: played "Smells Like Teen Spirit.mp3"
+Jun 01 11:41 : player: played "Protect The Land.mp3"
+Jun 01 11:42 : config: option 'password' on line 232 was not recognized
+Jun 01 11:42 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 11:42 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 11:42 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 11:42 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 11:44 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 11:53 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 11:57 : player: played "Protect The Land.mp3"
+Jun 01 12:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:03 : exception: No such directory
+Jun 01 12:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:04 : player: played "http://192.168.0.144:8000"
+Jun 01 12:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:11 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:12 : player: played "Carry On Wayward Son.mp3"
+Jun 01 12:12 : config: option 'password' on line 232 was not recognized
+Jun 01 12:12 : exception: Failed to enable output "Stream to phone" (httpd); Failed to bind to '[::]:6600'; Failed to bind socket: Address already in use
+Jun 01 12:12 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 12:12 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:12 : exception: Failed to enable output "Stream to phone" (httpd); Failed to bind to '[::]:6600'; Failed to bind socket: Address already in use
+Jun 01 12:12 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:14 : player: played "Carry On Wayward Son.mp3"
+Jun 01 12:14 : exception: Failed to enable output "Stream to phone" (httpd); Failed to bind to '[::]:6600'; Failed to bind socket: Address already in use
+Jun 01 12:16 : player: played "Fortunate Son.mp3"
+Jun 01 12:16 : config: option 'password' on line 232 was not recognized
+Jun 01 12:16 : exception: Failed to enable output "Stream to phone" (httpd); Failed to bind to '0.0.0.0:6600'; Failed to bind socket: Address already in use
+Jun 01 12:16 : exception: Failed to enable output "Stream to phone" (httpd); Failed to bind to '0.0.0.0:6600'; Failed to bind socket: Address already in use
+Jun 01 12:16 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:16 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 12:17 : player: played "Fortunate Son.mp3"
+Jun 01 12:17 : config: option 'password' on line 232 was not recognized
+Jun 01 12:17 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 12:18 : player: played "Fortunate Son.mp3"
+Jun 01 12:18 : config: option 'password' on line 232 was not recognized
+Jun 01 12:18 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 12:18 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:18 : config: option 'password' on line 232 was not recognized
+Jun 01 12:18 : exception: Failed to enable output "Stream to phone" (httpd); Failed to bind to '0.0.0.0:8000'; Failed to bind socket: Address already in use
+Jun 01 12:18 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 12:18 : player: played "Fortunate Son.mp3"
+Jun 01 12:19 : avahi: Failed to add service _mpd._tcp: Local name collision
+Jun 01 12:19 : config: option 'password' on line 232 was not recognized
+Jun 01 12:19 : exception: Failed to enable output "Stream to phone" (httpd); Failed to bind to '0.0.0.0:8000'; Failed to bind socket: Address already in use
+Jun 01 12:21 : exception: Failed to commit /home/raptor8134/.config/mpd/state: File exists
+Jun 01 12:21 : player: played "Fortunate Son.mp3"
+Jun 01 12:21 : player: played "Fortunate Son.mp3"
+Jun 01 12:21 : config: option 'password' on line 232 was not recognized
+Jun 01 12:21 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 12:22 : player: played "Fortunate Son.mp3"
+Jun 01 12:22 : config: option 'password' on line 232 was not recognized
+Jun 01 12:22 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 12:22 : player: played "Fortunate Son.mp3"
+Jun 01 12:22 : config: option 'password' on line 232 was not recognized
+Jun 01 12:22 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 12:22 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 12:23 : player: played "Fortunate Son.mp3"
+Jun 01 12:23 : config: option 'password' on line 232 was not recognized
+Jun 01 12:23 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 12:24 : player: played "Fortunate Son.mp3"
+Jun 01 12:24 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:25 : exception: No such directory
+Jun 01 12:25 : exception: Failed to decode http://127.0.0.1:8000; CURL failed: Empty reply from server
+Jun 01 12:25 : player: played "http://127.0.0.1:8000"
+Jun 01 12:25 : exception: Failed to decode http://127.0.0.1:8000; CURL failed: Empty reply from server
+Jun 01 12:25 : player: played "http://127.0.0.1:8000"
+Jun 01 12:31 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:36 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:39 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 12:56 : player: played "&.mp3"
+Jun 01 12:56 : config: option 'password' on line 232 was not recognized
+Jun 01 12:56 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 12:57 : player: played "&.mp3"
+Jun 01 12:57 : config: option 'password' on line 232 was not recognized
+Jun 01 12:57 : exception: Failed to enable output "Stream to phone" (httpd); Failed to bind to '72.251.169.58:8000'; Failed to bind socket: Cannot assign requested address
+Jun 01 12:57 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 13:01 : player: played "&.mp3"
+Jun 01 13:01 : config: option 'password' on line 232 was not recognized
+Jun 01 13:01 : exception: Failed to enable output "Stream to phone" (httpd); Failed to bind to '72.251.169.58:8000'; Failed to bind socket: Cannot assign requested address
+Jun 01 13:01 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 13:01 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:05 : player: played "&.mp3"
+Jun 01 13:05 : config: option 'password' on line 232 was not recognized
+Jun 01 13:05 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 13:06 : player: played "&.mp3"
+Jun 01 13:06 : config: option 'password' on line 232 was not recognized
+Jun 01 13:06 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 13:06 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 13:25 : player: played "&.mp3"
+Jun 01 13:25 : config: option 'password' on line 232 was not recognized
+Jun 01 13:25 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 13:26 : client: [1] malformed command "GET / HTTP/1.1"
+Jun 01 13:30 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:30 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:32 : httpd_output: malformed request line from client
+Jun 01 13:46 : httpd_output: malformed request line from client
+Jun 01 13:46 : httpd_output: malformed request line from client
+Jun 01 13:48 : exception: No such directory
+Jun 01 13:48 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:48 : httpd_output: malformed request line from client
+Jun 01 13:48 : exception: Failed to decode https://0.0.0.0:8000; CURL failed: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to 0.0.0.0:8000
+Jun 01 13:48 : player: played "https://0.0.0.0:8000"
+Jun 01 13:48 : exception: Failed to decode https://0.0.0.0:8000; CURL failed: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to 0.0.0.0:8000
+Jun 01 13:49 : exception: No such directory
+Jun 01 13:49 : exception: No such directory
+Jun 01 13:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 13:49 : player: played "Barefoot In The Park.mp3"
+Jun 01 13:49 : exception: Not playing
+Jun 01 13:50 : httpd_output: malformed request line from client
+Jun 01 13:50 : httpd_output: malformed request line from client
+Jun 01 13:53 : httpd_output: malformed request line from client
+Jun 01 13:53 : httpd_output: malformed request line from client
+Jun 01 13:53 : httpd_output: malformed request line from client
+Jun 01 13:53 : client: [40] malformed command ""
+Jun 01 13:53 : client: [41] malformed command "GET / HTTP/1.1"
+Jun 01 13:53 : client: [42] malformed command "GET /favicon.ico HTTP/1.1"
+Jun 01 13:54 : httpd_output: malformed request line from client
+Jun 01 13:54 : httpd_output: malformed request line from client
+Jun 01 13:54 : httpd_output: malformed request line from client
+Jun 01 13:58 : config: option 'password' on line 232 was not recognized
+Jun 01 13:58 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 13:59 : config: option 'password' on line 232 was not recognized
+Jun 01 13:59 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 13:59 : config: option 'password' on line 232 was not recognized
+Jun 01 13:59 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 14:03 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:03 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:05 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:11 : player: played "Barefoot In The Park.mp3"
+Jun 01 14:11 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:26 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:30 : player: played "Aces High (Live).mp3"
+Jun 01 14:34 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Jun 01 14:34 : config: option 'password' on line 232 was not recognized
+Jun 01 14:34 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:34 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:34 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 14:35 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Jun 01 14:35 : player: played "Always Look On the Bright Side of Life.mp3"
+Jun 01 14:35 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:35 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:35 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 14:35 : player: played "Always Look On the Bright Side of Life.mp3"
+Jun 01 14:35 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:35 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:35 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 14:38 : player: played "Always Look On the Bright Side of Life.mp3"
+Jun 01 14:38 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:38 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:38 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 14:38 : player: played "Always Look On the Bright Side of Life.mp3"
+Jun 01 14:38 : player: played "Asayake.mp3"
+Jun 01 14:38 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:38 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:38 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 14:39 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:40 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:41 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:42 : httpd_output: malformed request line from client
+Jun 01 14:42 : player: played "Asayake.mp3"
+Jun 01 14:42 : config: option 'password' on line 232 was not recognized
+Jun 01 14:42 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:42 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 14:43 : player: played "Asayake.mp3"
+Jun 01 14:43 : avahi: Initializing interface
+Jun 01 14:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 14:43 : avahi: Client changed to state 2
+Jun 01 14:43 : avahi: Client is RUNNING
+Jun 01 14:43 : avahi: Registering service _mpd._tcp/Music Player @ thinkbook
+Jun 01 14:43 : avahi: Service group changed to state 0
+Jun 01 14:43 : avahi: Service group is UNCOMMITED
+Jun 01 14:43 : state_file: Loading state file /home/raptor8134/.config/mpd/state
+Jun 01 14:43 : playlist: queue song 5:"Bakamitai(Taxi Driver Edition).mp3"
+Jun 01 14:43 : decoder_thread: probing plugin mad
+Jun 01 14:43 : config: option 'password' on line 232 was not recognized
+Jun 01 14:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 14:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 14:43 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:43 : avahi: Service group changed to state 1
+Jun 01 14:43 : avahi: Service group is REGISTERING
+Jun 01 14:43 : decoder: audio_format=44100:24:2, seekable=true
+Jun 01 14:43 : avahi: Service group changed to state 2
+Jun 01 14:43 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 14:43 : client: [0] opened from 127.0.0.1:39806
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "currentsong"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [1] opened from [::1]:39376
+Jun 01 14:43 : client: [1] process command "status"
+Jun 01 14:43 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:43 : client: [1] command returned 0
+Jun 01 14:43 : client: [1] process command "play"
+Jun 01 14:43 : alsa_output: opened default type=IOPLUG
+Jun 01 14:43 : alsa_output: buffer: size=48..524288 time=1088..11888617
+Jun 01 14:43 : alsa_output: period: size=16..174763 time=362..3962880
+Jun 01 14:43 : alsa_output: default period_time = buffer_time/4 = 500000/4 = 125000
+Jun 01 14:43 : alsa_output: format=S24_LE (Signed 24 bit Little Endian)
+Jun 01 14:43 : alsa_output: buffer_size=22050 period_size=5512
+Jun 01 14:43 : output: opened "My ALSA Device" (alsa) audio_format=44100:24:2
+Jun 01 14:43 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:43 : output: opened "Stream to phone" (httpd) audio_format=44100:f:1
+Jun 01 14:43 : output: converting in=44100:24:2 -> f=44100:24:2 -> out=44100:f:1
+Jun 01 14:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 14:43 : output: opened "Visualizer feed" (fifo) audio_format=44100:16:2
+Jun 01 14:43 : output: converting in=44100:24:2 -> f=44100:24:2 -> out=44100:16:2
+Jun 01 14:43 : client: [1] command returned 0
+Jun 01 14:43 : client: [1] process command list
+Jun 01 14:43 : client: process command "status"
+Jun 01 14:43 : client: command returned 0
+Jun 01 14:43 : client: process command "currentsong"
+Jun 01 14:43 : client: command returned 0
+Jun 01 14:43 : client: [1] process command list returned 0
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "status"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "status"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "currentsong"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [1] closed
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "status"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "currentsong"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "status"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "currentsong"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "status"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "currentsong"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [2] opened from [::1]:39378
+Jun 01 14:43 : client: [2] process command "status"
+Jun 01 14:43 : client: [2] command returned 0
+Jun 01 14:43 : client: [2] process command "pause "1""
+Jun 01 14:43 : output: closed "Visualizer feed" (fifo)
+Jun 01 14:43 : client: [2] command returned 0
+Jun 01 14:43 : client: [2] process command list
+Jun 01 14:43 : client: process command "status"
+Jun 01 14:43 : client: command returned 0
+Jun 01 14:43 : client: process command "currentsong"
+Jun 01 14:43 : client: command returned 0
+Jun 01 14:43 : client: [2] process command list returned 0
+Jun 01 14:43 : output: closed "My ALSA Device" (alsa)
+Jun 01 14:43 : client: [2] closed
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "status"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "currentsong"
+Jun 01 14:43 : client: [0] command returned 0
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:43 : client: [0] process command "idle"
+Jun 01 14:43 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : state_file: Saving state file /home/raptor8134/.config/mpd/state
+Jun 01 14:44 : avahi: Shutting down interface
+Jun 01 14:44 : player: played "Asayake.mp3"
+Jun 01 14:44 : output: closed "Stream to phone" (httpd)
+Jun 01 14:44 : fifo_output: Removing FIFO "/tmp/mpd.fifo"
+Jun 01 14:44 : avahi: Initializing interface
+Jun 01 14:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 14:44 : avahi: Client changed to state 2
+Jun 01 14:44 : avahi: Client is RUNNING
+Jun 01 14:44 : avahi: Registering service _mpd._tcp/Music Player @ thinkbook
+Jun 01 14:44 : avahi: Service group changed to state 0
+Jun 01 14:44 : avahi: Service group is UNCOMMITED
+Jun 01 14:44 : state_file: Loading state file /home/raptor8134/.config/mpd/state
+Jun 01 14:44 : playlist: queue song 5:"Bakamitai(Taxi Driver Edition).mp3"
+Jun 01 14:44 : decoder_thread: probing plugin mad
+Jun 01 14:44 : config: option 'password' on line 232 was not recognized
+Jun 01 14:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 14:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 14:44 : decoder: audio_format=44100:24:2, seekable=true
+Jun 01 14:44 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:44 : avahi: Service group changed to state 1
+Jun 01 14:44 : avahi: Service group is REGISTERING
+Jun 01 14:44 : client: [0] opened from 127.0.0.1:39820
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : avahi: Service group changed to state 2
+Jun 01 14:44 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "currentsong"
+Jun 01 14:44 : client: [0] command returned 0
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : client: [0] process command "idle"
+Jun 01 14:44 : client: [0] command returned 1
+Jun 01 14:44 : state_file: Saving state file /home/raptor8134/.config/mpd/state
+Jun 01 14:44 : avahi: Shutting down interface
+Jun 01 14:44 : player: played "Asayake.mp3"
+Jun 01 14:44 : fifo_output: Removing FIFO "/tmp/mpd.fifo"
+Jun 01 14:48 : config: option 'password' on line 232 was not recognized
+Jun 01 14:48 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:48 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 14:48 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 14:51 : player: played "Asayake.mp3"
+Jun 01 14:51 : config: option 'password' on line 232 was not recognized
+Jun 01 14:51 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 14:51 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 15:16 : player: played "Asayake.mp3"
+Jun 01 15:16 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 15:16 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 15:45 : player: played "Asayake.mp3"
+Jun 01 15:45 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 15:45 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 15:47 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 15:47 : player: played "Asayake.mp3"
+Jun 01 15:47 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 15:47 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 15:49 : player: played "Asayake.mp3"
+Jun 01 15:52 : config: option 'password' on line 232 was not recognized
+Jun 01 15:52 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 15:52 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 15:53 : player: played "Asayake.mp3"
+Jun 01 15:53 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 15:53 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 15:53 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 15:55 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 15:55 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 15:55 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 15:55 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 15:56 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 15:57 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 15:57 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 15:59 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 15:59 : exception: Failed to open audio output
+Jun 01 15:59 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 16:01 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 16:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:05 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:05 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:07 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:07 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:08 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:09 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:10 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:10 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:12 : player: played "Asayake.mp3"
+Jun 01 16:13 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:13 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:13 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:14 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Jun 01 16:15 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:15 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:17 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Jun 01 16:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:18 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:19 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 16:21 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Jun 01 16:21 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 16:21 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 16:22 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:22 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:23 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:23 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 16:23 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:23 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Jun 01 16:23 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 16:23 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:23 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 16:27 : player: played "Banana Man.mp3"
+Jun 01 16:29 : player: played "Banana Man.mp3"
+Jun 01 16:30 : player: played "Banana Man.mp3"
+Jun 01 16:31 : player: played "Banana Man.mp3"
+Jun 01 16:31 : player: played "Banana Man.mp3"
+Jun 01 16:32 : player: played "Always Look On the Bright Side of Life.mp3"
+Jun 01 16:32 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:32 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 16:33 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 16:33 : player: played "Always Look On the Bright Side of Life.mp3"
+Jun 01 16:33 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 16:33 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 16:39 : player: played "Always Look On the Bright Side of Life.mp3"
+Jun 01 16:39 : player: played "Always Look On the Bright Side of Life.mp3"
+Jun 01 16:41 : player: played "Tank!.mp3"
+Jun 01 16:45 : player: played "Tank!.mp3"
+Jun 01 16:50 : player: played "Chameleon.mp3"
+Jun 01 16:57 : player: played "Space Lion.mp3"
+Jun 01 17:02 : player: played "Giant Steps.mp3"
+Jun 01 17:07 : player: played "Asayake.mp3"
+Jun 01 17:09 : player: played "Midnight Rendezvous.mp3"
+Jun 01 18:25 : player: played "Midnight Rendezvous.mp3"
+Jun 01 18:25 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 18:25 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 18:28 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 18:28 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 18:28 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 18:28 : player: played "Midnight Rendezvous.mp3"
+Jun 01 18:28 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Jun 01 18:28 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Jun 01 18:28 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 18:32 : player: played "Midnight Rendezvous.mp3"
+Jun 01 18:39 : player: played "Swear.mp3"
+Jun 01 21:47 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 21:47 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 21:50 : player: played "Take Me.mp3"
+Jun 01 21:55 : player: played "Tears Of The Star.mp3"
+Jun 01 21:58 : player: played "Time Limit.mp3"
+Jun 01 22:05 : player: played "Domino Line.mp3"
+Jun 01 22:10 : player: played "Take Five.mp3"
+Jun 01 22:24 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 22:24 : player: played "Tank!.mp3"
+Jun 01 22:24 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
