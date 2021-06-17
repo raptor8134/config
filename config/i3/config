@@ -17,7 +17,7 @@ set $bgimage /home/raptor8134/Pictures/beach.png
 #set $bgimage /usr/share/backgrounds/archlinux/archwave.png
 #set $bgimage /usr/share/backgrounds/archlinux/archwaveinv.png
 #set $bgimage /usr/share/backgrounds/archlinux/landscape.jpg
-set $bgimage /home/raptor8134/Pictures/sunset.png
+#set $bgimage /home/raptor8134/Pictures/sunset.png
 
 exec_always xmodmap ~/.Xmodmap
 set $mod Mod4
@@ -218,6 +218,8 @@ bindsym XF86MonBrightnessUp exec xbacklight -inc 5%
 bindsym XF86MonBrightnessDown exec xbacklight -dec 5% 
 bindsym shift+XF86MonBrightnessUp exec xbacklight -inc 1% 
 bindsym shift+XF86MonBrightnessDown exec xbacklight -dec 1% 
+bindsym ctrl+XF86MonBrightnessUp exec "pkill xbacklight-auto; xbacklight-auto -t 3 -m 1" 
+bindsym ctrl+XF86MonBrightnessDown exec pkill xbacklight-auto 
 
 # Play/pause/fast forward mpd
 bindsym $mod+p exec mpc toggle
@@ -233,9 +235,9 @@ exec_always mpc update /
 
 # connect to earbuds
 exec_always bluetoothctl power on
-bindsym $mod+b exec bluetoothctl connect 1C:52:16:6A:7B:AA
-bindsym $mod+shift+b exec bluetoothctl disconnect 1C:52:16:6A:7B:AA
-bindsym $mod+ctrl+b exec earbuds.sh
+bindsym $mod+b exec bluetoothctl connect 1C:52:16:6A:7B:AA || bluetoothctl connect E8:07:BF:11:7D:EF
+bindsym $mod+shift+b exec bluetoothctl disconnect $(~/scripts/activedevice.sh --device)
+bindsym $mod+ctrl+b  exec termite -e "/home/raptor8134/scripts/earbuds.sh && exit" -t htop
 
 # compositor, wallpapers, polybar
 exec_always feh --bg-center $bgimage 
@@ -265,20 +267,20 @@ exec udiskie -nt
 exec twmnd
 exec discord --start-minimized 
 exec mpd-rpc
-exec sleep 3 && redshift -l $(cweather -l | tr "," ":") -t 6500K:3500K 
+exec_always pkill redshift; sleep 4; redshift -Pl $(cweather -l | tr "," ":") -t 7500K:5500K 
 #exec_always pkill xbacklight-auto; xbacklight-auto -t 3 -m 1
 
 # make certain windows always floating
 for_window [title="^Network Connections$"] floating enable
 for_window [title="^htop$"] floating enable
+for_window [title="^bpytop$"] floating enable
 for_window [title="^ncmpcpp$"] floating enable
 for_window [title="^calc$"] floating enable
 
 # To do list
-bindsym $mod+m exec twmnc -t "To do " -c \"$(printf \" \" && cat ~/todo.txt | perl -pe \"s/\n/\  ~  /g\" | sed 's/.\{4\}$//')\" --pos top_center --fn Monospace --fs 15 --fg white --bg black -d 5000 -s 50 
+bindsym $mod+m exec twmnc -t "To do " -c \"$(cat ~/todo.txt | perl -pe \"s/\n/\  ~  /g\" | sed 's/.\{4\}$//')\" --pos top_center --fn Monospace --fs 16 --fg white --bg black -d 5000 -s 40
 
 # Alt-tabbing, swipe gestures, and ESC
 bindsym Mod1+Tab exec i3-msg workspace back_and_forth
-exec libinput-gestures-setup start
-exec_always libinput-gestures-setup restart
+exec_always libinput-gestures
 #bindcode 66  --release exec xdotool key Escape

@@ -1,7 +1,8 @@
 :runtime defaults.vim
 :set tabstop=4
 :set shiftwidth=4
-:set number linebreak 
+:set number
+:set linebreak 
 
 " alacritty
 :set ttymouse=sgr
