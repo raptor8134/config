@@ -40,6 +40,7 @@ window {
     border:           1;
 	border-radius:    4;
     padding:          5;
+	width: 600px;
 }
 mainbox {
     border:  0;
@@ -60,10 +61,21 @@ listview {
     spacing:      2px ;
     scrollbar:    true;
     padding:      2px 0px 0px ;
+	lines: 4;
+	columns: 3;
 }
 element {
     border:  0;
-    padding: 1px ;
+    padding: 1px; 
+	orientation: vertical;
+	spacing: 5px;
+}
+element-icon {
+	size: 5ch;
+	horizontal-align: 0.5;
+}
+element-text {
+	horizontal-align: 0.5;
 }
 element.normal.normal {
     background-color: @normal-background;

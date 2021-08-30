@@ -64,7 +64,7 @@
                     (edit-active "true")
                     (current-data "2. Hardness 100"))))
         (book
-            (position 705)
+            (position 669)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style automatic)

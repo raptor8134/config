@@ -3,5 +3,6 @@
 (palette "Color History")
 (font "Impact Condensed")
 (letter-spacing -1)
+(box-mode fixed)
 
 # end of gimp-text-tool options

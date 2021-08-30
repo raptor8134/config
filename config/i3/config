@@ -55,6 +55,7 @@ floating_modifier $mod
 
 # start a terminal
 bindsym $mod+Return exec termite
+bindsym $mod+Shift+Return exec termite -t FLOAT_ME
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -211,8 +212,6 @@ bindsym $mod+r mode "resize"
 # Screenshot from printscreen
 bindsym Print exec scrot ~/Pictures/Screenshots/Screenshot_$(date +%m-%d-%Y-%H:%M:%S).png && twmnc -c "Screenshot added at $(date +%m-%d-%y\ %H:%M:%S)" --pos top_center --fn Monospace --fs 15 
  
-bindsym $mod+w exec ~/.j.sh 
-
 # Brightness keys
 bindsym XF86MonBrightnessUp exec xbacklight -inc 5% 
 bindsym XF86MonBrightnessDown exec xbacklight -dec 5% 
@@ -249,7 +248,7 @@ for_window [class=".*"] border pixel 0
 #for_window [class="Termite"] border pixel 1
 gaps inner 12
 #gaps bottom 36
-gaps bottom 36
+gaps bottom 40
 
 # colors
 # class                 border  backgr. text    indicator child_border
@@ -267,7 +266,7 @@ exec udiskie -nt
 exec twmnd
 exec discord --start-minimized 
 exec mpd-rpc
-exec_always pkill redshift; sleep 4; redshift -Pl $(cweather -l | tr "," ":") -t 7500K:5500K 
+exec_always pkill redshift; sleep 4; redshift -Pl $(cweather -l | tr "," ":") -t 7500K:4000K 
 #exec_always pkill xbacklight-auto; xbacklight-auto -t 3 -m 1
 
 # make certain windows always floating
@@ -276,6 +275,7 @@ for_window [title="^htop$"] floating enable
 for_window [title="^bpytop$"] floating enable
 for_window [title="^ncmpcpp$"] floating enable
 for_window [title="^calc$"] floating enable
+for_window [title="^FLOAT_ME$"] floating enable
 
 # To do list
 bindsym $mod+m exec twmnc -t "To do " -c \"$(cat ~/todo.txt | perl -pe \"s/\n/\  ~  /g\" | sed 's/.\{4\}$//')\" --pos top_center --fn Monospace --fs 16 --fg white --bg black -d 5000 -s 40

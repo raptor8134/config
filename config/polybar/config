@@ -31,7 +31,7 @@ alert = #bd2c40
 [bar/main]
 ;monitor = ${env:MONITOR:HDMI-1}
 width = 1896 
-height = 40 
+height = 45 
 offset-x = 12
 offset-y = 8
 
@@ -99,7 +99,7 @@ type = custom/script
 exec = ~/scripts/activedevice.sh
 label = %output:0:10:%
 interval = 5 
-click-left = termite -e bluetoothctl
+click-left = termite -e bluetoothctl -t FLOAT_ME
 
 format = <label> 
 format-underline = #ddff00 
@@ -295,7 +295,7 @@ format-disconnected =
 type = internal/date
 interval = 1
 
-date = "%b %d  "
+date = "%b %d, "
 date-alt = "%m/%d/%Y | "
 
 time = %I:%M %p
@@ -317,7 +317,7 @@ label-volume-foreground = ${root.foreground}
 format-volume-underline = #00ddff
 format-muted-underline = #00ddff
 
-label-muted = 婢
+label-muted = muted 婢
 ;label-muted-foreground = #666
 
 ramp-volume-0 =  
@@ -382,10 +382,12 @@ full-at = 98
 
 time-format = %H:%M
 
+label-charging = %percentage%%
 format-charging = <label-charging> <animation-charging>
 format-charging-underline = #00ffaa
 
-format-discharging =  <label-discharging> <label-discharging>
+label-discharging = %percentage%%
+format-discharging = <label-discharging> <ramp-capacity>
 format-discharging-underline = ${self.format-charging-underline}
 
 format-full-prefix = " "

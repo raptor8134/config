@@ -2,22 +2,10 @@ configuration {
 	modi: "window,drun,ssh,combi";
 	theme: "Monokai.rasi";
 	font: "Deja Vu Mono 12";
-	width: 600;
-	lines: 4;
 	combi-modi: "window,drun";
 	show-icons: true;
 	icon-theme: "Adwaita";
-	columns: 3;
 	terminal: "termite";
 	location: 0; 
 }
-element {
-	orientation: vertical;
-	spacing: 5px;
-}
-element-icon {
-	size: 5ch;
-}
-element-text {
-	horizontal-align: 0.5;
-}
+/* vim:ft=css
