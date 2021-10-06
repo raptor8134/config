@@ -296,7 +296,7 @@ type = internal/date
 interval = 1
 
 date = "%b %d, "
-date-alt = "%m/%d/%Y | "
+date-alt = "%m/%d/%Y "
 
 time = %I:%M %p
 time-alt = %H:%M:%S

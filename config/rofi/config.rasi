@@ -1,5 +1,6 @@
+/* https://blog.wotw.pro/tag/rofi/ */
 configuration {
-	modi: "window,drun,ssh,combi";
+	modi: "drun,window";
 	theme: "Monokai.rasi";
 	font: "Deja Vu Mono 12";
 	combi-modi: "window,drun";
@@ -7,5 +8,7 @@ configuration {
 	icon-theme: "Adwaita";
 	terminal: "termite";
 	location: 0; 
+	cycle: true;
+	sidebar-mode: true;
 }
 /* vim:ft=css

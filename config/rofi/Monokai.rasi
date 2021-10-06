@@ -76,6 +76,7 @@ element-icon {
 }
 element-text {
 	horizontal-align: 0.5;
+	color: @normal-foreground;
 }
 element.normal.normal {
     background-color: @normal-background;
@@ -123,6 +124,7 @@ scrollbar {
 mode-switcher {
     border:       2px 0px 0px ;
     border-color: @separatorcolor;
+	horizontal-align: 0.5;
 }
 button.selected {
     background-color: @selected-normal-background;

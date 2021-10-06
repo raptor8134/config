@@ -171,11 +171,44 @@ font:
 #draw_bold_text_with_bright_colors: false
 
 # Colors
-#colors:
+colors:
   # Default colors
+  primary:
+   background: '#000000'
+   foreground: '#e2e4e5'
+
+  draw_bold_text_with_bright_colors: true
+
   #primary:
-  #  background: '#1d1f21'
-  #  foreground: '#c5c8c6'
+  # background: '#282a36'
+  # foreground: '#eff0eb'
+
+  cursor:
+    cursor: '#97979b'
+
+  selection:
+    text:       '#282a36'
+    background: '#feffff'
+
+  normal:
+    black:   '#282a36'
+    red:     '#ff5c57'
+    green:   '#5af78e'
+    yellow:  '#f3f99d'
+    blue:    '#57c7ff'
+    magenta: '#ff6ac1'
+    cyan:    '#9aedfe'
+    white:   '#f1f1f0'
+
+  bright:
+    black:   '#686868'
+    red:     '#ff5c57'
+    green:   '#5af78e'
+    yellow:  '#f3f99d'
+    blue:    '#57c7ff'
+    magenta: '#ff6ac1'
+    cyan:    '#9aedfe'
+    white:   '#eff0eb'
 
     # Bright and dim foreground colors
     #
@@ -287,7 +320,15 @@ font:
   # Example:
   #   `- { index: 16, color: '#ff00ff' }`
   #
-  #indexed_colors: []
+  indexed_colors: [ 
+    { index: 16, color: '#ff9f43' },
+    { index: 17, color: '#b2643c' },
+    { index: 18, color: '#34353e' },
+    { index: 19, color: '#43454f' },
+    { index: 20, color: '#a5a5a9' },
+    { index: 21, color: '#eff0eb' }
+  ]
+    
 
 # Bell
 #
@@ -334,7 +375,7 @@ font:
 #
 # Window opacity as a floating point number from `0.0` to `1.0`.
 # The value `0.0` is completely transparent and `1.0` is opaque.
-background_opacity: 0.5
+background_opacity: 0.6
 
 #selection:
   # This string contains all characters that are used as separators for

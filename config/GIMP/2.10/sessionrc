@@ -11,8 +11,8 @@
     (size 640 480))
 (session-info "toplevel"
     (factory-entry "gimp-single-image-window")
-    (position 14 14)
-    (size 1892 1007)
+    (position 0 0)
+    (size 1920 1080)
     (open-on-exit)
     (aux-info
         (left-docks-width "283")
@@ -64,7 +64,7 @@
                     (edit-active "true")
                     (current-data "2. Hardness 100"))))
         (book
-            (position 669)
+            (position 381)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style automatic)

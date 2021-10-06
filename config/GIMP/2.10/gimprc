@@ -10,7 +10,8 @@
 (monitor-xresolution 157)
 (monitor-yresolution 161)
 (image-resize-fill-type white)
-(layer-new-name "tito2")
+(layer-new-name "bruh")
+(layer-resize-fill-type white)
 (fill-options
     (style solid)
     (antialias yes)

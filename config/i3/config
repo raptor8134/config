@@ -284,3 +284,9 @@ bindsym $mod+m exec twmnc -t "To do " -c \"$(cat ~/todo.txt | perl -pe \"s/\n/\ 
 bindsym Mod1+Tab exec i3-msg workspace back_and_forth
 exec_always libinput-gestures
 #bindcode 66  --release exec xdotool key Escape
+
+# minecraft bs
+bindsym $mod+n exec $HOME/scripts/autoclicker.sh
+bindsym $mod+Shift+n exec pkill autoclicker.sh
+
+exec steam
