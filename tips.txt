@@ -1,0 +1,1 @@
+Enable `layers.acceleration.force-enabled` in `about:config` on firefox for smooth scrolling
