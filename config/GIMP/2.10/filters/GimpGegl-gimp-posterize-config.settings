@@ -1,0 +1,19 @@
+# settings
+
+(GimpGegl-gimp-posterize-config "2021-11-20 17:59:44"
+    (time 1637459984)
+    (gimp-mode divide)
+    (gimp-opacity 0.010000000000000009)
+    (levels 3))
+(GimpGegl-gimp-posterize-config "2021-11-20 17:56:41"
+    (time 1637459801)
+    (gimp-mode dissolve)
+    (gimp-opacity 0.55000000000000027)
+    (levels 3))
+(GimpGegl-gimp-posterize-config "2021-11-20 17:52:58"
+    (time 1637459578)
+    (gimp-mode dissolve)
+    (gimp-opacity 0.55000000000000027)
+    (levels 4))
+
+# end of settings

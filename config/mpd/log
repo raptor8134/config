@@ -9009,3 +9009,1881 @@ Oct 05 20:33 : player: played "Priroda - 8080.mp3"
 Oct 05 21:44 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
 Oct 05 21:45 : player: played "PRNRML - Загадка 1.mp3"
 Oct 05 21:52 : player: played "Dmitriy Ivankov - Phobos.mp3"
+Oct 06 10:02 : player: played "NTorchestra - Млечными путями в Прекрасное далеко.mp3"
+Oct 06 19:15 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 19:15 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Oct 06 19:16 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 06 19:16 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 19:21 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 19:51 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 19:57 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 19:59 : player: played "Dmitriy Ivankov - Phobos.mp3"
+Oct 06 20:04 : player: played "NTorchestra - Млечными путями в Прекрасное далеко.mp3"
+Oct 06 20:34 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 21:05 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 21:08 : player: played "Время акаций - Загадка.mp3"
+Oct 06 21:12 : player: played "Импульс-80 - Полёт к Звёздам.mp3"
+Oct 06 21:18 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 21:25 : player: played "Марксэн - 600 Вт.mp3"
+Oct 06 21:30 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 21:30 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 21:33 : player: played "Маяк - Выше звезд.mp3"
+Oct 06 21:36 : player: played "Наукоград - Звездопад.mp3"
+Oct 06 21:39 : player: played "ППВК - Комета возвращается.mp3"
+Oct 06 21:41 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:10 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:12 : player: played "Протон-4 - За пределами млечного пути.mp3"
+Oct 06 22:15 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:15 : player: played "Удары синтезаторов - Предчувствие космоса.mp3"
+Oct 06 22:16 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:20 : player: played "Фриссон - Континуум.mp3"
+Oct 06 22:20 : exception: Playlist already exists
+Oct 06 22:22 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:24 : player: played "ЭЛЕКТРОНИКА 302 - Наши достижения.mp3"
+Oct 06 22:26 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Oct 06 22:26 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:31 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:38 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:40 : player: played "Sweet Home Alabama.mp3"
+Oct 06 22:41 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:42 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:44 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:44 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:44 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:46 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:47 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:47 : player: played "Cheeki Breeki.mp3"
+Oct 06 23:08 : player: played "Brass Monkey.mp3"
+Oct 07 15:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 15:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 16:20 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 16:23 : player: played "Brass Monkey.mp3"
+Oct 07 16:29 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 16:29 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 16:33 : player: played "Two Wuv.mp3"
+Oct 07 16:34 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 16:35 : player: played "The Whole World and You.mp3"
+Oct 07 16:37 : player: played "Pigstep.mp3"
+Oct 07 16:43 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 16:50 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 08 14:11 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 08 14:13 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 08 14:15 : player: played "Don't Tread On Me.mp3"
+Oct 08 14:17 : player: played "Immigrant Song.mp3"
+Oct 08 14:21 : player: played "Fucked with an Anchor.mp3"
+Oct 08 14:23 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 08 14:39 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 08 23:51 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 08 23:52 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 08 23:52 : player: played "Protect The Land.mp3"
+Oct 08 23:56 : player: played "Carry On Wayward Son.mp3"
+Oct 08 23:58 : player: played "Fortunate Son.mp3"
+Oct 09 00:02 : player: played "Don't Stop Me Now.mp3"
+Oct 09 09:49 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 09:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 09:55 : player: played "Don't Stand So Close to Me.mp3"
+Oct 09 09:58 : player: played "Low Rider.mp3"
+Oct 09 10:00 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 10:03 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Oct 09 10:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 09 10:07 : player: played "Hey Ya!.mp3"
+Oct 09 10:07 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 10:07 : player: played "Gummy Boy - Don't Leave.mp3"
+Oct 09 10:07 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 10:10 : exception: Playlist already exists
+Oct 09 10:11 : player: played "Don't Tread On Me.mp3"
+Oct 09 10:13 : player: played "The Whole World and You.mp3"
+Oct 09 10:18 : player: played "Sweet Home Alabama.mp3"
+Oct 09 10:20 : player: played "Immigrant Song.mp3"
+Oct 09 10:24 : player: played "Hey Ya!.mp3"
+Oct 09 11:19 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 11:22 : player: played "Il Vento D'oro.mp3"
+Oct 09 11:26 : player: played "Carry On Wayward Son.mp3"
+Oct 09 11:30 : player: played "Two Wuv.mp3"
+Oct 09 11:33 : player: played "Don't Stop Me Now.mp3"
+Oct 09 11:36 : player: played "Fortunate Son.mp3"
+Oct 09 11:38 : player: played "Brass Monkey.mp3"
+Oct 09 11:40 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Oct 09 11:44 : player: played "Don't Stand So Close to Me.mp3"
+Oct 09 11:48 : player: played "Fuck the Fire Department.mp3"
+Oct 09 11:51 : player: played "Cheeki Breeki.mp3"
+Oct 09 11:55 : player: played "Fucked with an Anchor.mp3"
+Oct 09 11:59 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Oct 09 12:04 : player: played "Protect The Land.mp3"
+Oct 09 23:09 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 23:10 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 23:10 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 23:11 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 23:11 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 23:11 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 23:16 : player: played "Protect The Land.mp3"
+Oct 09 23:20 : player: played "Low Rider.mp3"
+Oct 09 23:23 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 23:27 : player: played "Crazy Train.mp3"
+Oct 09 23:29 : player: played "The Red Army Is the Strongest.mp3"
+Oct 09 23:32 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 23:37 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 09 23:44 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 00:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 11:32 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 11:36 : player: played "Smells Like Teen Spirit.mp3"
+Oct 10 11:40 : player: played "Banana Man.mp3"
+Oct 10 11:43 : player: played "The Bidding.mp3"
+Oct 10 12:46 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 12:47 : player: played "Aces High (Live).mp3"
+Oct 10 12:48 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 13:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 13:11 : player: played "Good Day.mp3"
+Oct 10 13:14 : player: played "White Winter Hymnal.mp3"
+Oct 10 13:18 : player: played "Feel Good Inc.mp3"
+Oct 10 13:22 : player: played "All Along the Watchtower.mp3"
+Oct 10 13:26 : player: played "Seven Nation Army.mp3"
+Oct 10 13:34 : player: played "Life's Been Good.mp3"
+Oct 10 13:38 : player: played "Back In Black.mp3"
+Oct 10 13:44 : player: played "Swallowing Dust.mp3"
+Oct 10 13:51 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+Oct 10 13:55 : player: played "Money Game, Pt. 2.mp3"
+Oct 10 13:57 : player: played "Team America- America F+++ Yeah- Lyrics.mp3"
+Oct 10 14:00 : player: played "God, Syria and Bashar!.mp3"
+Oct 10 14:04 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 10 14:04 : player: played "Bosanska Artiljerija.mp3"
+Oct 10 14:14 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 14:18 : player: played "Don't Tread On Me.mp3"
+Oct 10 14:20 : player: played "The Whole World and You.mp3"
+Oct 10 15:08 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 15:11 : player: played "Sweet Home Alabama.mp3"
+Oct 10 15:14 : player: played "Immigrant Song.mp3"
+Oct 10 18:28 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 18:32 : player: played "Hey Ya!.mp3"
+Oct 10 18:37 : player: played "Il Vento D'oro.mp3"
+Oct 10 18:40 : player: played "Carry On Wayward Son.mp3"
+Oct 10 18:44 : player: played "Two Wuv.mp3"
+Oct 10 18:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 18:55 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 18:57 : player: played "Don't Stop Me Now.mp3"
+Oct 10 18:59 : player: played "Fortunate Son.mp3"
+Oct 10 19:02 : player: played "Brass Monkey.mp3"
+Oct 10 19:04 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Oct 10 19:08 : player: played "Don't Stand So Close to Me.mp3"
+Oct 10 19:12 : player: played "Fuck the Fire Department.mp3"
+Oct 10 19:15 : player: played "Cheeki Breeki.mp3"
+Oct 10 19:18 : player: played "Fucked with an Anchor.mp3"
+Oct 10 19:26 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 19:28 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Oct 10 19:33 : player: played "Protect The Land.mp3"
+Oct 10 19:36 : player: played "Low Rider.mp3"
+Oct 10 19:39 : player: played "Pigstep.mp3"
+Oct 10 19:43 : player: played "Crazy Train.mp3"
+Oct 10 19:45 : player: played "The Red Army Is the Strongest.mp3"
+Oct 10 19:51 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 10 19:52 : player: played "Thanatos (From 'Neon Genesis Evangelion').mp3"
+Oct 10 19:53 : player: played "Print Money.mp3"
+Oct 10 19:58 : player: played "Smells Like Teen Spirit.mp3"
+Oct 10 20:02 : player: played "Banana Man.mp3"
+Oct 10 20:05 : player: played "The Bidding.mp3"
+Oct 11 10:38 : player: played "Aces High (Live).mp3"
+Oct 11 15:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 15:12 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 15:14 : player: played "Aces High (Live).mp3"
+Oct 11 15:19 : player: played "Don't Fear the Reaper.mp3"
+Oct 11 15:23 : player: played "Good Day.mp3"
+Oct 11 15:25 : player: played "White Winter Hymnal.mp3"
+Oct 11 15:29 : player: played "Feel Good Inc.mp3"
+Oct 11 15:33 : player: played "All Along the Watchtower.mp3"
+Oct 11 15:37 : player: played "Seven Nation Army.mp3"
+Oct 11 15:45 : player: played "Life's Been Good.mp3"
+Oct 11 16:16 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 16:17 : player: played "Back In Black.mp3"
+Oct 11 16:23 : player: played "Swallowing Dust.mp3"
+Oct 11 16:27 : player: played "Get up, Stand up (Instrumental Version).mp3"
+Oct 11 16:27 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 16:29 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 16:32 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+Oct 11 17:19 : avahi: Client Disconnected, will reconnect shortly
+Oct 11 17:19 : player: played "Money Game, Pt. 2.mp3"
+Oct 11 17:20 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 11 17:20 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 17:20 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Oct 11 17:20 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 17:24 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 17:25 : player: played "Money Game, Pt. 2.mp3"
+Oct 11 17:26 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 17:38 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 17:39 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 17:44 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 17:44 : player: played "Team America- America F+++ Yeah- Lyrics.mp3"
+Oct 11 17:48 : player: played "God, Syria and Bashar!.mp3"
+Oct 11 17:52 : player: played "Bosanska Artiljerija.mp3"
+Oct 11 17:55 : player: played "Gummy Boy - Don't Leave.mp3"
+Oct 11 18:00 : player: played "Зодиак - Зодиак.mp3"
+Oct 11 18:11 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 18:11 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 18:12 : player: played "Наукоград - Время.mp3"
+Oct 11 18:13 : player: played "ППК - Воскрешение (Robot's Outro).mp3"
+Oct 11 18:21 : player: played "ППК - Воскрешение.mp3"
+Oct 11 18:52 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 18:52 : player: played "Творожное озеро - Гроза (vwqp remix).mp3"
+Oct 11 18:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 18:56 : player: played "Priroda - 8080.mp3"
+Oct 11 18:57 : player: played "PRNRML - Загадка 1.mp3"
+Oct 11 19:04 : player: played "Dmitriy Ivankov - Phobos.mp3"
+Oct 11 19:09 : player: played "NTorchestra - Млечными путями в Прекрасное далеко.mp3"
+Oct 11 19:13 : player: played "Время акаций - Загадка.mp3"
+Oct 11 19:38 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 19:41 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 19:42 : player: played "Импульс-80 - Полёт к Звёздам.mp3"
+Oct 11 19:44 : player: played "луноберег - меркурий.mp3"
+Oct 11 19:49 : player: played "Марксэн - 600 Вт.mp3"
+Oct 11 19:53 : player: played "Маяк - Выше звезд.mp3"
+Oct 11 19:56 : player: played "Наукоград - Звездопад.mp3"
+Oct 11 19:59 : player: played "ППВК - Комета возвращается.mp3"
+Oct 11 20:03 : player: played "Протон-4 - За пределами млечного пути.mp3"
+Oct 11 20:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 21:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 21:06 : player: played "Удары синтезаторов - Предчувствие космоса.mp3"
+Oct 11 21:10 : player: played "Фриссон - Континуум.mp3"
+Oct 11 21:14 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 11 21:14 : player: played "ЭЛЕКТРОНИКА 302 - Наши достижения.mp3"
+Oct 11 21:14 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 21:14 : player: played "Don't Tread On Me.mp3"
+Oct 11 21:14 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 21:18 : player: played "Gummy Boy - Don't Leave.mp3"
+Oct 11 21:23 : player: played "Зодиак - Зодиак.mp3"
+Oct 11 21:27 : player: played "Наукоград - Время.mp3"
+Oct 11 21:29 : player: played "ППК - Воскрешение (Robot's Outro).mp3"
+Oct 11 21:39 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 22:18 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 22:18 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 22:18 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 11 22:27 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 14:01 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 12 14:02 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 14:02 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Oct 12 17:22 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 17:30 : player: played "ППК - Воскрешение.mp3"
+Oct 12 17:32 : player: played "Творожное озеро - Гроза (vwqp remix).mp3"
+Oct 12 17:35 : player: played "Priroda - 8080.mp3"
+Oct 12 17:37 : player: played "PRNRML - Загадка 1.mp3"
+Oct 12 17:44 : player: played "Dmitriy Ivankov - Phobos.mp3"
+Oct 12 17:49 : player: played "NTorchestra - Млечными путями в Прекрасное далеко.mp3"
+Oct 12 17:52 : player: played "Время акаций - Загадка.mp3"
+Oct 12 17:57 : player: played "Импульс-80 - Полёт к Звёздам.mp3"
+Oct 12 17:58 : player: played "луноберег - меркурий.mp3"
+Oct 12 18:04 : player: played "Марксэн - 600 Вт.mp3"
+Oct 12 18:08 : player: played "Маяк - Выше звезд.mp3"
+Oct 12 18:30 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 18:30 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 18:37 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 18:38 : player: played "Наукоград - Звездопад.mp3"
+Oct 12 18:40 : player: played "ППВК - Комета возвращается.mp3"
+Oct 12 18:45 : player: played "Протон-4 - За пределами млечного пути.mp3"
+Oct 12 18:48 : player: played "Удары синтезаторов - Предчувствие космоса.mp3"
+Oct 12 18:52 : player: played "Фриссон - Континуум.mp3"
+Oct 12 18:56 : player: played "ЭЛЕКТРОНИКА 302 - Наши достижения.mp3"
+Oct 12 18:56 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 19:33 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 19:35 : player: played "Barefoot In The Park.mp3"
+Oct 12 19:38 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Oct 12 19:46 : player: played "Ode to Joy.mp3"
+Oct 12 20:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 20:20 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 20:46 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 20:47 : player: played "Always Look On the Bright Side of Life.mp3"
+Oct 12 20:50 : player: played "Enormous Penis.mp3"
+Oct 12 20:56 : player: played "The Real Folk Blues.mp3"
+Oct 12 21:01 : player: played "Mr. Blue Sky.mp3"
+Oct 12 21:06 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 21:08 : player: played "Turn the Lights Off.mp3"
+Oct 12 21:31 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 21:32 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 21:35 : player: played "September.mp3"
+Oct 12 21:38 : player: played "Happy Together.mp3"
+Oct 12 21:45 : player: played "Ruler of Everything.mp3"
+Oct 12 21:47 : player: played "Misato.mp3"
+Oct 12 21:59 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 21:59 : player: played "Everything You Ever Dreamed.mp3"
+Oct 12 22:02 : exception: Not playing
+Oct 12 22:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 12 22:05 : player: played "No Woman, No Cry.mp3"
+Oct 12 22:09 : player: played "TMABird - Everybody's Circulation.mp3"
+Oct 12 22:14 : player: played "Chameleon.mp3"
+Oct 12 22:17 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 13 14:14 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 13 14:14 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Oct 13 14:14 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 13 19:19 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 13 19:19 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 13 19:19 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Oct 13 19:21 : avahi: Client Disconnected, will reconnect shortly
+Oct 13 19:21 : player: played "Sunday Best.mp3"
+Oct 13 19:22 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 13 19:22 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 13 19:22 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Oct 13 19:27 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 13 19:27 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 13 19:27 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 13 19:30 : player: played "Sunday Best.mp3"
+Oct 13 19:33 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 13 19:34 : player: played "Come and Get Your Love.mp3"
+Oct 13 20:09 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 14 18:10 : exception: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 14 18:10 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 14 18:10 : avahi: Service 'Music Player @ thinkbook' successfully established.
+Oct 14 18:12 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 15 12:34 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 15 12:35 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 15 12:39 : player: played "Catamaran.mp3"
+Oct 15 12:41 : player: played "Crystal Dolphin.mp3"
+Oct 15 12:44 : player: played "The Girl From Ipanema.mp3"
+Oct 15 12:47 : player: played "Cats on Mars.mp3"
+Oct 15 12:54 : player: played "Little Dark Age.mp3"
+Oct 15 12:59 : exception: Failed to flush filter on "My ALSA Device" (alsa): snd_pcm_writei() failed: Broken pipe
+Oct 15 12:59 : player: played "Everybody Wants To Rule the World.mp3"
+Oct 15 12:59 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 15 12:59 : player: played "Don't Tread On Me.mp3"
+Oct 15 20:22 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 15 21:30 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 16 11:36 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 16 11:40 : player: played "Don't Tread On Me.mp3"
+Oct 16 11:42 : player: played "The Whole World and You.mp3"
+Oct 16 11:47 : player: played "Sweet Home Alabama.mp3"
+Oct 16 11:49 : player: played "Immigrant Song.mp3"
+Oct 16 11:53 : player: played "Hey Ya!.mp3"
+Oct 16 11:58 : player: played "Il Vento D'oro.mp3"
+Oct 16 11:58 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 16 12:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 16 12:02 : player: played "Carry On Wayward Son.mp3"
+Oct 16 12:02 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 16 12:06 : player: played "Two Wuv.mp3"
+Oct 16 12:10 : player: played "Don't Stop Me Now.mp3"
+Oct 16 12:12 : player: played "Fortunate Son.mp3"
+Oct 16 12:15 : player: played "Brass Monkey.mp3"
+Oct 16 12:15 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 17 11:28 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 17 11:29 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 17 12:01 : avahi: Client Disconnected, will reconnect shortly
+Oct 17 12:01 : player: played "Don't Stand So Close to Me.mp3"
+Oct 17 12:01 : update: added /Chameleon.mp3
+Oct 17 12:01 : update: added /Swallowing Dust.mp3
+Oct 17 12:01 : update: added /God Save the Tsar!.mp3
+Oct 17 12:01 : update: added /Марксэн - 600 Вт.mp3
+Oct 17 12:01 : update: added /Everything You Ever Dreamed.mp3
+Oct 17 12:01 : update: added /Toxicity.mp3
+Oct 17 12:01 : update: added /Ride the Lightning.mp3
+Oct 17 12:01 : update: added /White Winter Hymnal.mp3
+Oct 17 12:01 : update: added /Chop Suey!.mp3
+Oct 17 12:01 : update: added /Giant Steps.mp3
+Oct 17 12:01 : update: added /Voices.mp3_new.mp3
+Oct 17 12:01 : update: added /Time Limit.mp3
+Oct 17 12:01 : update: added /Trapped Under Ice.mp3
+Oct 17 12:01 : update: added /Down with the Sickness.mp3
+Oct 17 12:01 : update: added /All Along the Watchtower.mp3
+Oct 17 12:01 : update: added /Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3
+Oct 17 12:01 : update: added /Carry On Wayward Son.mp3
+Oct 17 12:01 : update: added /Orion (Instrumental).mp3
+Oct 17 12:01 : update: added /Enormous Penis.mp3
+Oct 17 12:01 : update: added /Tank!.mp3
+Oct 17 12:01 : update: added /Fuck the Fire Department.mp3
+Oct 17 12:01 : update: added /Stairway to Heaven.mp3
+Oct 17 12:01 : update: added /Протон-4 - За пределами млечного пути.mp3
+Oct 17 12:01 : update: added /Protect The Land.mp3
+Oct 17 12:01 : update: added /Зодиак - Зодиак.mp3
+Oct 17 12:01 : update: added /Low Rider.mp3
+Oct 17 12:01 : update: added /Ode to Joy.mp3
+Oct 17 12:01 : update: added /Cats on Mars.mp3
+Oct 17 12:01 : update: added /TMABird - Everybody's Circulation.mp3
+Oct 17 12:01 : update: added /Little Dark Age.mp3
+Oct 17 12:01 : update: added /Know Your Enemy.mp3
+Oct 17 12:01 : update: added /September.mp3
+Oct 17 12:01 : update: added /NTorchestra - Млечными путями в Прекрасное далеко.mp3
+Oct 17 12:01 : update: added /The Red Army Is the Strongest.mp3
+Oct 17 12:01 : update: added /Happy Together.mp3
+Oct 17 12:01 : update: added /Dmitriy Ivankov - Phobos.mp3
+Oct 17 12:01 : update: added /Hey Ya!.mp3
+Oct 17 12:01 : update: added /Asayake.mp3
+Oct 17 12:01 : update: added /Team America- America F+++ Yeah- Lyrics.mp3
+Oct 17 12:01 : update: added /Удары синтезаторов - Предчувствие космоса.mp3
+Oct 17 12:01 : update: added /Midnight Rendezvous.mp3
+Oct 17 12:01 : update: added /Get up, Stand up (Instrumental Version).mp3
+Oct 17 12:01 : update: added /Ruler of Everything.mp3
+Oct 17 12:01 : update: added /Bakamitai(Taxi Driver Edition).mp3
+Oct 17 12:01 : update: added /Running in the 90's.mp3
+Oct 17 12:01 : update: added /Crazy Train.mp3
+Oct 17 12:01 : update: added /Misato.mp3
+Oct 17 12:01 : update: added /Lose Yourself.mp3
+Oct 17 12:01 : update: added /Everybody Wants To Rule the World.mp3
+Oct 17 12:01 : update: added /The Thing That Should Not Be.mp3
+Oct 17 12:01 : update: added /Fight Fire with Fire.mp3
+Oct 17 12:01 : update: added /Shoot to Thrill.mp3
+Oct 17 12:01 : update: added /Disposable Heroes.mp3
+Oct 17 12:01 : update: added /Brass Monkey.mp3
+Oct 17 12:01 : update: added /ППК - Воскрешение (Robot's Outro).mp3
+Oct 17 12:01 : update: added /Good Day.mp3
+Oct 17 12:01 : update: added /PRNRML - Загадка 1.mp3
+Oct 17 12:01 : update: added /ППК - Воскрешение.mp3
+Oct 17 12:01 : update: added /Seek & Destroy.mp3
+Oct 17 12:01 : update: added /30 Seconds over Tokyo.mp3
+Oct 17 12:01 : update: added /Sunday Best.mp3
+Oct 17 12:01 : update: added /Peace Sells.mp3
+Oct 17 12:01 : update: added /One.mp3
+Oct 17 12:01 : update: added /Feel Good Inc.mp3
+Oct 17 12:01 : update: added /Aleksandr Borodin - Polovetsian Dances from 'Prince Igor'.mp3
+Oct 17 12:01 : update: added /2112.mp3
+Oct 17 12:01 : update: added /Priroda - 8080.mp3
+Oct 17 12:01 : update: added /Il Vento D'oro.mp3
+Oct 17 12:01 : update: added /Cheeki Breeki.mp3
+Oct 17 12:01 : update: added /Highway to Hell.mp3
+Oct 17 12:01 : update: added /Наукоград - Время.mp3
+Oct 17 12:01 : update: added /Always Look On the Bright Side of Life.mp3
+Oct 17 12:01 : update: added /Don't Stand So Close to Me.mp3
+Oct 17 12:01 : update: added /Don't Stop Me Now.mp3
+Oct 17 12:01 : update: added /Aces High (Live).mp3
+Oct 17 12:01 : update: added /Take Five.mp3
+Oct 17 12:01 : update: added /Cannibal.mp3
+Oct 17 12:01 : update: added /луноберег - меркурий.mp3
+Oct 17 12:01 : update: added /Don't Fear the Reaper.mp3
+Oct 17 12:01 : update: added /Take Me.mp3
+Oct 17 12:01 : update: added /ППВК - Комета возвращается.mp3
+Oct 17 12:01 : update: added /N.I.B.mp3
+Oct 17 12:01 : update: added /Money Game, Pt. 2.mp3
+Oct 17 12:01 : update: added /Фриссон - Континуум.mp3
+Oct 17 12:01 : update: added /Mr. Blue Sky.mp3
+Oct 17 12:01 : update: added /No Woman, No Cry.mp3
+Oct 17 12:01 : update: added /Время акаций - Загадка.mp3
+Oct 17 12:01 : update: added /Domino Line.mp3
+Oct 17 12:01 : update: added /Swear.mp3
+Oct 17 12:01 : update: added /Boom!.mp3
+Oct 17 12:01 : update: added /Master of Puppets.mp3
+Oct 17 12:01 : update: added /The Mind Electric.mp3
+Oct 17 12:01 : update: added /Print Money.mp3
+Oct 17 12:01 : update: added /Don't Tread On Me.mp3
+Oct 17 12:01 : update: added /Gummy Boy - Don't Leave.mp3
+Oct 17 12:01 : update: added /Finlandia.mp3
+Oct 17 12:01 : update: added /Holy Diver.mp3
+Oct 17 12:01 : update: added /Kashmir.mp3
+Oct 17 12:01 : update: added /Space Lion.mp3
+Oct 17 12:01 : update: added /Floods.mp3
+Oct 17 12:01 : update: added /Damage, Inc..mp3
+Oct 17 12:01 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 17 12:01 : update: added /Killing In the Name.m4a
+Oct 17 12:01 : update: added /Творожное озеро - Гроза (vwqp remix).mp3
+Oct 17 12:01 : update: added /Tylko jedno w głowie mam (lyrics).mp3
+Oct 17 12:01 : update: added /Catamaran.mp3
+Oct 17 12:01 : update: added /Импульс-80 - Полёт к Звёздам.mp3
+Oct 17 12:01 : update: added /Life's Been Good.mp3
+Oct 17 12:01 : update: added /Наукоград - Звездопад.mp3
+Oct 17 12:01 : update: added /Crystal Dolphin.mp3
+Oct 17 12:01 : update: added /Come and Get Your Love.mp3
+Oct 17 12:01 : update: added /Walk.mp3
+Oct 17 12:01 : update: added /The Call of Ktulu.mp3
+Oct 17 12:01 : update: added /Sweet Home Alabama.mp3
+Oct 17 12:01 : update: added /Fade to Black.mp3
+Oct 17 12:01 : update: added /Creeping Death.mp3
+Oct 17 12:01 : update: added /Iron Man.mp3
+Oct 17 12:01 : update: added /Rise Above.mp3
+Oct 17 12:01 : update: added /The Real Folk Blues.mp3
+Oct 17 12:01 : update: added /TV Party.mp3
+Oct 17 12:01 : update: added /God, Syria and Bashar!.mp3
+Oct 17 12:01 : update: added /Ride of the Valkyries.mp3
+Oct 17 12:01 : update: added /Barefoot In The Park.mp3
+Oct 17 12:01 : update: added /2700s sea shanties.mp3
+Oct 17 12:01 : update: added /The Bidding.mp3
+Oct 17 12:01 : update: added /Paranoid.mp3
+Oct 17 12:01 : update: added /Freddie Freeloader.mp3
+Oct 17 12:01 : update: added /Banana Man.mp3
+Oct 17 12:01 : update: added /For Whom the Bell Tolls.mp3
+Oct 17 12:01 : update: added /Thanatos (From 'Neon Genesis Evangelion').mp3
+Oct 17 12:01 : update: added /Back In Black.mp3
+Oct 17 12:01 : update: added /Pigstep.mp3
+Oct 17 12:01 : update: added /Fucked with an Anchor.mp3
+Oct 17 12:01 : update: added /Tears Of The Star.mp3
+Oct 17 12:01 : update: added /Cowboys from Hell.mp3
+Oct 17 12:01 : update: added /Electric Funeral.mp3
+Oct 17 12:01 : update: added /Hooked On a Feeling.mp3
+Oct 17 12:01 : update: added /Immigrant Song.mp3
+Oct 17 12:01 : update: added /Black Dog.mp3
+Oct 17 12:01 : update: added /Komm, Süsser Todd.mp3
+Oct 17 12:01 : update: added /The Whole World and You.mp3
+Oct 17 12:01 : update: added /Bosanska Artiljerija.mp3
+Oct 17 12:01 : update: added /Wham Bam Shang-A-Lang.mp3
+Oct 17 12:01 : update: added /Song for My Father.mp3
+Oct 17 12:01 : update: added /Маяк - Выше звезд.mp3
+Oct 17 12:01 : update: added /Turn the Lights Off.mp3
+Oct 17 12:01 : update: added /Hells Bells.mp3
+Oct 17 12:01 : update: added /Ancapistan#(Full#Song).mp3_new.mp3
+Oct 17 12:01 : update: added /Protivogaz.mp3
+Oct 17 12:01 : update: added /The Girl From Ipanema.mp3
+Oct 17 12:01 : update: added /ЭЛЕКТРОНИКА 302 - Наши достижения.mp3
+Oct 17 12:01 : update: added /A Cruel Angel's Thesis (Director's Edit Version).mp3
+Oct 17 12:01 : update: added /Say So.mp3
+Oct 17 12:01 : update: added /Tri Poloski.mp3
+Oct 17 12:01 : update: added /Smells Like Teen Spirit.mp3
+Oct 17 12:01 : update: added /Escape.mp3
+Oct 17 12:01 : update: added /&.mp3
+Oct 17 12:01 : update: added /War Pigs.mp3
+Oct 17 12:01 : update: added /Holy Wars... The Punishment Due.mp3
+Oct 17 12:01 : update: added /Battery.mp3
+Oct 17 12:01 : update: added /Two Wuv.mp3
+Oct 17 12:01 : update: added /Seven Nation Army.mp3
+Oct 17 12:01 : update: added /Fortunate Son.mp3
+Oct 17 12:01 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 17 15:28 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 17 15:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 17 15:28 : player: played "Voices.mp3_new.mp3"
+Oct 17 15:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 17 15:34 : player: played "Protect The Land.mp3"
+Oct 17 15:37 : player: played "Boom!.mp3"
+Oct 17 15:40 : player: played "Chop Suey!.mp3"
+Oct 17 15:44 : player: played "Toxicity.mp3"
+Oct 17 19:12 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 17 20:41 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 17 20:41 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 18 09:57 : player: played "Protect The Land.mp3"
+Oct 18 18:35 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 18 18:57 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 18 18:57 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 18 19:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 18 21:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 18 21:43 : player: played "Protect The Land.mp3"
+Oct 18 21:46 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 18 21:49 : player: played "Boom!.mp3"
+Oct 18 21:52 : player: played "Chop Suey!.mp3"
+Oct 18 21:56 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 18 21:56 : player: played "Toxicity.mp3"
+Oct 18 22:03 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 18 22:03 : player: played "Protect The Land.mp3"
+Oct 18 22:03 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 18 22:03 : player: played "Tank!.mp3"
+Oct 18 22:03 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 18 22:06 : player: played "Barefoot In The Park.mp3"
+Oct 18 22:09 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Oct 18 22:17 : player: played "Ode to Joy.mp3"
+Oct 18 22:21 : player: played "Always Look On the Bright Side of Life.mp3"
+Oct 18 22:23 : player: played "Enormous Penis.mp3"
+Oct 18 22:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 18 22:30 : player: played "The Real Folk Blues.mp3"
+Oct 19 09:44 : player: played "Mr. Blue Sky.mp3"
+Oct 19 12:02 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 14:27 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 16:43 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 19 16:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 16:48 : player: played "Mr. Blue Sky.mp3"
+Oct 19 16:51 : player: played "Turn the Lights Off.mp3"
+Oct 19 16:54 : player: played "September.mp3"
+Oct 19 18:02 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 19 18:02 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 18:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 18:18 : player: played "Happy Together.mp3"
+Oct 19 18:23 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Oct 19 18:27 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 18:28 : player: played "Misato.mp3"
+Oct 19 18:32 : player: played "Wham Bam Shang-A-Lang.mp3"
+Oct 19 18:38 : player: played "Everything You Ever Dreamed.mp3"
+Oct 19 18:42 : player: played "No Woman, No Cry.mp3"
+Oct 19 18:52 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 18:55 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 18:58 : player: played "TMABird - Everybody's Circulation.mp3"
+Oct 19 18:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 19:03 : player: played "Chameleon.mp3"
+Oct 19 19:06 : player: played "Sunday Best.mp3"
+Oct 19 19:09 : player: played "Come and Get Your Love.mp3"
+Oct 19 19:13 : player: played "Catamaran.mp3"
+Oct 19 19:14 : player: played "Crystal Dolphin.mp3"
+Oct 19 19:18 : player: played "The Girl From Ipanema.mp3"
+Oct 19 19:20 : player: played "Cats on Mars.mp3"
+Oct 19 19:24 : player: played "Say So.mp3"
+Oct 19 19:29 : player: played "Little Dark Age.mp3"
+Oct 19 19:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 19:48 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 19:52 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 19:54 : player: played "Little Dark Age.mp3"
+Oct 19 19:58 : output: Failed to flush filter on "My ALSA Device" (alsa): snd_pcm_writei() failed: Broken pipe
+Oct 19 19:58 : player: played "Everybody Wants To Rule the World.mp3"
+Oct 19 19:58 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 20:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 20:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 20:29 : player: played "Don't Tread On Me.mp3"
+Oct 19 20:31 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 20:32 : player: played "The Whole World and You.mp3"
+Oct 19 20:37 : player: played "Sweet Home Alabama.mp3"
+Oct 19 20:39 : player: played "Immigrant Song.mp3"
+Oct 19 20:40 : player: played "Hey Ya!.mp3"
+Oct 19 20:41 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 19 20:53 : player: played "Hey Ya!.mp3"
+Oct 19 20:53 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 19 20:53 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 20:55 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 20:59 : player: played "Il Vento D'oro.mp3"
+Oct 19 21:03 : player: played "Carry On Wayward Son.mp3"
+Oct 19 21:03 : player: played "Two Wuv.mp3"
+Oct 19 21:04 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 19 21:04 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 21:07 : player: played "Two Wuv.mp3"
+Oct 19 21:07 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 19 21:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 21:09 : player: played "Two Wuv.mp3"
+Oct 19 21:09 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 19 21:09 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 21:21 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 21:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 22:03 : player: played "Two Wuv.mp3"
+Oct 19 22:06 : player: played "Don't Stop Me Now.mp3"
+Oct 19 22:09 : player: played "Fortunate Son.mp3"
+Oct 19 22:11 : player: played "Brass Monkey.mp3"
+Oct 19 22:13 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Oct 19 22:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 22:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 22:20 : player: played "Fuck the Fire Department.mp3"
+Oct 19 22:26 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Oct 19 22:32 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 19 22:32 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 22:35 : player: played "Protect The Land.mp3"
+Oct 19 22:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 19 22:38 : player: played "Protect The Land.mp3"
+Oct 19 22:39 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 12:54 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 12:56 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 18:58 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 20 18:58 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 19:03 : player: played "Protect The Land.mp3"
+Oct 20 19:06 : player: played "Low Rider.mp3"
+Oct 20 19:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 19:12 : player: played "Crazy Train.mp3"
+Oct 20 19:15 : player: played "The Red Army Is the Strongest.mp3"
+Oct 20 19:22 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 19:23 : player: played "Print Money.mp3"
+Oct 20 19:50 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 19:50 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 19:53 : player: played "Smells Like Teen Spirit.mp3"
+Oct 20 20:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 20:04 : player: played "Banana Man.mp3"
+Oct 20 20:07 : player: played "The Bidding.mp3"
+Oct 20 20:12 : player: played "Aces High (Live).mp3"
+Oct 20 20:26 : player: played "Good Day.mp3"
+Oct 20 20:28 : player: played "White Winter Hymnal.mp3"
+Oct 20 20:32 : player: played "Feel Good Inc.mp3"
+Oct 20 20:40 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 20:43 : player: played "All Along the Watchtower.mp3"
+Oct 20 20:47 : player: played "Seven Nation Army.mp3"
+Oct 20 20:55 : player: played "Life's Been Good.mp3"
+Oct 20 21:20 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 21:21 : player: played "Back In Black.mp3"
+Oct 20 21:27 : player: played "Swallowing Dust.mp3"
+Oct 20 21:31 : player: played "Get up, Stand up (Instrumental Version).mp3"
+Oct 20 21:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 20 21:37 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+Oct 20 21:41 : player: played "Money Game, Pt. 2.mp3"
+Oct 20 21:43 : player: played "Team America- America F+++ Yeah- Lyrics.mp3"
+Oct 20 22:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 09:50 : player: played "Bosanska Artiljerija.mp3"
+Oct 21 16:53 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 16:56 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 18:37 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 18:38 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 21 18:38 : player: played "Bosanska Artiljerija.mp3"
+Oct 21 18:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 18:43 : player: played "Tank!.mp3"
+Oct 21 18:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 18:45 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 19:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 19:05 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 19:05 : player: played "Gummy Boy - Don't Leave.mp3"
+Oct 21 21:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 22:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 22:16 : player: played "Barefoot In The Park.mp3"
+Oct 21 22:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 22:20 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Oct 21 22:28 : player: played "Ode to Joy.mp3"
+Oct 21 22:31 : player: played "Always Look On the Bright Side of Life.mp3"
+Oct 21 22:34 : player: played "Enormous Penis.mp3"
+Oct 21 22:41 : player: played "The Real Folk Blues.mp3"
+Oct 21 22:46 : player: played "Mr. Blue Sky.mp3"
+Oct 21 22:49 : player: played "Turn the Lights Off.mp3"
+Oct 21 22:52 : player: played "September.mp3"
+Oct 21 22:55 : player: played "Happy Together.mp3"
+Oct 21 23:00 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Oct 21 23:04 : player: played "Ruler of Everything.mp3"
+Oct 21 23:05 : player: played "Misato.mp3"
+Oct 21 23:09 : player: played "Wham Bam Shang-A-Lang.mp3"
+Oct 21 23:14 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 21 23:15 : player: played "Everything You Ever Dreamed.mp3"
+Oct 21 23:19 : player: played "No Woman, No Cry.mp3"
+Oct 21 23:23 : player: played "TMABird - Everybody's Circulation.mp3"
+Oct 21 23:27 : player: played "Chameleon.mp3"
+Oct 21 23:30 : player: played "Sunday Best.mp3"
+Oct 21 23:33 : player: played "Come and Get Your Love.mp3"
+Oct 21 23:37 : player: played "Catamaran.mp3"
+Oct 21 23:39 : player: played "Crystal Dolphin.mp3"
+Oct 21 23:42 : player: played "The Girl From Ipanema.mp3"
+Oct 21 23:45 : player: played "Cats on Mars.mp3"
+Oct 22 09:12 : player: played "Say So.mp3"
+Oct 22 09:15 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 22 09:15 : player: played "Say So.mp3"
+Oct 22 14:09 : exception: Not playing
+Oct 22 14:09 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 22 14:09 : player: played "Little Dark Age.mp3"
+Oct 22 16:23 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 08:37 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 08:49 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 08:49 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 09:39 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 09:43 : player: played "Little Dark Age.mp3"
+Oct 23 11:20 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 13:05 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 13:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 13:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 13:11 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 23 13:11 : player: played "Everybody Wants To Rule the World.mp3"
+Oct 23 13:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 13:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 13:29 : player: played "Don't Tread On Me.mp3"
+Oct 23 13:30 : player: played "The Whole World and You.mp3"
+Oct 23 13:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 14:57 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 14:58 : player: played "Sweet Home Alabama.mp3"
+Oct 23 15:00 : player: played "Immigrant Song.mp3"
+Oct 23 15:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 15:16 : player: played "Carry On Wayward Son.mp3"
+Oct 23 16:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 16:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 16:47 : player: played "Two Wuv.mp3"
+Oct 23 16:50 : player: played "Don't Stop Me Now.mp3"
+Oct 23 16:53 : player: played "Fortunate Son.mp3"
+Oct 23 16:55 : player: played "Brass Monkey.mp3"
+Oct 23 22:08 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 23 22:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 22:08 : player: played "Brass Monkey.mp3"
+Oct 23 22:10 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Oct 23 22:14 : player: played "Don't Stand So Close to Me.mp3"
+Oct 23 22:18 : player: played "Fuck the Fire Department.mp3"
+Oct 23 22:21 : player: played "Cheeki Breeki.mp3"
+Oct 23 22:25 : player: played "Fucked with an Anchor.mp3"
+Oct 23 22:29 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Oct 23 22:34 : player: played "Protect The Land.mp3"
+Oct 23 22:37 : player: played "Low Rider.mp3"
+Oct 23 22:40 : player: played "Pigstep.mp3"
+Oct 23 22:43 : player: played "Crazy Train.mp3"
+Oct 23 22:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 22:46 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 23 23:46 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 12:29 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 12:36 : player: played "Cheeki Breeki.mp3"
+Oct 24 12:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 12:47 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Oct 24 12:52 : player: played "Protect The Land.mp3"
+Oct 24 12:56 : player: played "Low Rider.mp3"
+Oct 24 12:58 : player: played "Pigstep.mp3"
+Oct 24 13:02 : player: played "Crazy Train.mp3"
+Oct 24 13:05 : player: played "The Red Army Is the Strongest.mp3"
+Oct 24 13:08 : player: played "Print Money.mp3"
+Oct 24 13:12 : player: played "Smells Like Teen Spirit.mp3"
+Oct 24 13:17 : player: played "Banana Man.mp3"
+Oct 24 13:19 : player: played "The Bidding.mp3"
+Oct 24 15:03 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 15:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 15:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 15:21 : player: played "Good Day.mp3"
+Oct 24 15:24 : player: played "White Winter Hymnal.mp3"
+Oct 24 15:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 16:41 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 16:42 : player: played "Feel Good Inc.mp3"
+Oct 24 16:46 : player: played "All Along the Watchtower.mp3"
+Oct 24 16:50 : player: played "Seven Nation Army.mp3"
+Oct 24 16:58 : player: played "Life's Been Good.mp3"
+Oct 24 17:03 : player: played "Back In Black.mp3"
+Oct 24 17:08 : player: played "Swallowing Dust.mp3"
+Oct 24 17:12 : player: played "Get up, Stand up (Instrumental Version).mp3"
+Oct 24 17:16 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+Oct 24 19:27 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 19:31 : player: played "All Along the Watchtower.mp3"
+Oct 24 19:35 : player: played "Seven Nation Army.mp3"
+Oct 24 21:12 : player: played "Life's Been Good.mp3"
+Oct 24 21:13 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 24 21:13 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 21:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 22:46 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 24 22:46 : player: played "Back In Black.mp3"
+Oct 25 19:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 25 19:20 : player: played "Back In Black.mp3"
+Oct 25 19:26 : player: played "Swallowing Dust.mp3"
+Oct 25 19:34 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+Oct 25 19:37 : player: played "Money Game, Pt. 2.mp3"
+Oct 25 19:39 : player: played "Team America- America F+++ Yeah- Lyrics.mp3"
+Oct 25 19:41 : player: played "Team America- America F+++ Yeah- Lyrics.mp3"
+Oct 25 19:52 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 25 19:56 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 25 19:56 : player: played "Bosanska Artiljerija.mp3"
+Oct 25 20:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 25 20:12 : player: played "Don't Tread On Me.mp3"
+Oct 25 20:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 25 20:16 : player: played "Gummy Boy - Don't Leave.mp3"
+Oct 25 21:48 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 25 21:48 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 25 21:52 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 25 23:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 25 23:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 25 23:11 : player: played "Зодиак - Зодиак.mp3"
+Oct 25 23:15 : player: played "Наукоград - Время.mp3"
+Oct 25 23:17 : player: played "ППК - Воскрешение (Robot's Outro).mp3"
+Oct 25 23:27 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 25 23:30 : player: played "ППК - Воскрешение.mp3"
+Oct 25 23:32 : player: played "Творожное озеро - Гроза (vwqp remix).mp3"
+Oct 25 23:35 : player: played "Priroda - 8080.mp3"
+Oct 26 09:20 : player: played "PRNRML - Загадка 1.mp3"
+Oct 26 19:22 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 26 19:23 : player: played "PRNRML - Загадка 1.mp3"
+Oct 26 19:30 : player: played "Dmitriy Ivankov - Phobos.mp3"
+Oct 26 19:35 : player: played "NTorchestra - Млечными путями в Прекрасное далеко.mp3"
+Oct 26 19:38 : player: played "Время акаций - Загадка.mp3"
+Oct 26 20:12 : player: played "Импульс-80 - Полёт к Звёздам.mp3"
+Oct 26 20:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 26 20:15 : player: played "Voices.mp3_new.mp3"
+Oct 26 20:18 : player: played "Paranoid.mp3"
+Oct 26 20:22 : player: played "Smells Like Teen Spirit.mp3"
+Oct 26 20:25 : player: played "Immigrant Song.mp3"
+Oct 26 20:29 : player: played "Don't Tread On Me.mp3"
+Oct 26 20:36 : player: played "Seek & Destroy.mp3"
+Oct 26 20:39 : player: played "Highway to Hell.mp3"
+Oct 26 21:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 26 21:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 26 21:27 : player: played "Back In Black.mp3"
+Oct 26 21:33 : player: played "N.I.B.mp3"
+Oct 26 21:39 : player: played "Holy Diver.mp3"
+Oct 26 21:45 : player: played "Iron Man.mp3"
+Oct 26 22:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 26 22:04 : player: played "Aces High (Live).mp3"
+Oct 26 22:13 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Oct 26 22:13 : player: played "Master of Puppets.mp3"
+Oct 26 22:13 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 26 22:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 26 22:18 : player: played "Killing In the Name.m4a"
+Oct 26 22:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 26 23:03 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 26 23:31 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 26 23:32 : player: played "Cowboys from Hell.mp3"
+Oct 26 23:35 : player: played "Chop Suey!.mp3"
+Oct 26 23:41 : player: played "Walk.mp3"
+Oct 26 23:44 : player: played "Crazy Train.mp3"
+Oct 26 23:49 : player: played "Down with the Sickness.mp3"
+Oct 26 23:50 : player: played "The Thing That Should Not Be.mp3"
+Oct 27 17:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 27 17:55 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 27 18:01 : player: played "The Thing That Should Not Be.mp3"
+Oct 27 18:01 : player: played "Toxicity.mp3"
+Oct 27 20:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 27 20:31 : player: played "Toxicity.mp3"
+Oct 27 20:36 : player: played "Protect The Land.mp3"
+Oct 27 23:06 : player: played "Boom!.mp3"
+Oct 27 23:06 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 27 23:11 : player: played "Asayake.mp3"
+Oct 27 23:18 : player: played "Domino Line.mp3"
+Oct 27 23:23 : player: played "Midnight Rendezvous.mp3"
+Oct 27 23:30 : player: played "Swear.mp3"
+Oct 27 23:35 : player: played "Take Me.mp3"
+Oct 27 23:40 : player: played "Tears Of The Star.mp3"
+Oct 27 23:42 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 27 23:42 : player: played "Time Limit.mp3"
+Oct 27 23:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 27 23:44 : player: played "Tears Of The Star.mp3"
+Oct 27 23:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 27 23:49 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 27 23:49 : player: played "Little Dark Age.mp3"
+Oct 27 23:50 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 27 23:53 : player: played "&.mp3"
+Oct 27 23:57 : player: played "Cannibal.mp3"
+Oct 28 00:00 : player: played "Turn the Lights Off.mp3"
+Oct 28 00:03 : player: played "Good Day.mp3"
+Oct 28 00:06 : player: played "The Bidding.mp3"
+Oct 28 00:10 : player: played "Banana Man.mp3"
+Oct 28 00:14 : player: played "Two Wuv.mp3"
+Oct 28 00:15 : player: played "The Whole World and You.mp3"
+Oct 28 00:19 : player: played "Ruler of Everything.mp3"
+Oct 28 16:54 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 16:54 : player: played "&.mp3"
+Oct 28 18:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 18:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 18:42 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 18:42 : player: played "&.mp3"
+Oct 28 18:45 : player: played "Cannibal.mp3"
+Oct 28 18:48 : player: played "Turn the Lights Off.mp3"
+Oct 28 18:52 : player: played "Good Day.mp3"
+Oct 28 18:54 : player: played "The Bidding.mp3"
+Oct 28 18:59 : player: played "Banana Man.mp3"
+Oct 28 18:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 19:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 19:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 19:35 : player: played "Two Wuv.mp3"
+Oct 28 19:36 : player: played "The Whole World and You.mp3"
+Oct 28 19:40 : player: played "Ruler of Everything.mp3"
+Oct 28 19:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 19:45 : player: played "Barefoot In The Park.mp3"
+Oct 28 19:48 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Oct 28 19:57 : player: played "Ode to Joy.mp3"
+Oct 28 20:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 20:00 : player: played "Always Look On the Bright Side of Life.mp3"
+Oct 28 20:03 : player: played "Enormous Penis.mp3"
+Oct 28 20:09 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 20:12 : player: played "Mr. Blue Sky.mp3"
+Oct 28 20:15 : player: played "Turn the Lights Off.mp3"
+Oct 28 20:18 : player: played "September.mp3"
+Oct 28 20:21 : player: played "Happy Together.mp3"
+Oct 28 20:26 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Oct 28 20:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 20:51 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 20:52 : player: played "Ruler of Everything.mp3"
+Oct 28 20:54 : player: played "Misato.mp3"
+Oct 28 20:57 : player: played "Wham Bam Shang-A-Lang.mp3"
+Oct 28 22:50 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 22:55 : player: played "Everything You Ever Dreamed.mp3"
+Oct 28 22:59 : player: played "No Woman, No Cry.mp3"
+Oct 28 23:03 : player: played "TMABird - Everybody's Circulation.mp3"
+Oct 28 23:07 : player: played "Chameleon.mp3"
+Oct 28 23:10 : player: played "Sunday Best.mp3"
+Oct 28 23:14 : player: played "Come and Get Your Love.mp3"
+Oct 28 23:17 : player: played "Catamaran.mp3"
+Oct 28 23:19 : player: played "Crystal Dolphin.mp3"
+Oct 28 23:24 : player: played "The Girl From Ipanema.mp3"
+Oct 28 23:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 23:25 : update: added /Sixteen Tons.mp3
+Oct 28 23:25 : player: played "The Girl From Ipanema.mp3"
+Oct 28 23:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 23:28 : player: played "The Girl From Ipanema.mp3"
+Oct 28 23:31 : player: played "Cats on Mars.mp3"
+Oct 28 23:35 : player: played "Say So.mp3"
+Oct 28 23:46 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 23:54 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 28 23:57 : player: played "Little Dark Age.mp3"
+Oct 29 00:02 : player: played "Everybody Wants To Rule the World.mp3"
+Oct 29 00:04 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 29 00:04 : player: played "Sixteen Tons.mp3"
+Oct 29 15:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 29 16:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 29 16:58 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 29 17:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 29 17:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 14:52 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 14:52 : player: played "Barefoot In The Park.mp3"
+Oct 30 14:55 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Oct 30 15:03 : player: played "Ode to Joy.mp3"
+Oct 30 15:07 : player: played "Always Look On the Bright Side of Life.mp3"
+Oct 30 15:10 : player: played "Enormous Penis.mp3"
+Oct 30 15:16 : player: played "The Real Folk Blues.mp3"
+Oct 30 15:21 : player: played "Mr. Blue Sky.mp3"
+Oct 30 15:24 : player: played "Turn the Lights Off.mp3"
+Oct 30 18:05 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 18:08 : player: played "September.mp3"
+Oct 30 18:11 : player: played "Happy Together.mp3"
+Oct 30 18:16 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Oct 30 18:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 18:20 : player: played "Ruler of Everything.mp3"
+Oct 30 18:21 : player: played "Misato.mp3"
+Oct 30 18:25 : player: played "Wham Bam Shang-A-Lang.mp3"
+Oct 30 18:31 : player: played "Everything You Ever Dreamed.mp3"
+Oct 30 18:35 : player: played "No Woman, No Cry.mp3"
+Oct 30 18:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 18:45 : player: played "TMABird - Everybody's Circulation.mp3"
+Oct 30 18:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 18:53 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 18:55 : player: played "Chameleon.mp3"
+Oct 30 18:57 : player: played "Sunday Best.mp3"
+Oct 30 19:01 : player: played "Come and Get Your Love.mp3"
+Oct 30 19:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 19:14 : player: played "Catamaran.mp3"
+Oct 30 19:21 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 19:22 : player: played "Crystal Dolphin.mp3"
+Oct 30 19:52 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 19:54 : player: played "The Girl From Ipanema.mp3"
+Oct 30 19:57 : player: played "Cats on Mars.mp3"
+Oct 30 19:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 21:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 21:10 : player: played "Say So.mp3"
+Oct 30 21:45 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 22:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 22:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 22:40 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 30 22:40 : player: played "Little Dark Age.mp3"
+Oct 30 23:51 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 12:28 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Oct 31 12:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 12:33 : player: played "Little Dark Age.mp3"
+Oct 31 12:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 12:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 12:48 : player: played "Everybody Wants To Rule the World.mp3"
+Oct 31 12:53 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 12:56 : output: Failed to flush filter on "My ALSA Device" (alsa): snd_pcm_writei() failed: Broken pipe
+Oct 31 12:56 : player: played "Sixteen Tons.mp3"
+Oct 31 12:56 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 12:56 : player: played "Barefoot In The Park.mp3"
+Oct 31 12:56 : exception: No such directory
+Oct 31 12:56 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 13:00 : player: played "Don't Tread On Me.mp3"
+Oct 31 13:01 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 13:03 : player: played "The Whole World and You.mp3"
+Oct 31 13:07 : player: played "Sweet Home Alabama.mp3"
+Oct 31 13:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 13:13 : player: played "Immigrant Song.mp3"
+Oct 31 14:48 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 14:48 : player: played "Hey Ya!.mp3"
+Oct 31 14:52 : player: played "Carry On Wayward Son.mp3"
+Oct 31 18:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 18:36 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 20:17 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 20:37 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 20:38 : player: played "Two Wuv.mp3"
+Oct 31 21:46 : player: played "Don't Stop Me Now.mp3"
+Oct 31 21:48 : player: played "Fortunate Son.mp3"
+Oct 31 21:51 : player: played "Brass Monkey.mp3"
+Oct 31 21:53 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Oct 31 21:57 : player: played "Don't Stand So Close to Me.mp3"
+Oct 31 22:01 : player: played "Fuck the Fire Department.mp3"
+Oct 31 22:04 : player: played "Cheeki Breeki.mp3"
+Oct 31 22:08 : player: played "Fucked with an Anchor.mp3"
+Oct 31 22:12 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Oct 31 22:17 : player: played "Protect The Land.mp3"
+Oct 31 22:20 : player: played "Low Rider.mp3"
+Oct 31 22:22 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 22:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 22:24 : player: played "Fortunate Son.mp3"
+Oct 31 22:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 22:27 : player: played "Brass Monkey.mp3"
+Oct 31 22:30 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Oct 31 22:33 : player: played "Fuck the Fire Department.mp3"
+Oct 31 22:37 : player: played "Cheeki Breeki.mp3"
+Oct 31 22:40 : player: played "Fucked with an Anchor.mp3"
+Oct 31 22:44 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Oct 31 22:56 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 22:58 : player: played "Protect The Land.mp3"
+Oct 31 23:01 : player: played "Low Rider.mp3"
+Oct 31 23:03 : player: played "Pigstep.mp3"
+Oct 31 23:22 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 23:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 23:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 31 23:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 00:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 00:19 : player: played "Crazy Train.mp3"
+Nov 01 00:21 : player: played "The Red Army Is the Strongest.mp3"
+Nov 01 00:27 : player: played "Thanatos (From 'Neon Genesis Evangelion').mp3"
+Nov 01 00:29 : player: played "Print Money.mp3"
+Nov 01 10:35 : player: played "Smells Like Teen Spirit.mp3"
+Nov 01 16:11 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 16:43 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Nov 01 16:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 16:43 : player: played "Smells Like Teen Spirit.mp3"
+Nov 01 19:56 : update: added /Should I Stay or Should I Go.mp3
+Nov 01 19:56 : exception: Playlist already exists
+Nov 01 19:58 : update: added /Mother Anarchy Loves Her Sons [English Subtitle].mp3
+Nov 01 19:58 : exception: Playlist already exists
+Nov 01 19:58 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 20:00 : update: added /68 Guns.mp3
+Nov 01 20:00 : exception: Playlist already exists
+Nov 01 21:06 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 21:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 21:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 21:20 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 21:41 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 21:41 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 22:31 : update: added /Nuestra Canción.mp3
+Nov 01 22:40 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 22:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 22:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 22:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 22:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 22:51 : player: played "Banana Man.mp3"
+Nov 01 22:54 : player: played "The Bidding.mp3"
+Nov 01 22:59 : player: played "Aces High (Live).mp3"
+Nov 01 23:02 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 01 23:05 : player: played "Don't Fear the Reaper.mp3"
+Nov 01 23:08 : player: played "Good Day.mp3"
+Nov 01 23:10 : player: played "White Winter Hymnal.mp3"
+Nov 01 23:15 : player: played "Feel Good Inc.mp3"
+Nov 01 23:19 : player: played "All Along the Watchtower.mp3"
+Nov 01 23:22 : player: played "Seven Nation Army.mp3"
+Nov 01 23:30 : player: played "Life's Been Good.mp3"
+Nov 01 23:35 : player: played "Back In Black.mp3"
+Nov 01 23:40 : player: played "Swallowing Dust.mp3"
+Nov 01 23:44 : player: played "Get up, Stand up (Instrumental Version).mp3"
+Nov 01 23:48 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+Nov 01 23:52 : player: played "Money Game, Pt. 2.mp3"
+Nov 01 23:54 : player: played "Team America- America F+++ Yeah- Lyrics.mp3"
+Nov 01 23:58 : player: played "God, Syria and Bashar!.mp3"
+Nov 02 20:42 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 02 20:45 : player: played "Bosanska Artiljerija.mp3"
+Nov 02 20:46 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Nov 02 20:46 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 02 20:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 02 21:11 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 02 21:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 02 21:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 02 21:14 : player: played "Bosanska Artiljerija.mp3"
+Nov 02 23:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 02 23:27 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 02 23:27 : player: played "Sixteen Tons.mp3"
+Nov 02 23:30 : player: played "Should I Stay or Should I Go.mp3"
+Nov 02 23:31 : update: updating /Mother Anarchy Loves Her Sons [English Subtitle].mp3
+Nov 02 23:33 : player: played "Mother Anarchy Loves Her Sons [English Subtitle].mp3"
+Nov 02 23:39 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 02 23:39 : player: played "68 Guns.mp3"
+Nov 02 23:40 : exception: No such directory
+Nov 02 23:40 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 02 23:43 : player: played "Barefoot In The Park.mp3"
+Nov 02 23:46 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Nov 02 23:51 : player: played "Always Look On the Bright Side of Life.mp3"
+Nov 02 23:54 : player: played "Enormous Penis.mp3"
+Nov 02 23:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 00:01 : player: played "Mr. Blue Sky.mp3"
+Nov 03 00:04 : player: played "Turn the Lights Off.mp3"
+Nov 03 00:08 : player: played "September.mp3"
+Nov 03 00:11 : player: played "Happy Together.mp3"
+Nov 03 11:14 : player: played "Ruler of Everything.mp3"
+Nov 03 15:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 16:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 19:02 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 19:05 : player: played "Ruler of Everything.mp3"
+Nov 03 19:07 : player: played "Misato.mp3"
+Nov 03 19:42 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Nov 03 19:42 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 19:44 : player: played "Wham Bam Shang-A-Lang.mp3"
+Nov 03 19:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 19:44 : player: played "Wham Bam Shang-A-Lang.mp3"
+Nov 03 20:09 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 20:12 : player: played "Wham Bam Shang-A-Lang.mp3"
+Nov 03 20:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 20:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 20:20 : player: played "Everything You Ever Dreamed.mp3"
+Nov 03 20:24 : player: played "No Woman, No Cry.mp3"
+Nov 03 20:27 : player: played "TMABird - Everybody's Circulation.mp3"
+Nov 03 20:32 : player: played "Chameleon.mp3"
+Nov 03 20:35 : player: played "Sunday Best.mp3"
+Nov 03 20:36 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 20:37 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 20:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 20:38 : player: played "Come and Get Your Love.mp3"
+Nov 03 20:40 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 20:42 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 20:42 : player: played "Catamaran.mp3"
+Nov 03 22:26 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 22:28 : player: played "Crystal Dolphin.mp3"
+Nov 03 22:31 : player: played "The Girl From Ipanema.mp3"
+Nov 03 22:34 : player: played "Cats on Mars.mp3"
+Nov 03 22:38 : player: played "Say So.mp3"
+Nov 03 22:43 : player: played "Little Dark Age.mp3"
+Nov 03 22:47 : player: played "Everybody Wants To Rule the World.mp3"
+Nov 03 22:48 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 22:49 : player: played "Sixteen Tons.mp3"
+Nov 03 22:54 : player: played "Nuestra Canción.mp3"
+Nov 03 22:57 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 03 22:57 : player: played "Mother Anarchy Loves Her Sons [English Subtitle].mp3"
+Nov 03 23:54 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 23:54 : player: played "Barefoot In The Park.mp3"
+Nov 03 23:55 : exception: No such directory
+Nov 03 23:55 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 03 23:58 : player: played "Mother Anarchy Loves Her Sons [English Subtitle].mp3"
+Nov 04 20:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 04 20:50 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 04 20:50 : player: played "Mother Anarchy Loves Her Sons [English Subtitle].mp3"
+Nov 04 20:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 04 21:04 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 04 21:08 : player: played "Don't Tread On Me.mp3"
+Nov 05 11:51 : player: played "The Whole World and You.mp3"
+Nov 05 11:56 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 05 11:56 : player: played "The Whole World and You.mp3"
+Nov 05 12:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 05 12:02 : player: played "The Whole World and You.mp3"
+Nov 05 12:07 : player: played "Sweet Home Alabama.mp3"
+Nov 05 12:09 : player: played "Immigrant Song.mp3"
+Nov 05 12:13 : player: played "Carry On Wayward Son.mp3"
+Nov 05 12:17 : player: played "Two Wuv.mp3"
+Nov 05 12:20 : player: played "Don't Stop Me Now.mp3"
+Nov 05 12:22 : player: played "Fortunate Son.mp3"
+Nov 05 12:25 : player: played "Brass Monkey.mp3"
+Nov 05 12:27 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Nov 05 12:31 : player: played "Fuck the Fire Department.mp3"
+Nov 05 12:34 : player: played "Cheeki Breeki.mp3"
+Nov 05 12:39 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Nov 05 12:44 : player: played "Protect The Land.mp3"
+Nov 05 12:47 : player: played "Low Rider.mp3"
+Nov 05 12:49 : player: played "Pigstep.mp3"
+Nov 05 12:53 : player: played "Crazy Train.mp3"
+Nov 05 12:56 : player: played "The Red Army Is the Strongest.mp3"
+Nov 05 13:02 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 05 13:04 : player: played "Print Money.mp3"
+Nov 05 13:44 : player: played "Smells Like Teen Spirit.mp3"
+Nov 05 22:46 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 05 23:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 05 23:55 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 05 23:59 : player: played "Smells Like Teen Spirit.mp3"
+Nov 06 00:04 : player: played "Banana Man.mp3"
+Nov 06 22:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 06 22:29 : player: played "The Bidding.mp3"
+Nov 06 22:34 : player: played "Aces High (Live).mp3"
+Nov 06 22:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 06 22:38 : player: played "Good Day.mp3"
+Nov 06 22:41 : player: played "White Winter Hymnal.mp3"
+Nov 06 22:45 : player: played "Feel Good Inc.mp3"
+Nov 06 22:50 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 06 22:54 : player: played "All Along the Watchtower.mp3"
+Nov 06 22:56 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 06 22:58 : player: played "Seven Nation Army.mp3"
+Nov 06 22:58 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 06 23:06 : player: played "Life's Been Good.mp3"
+Nov 06 23:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 06 23:19 : player: played "Swallowing Dust.mp3"
+Nov 07 11:55 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 11:57 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 11:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:05 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:06 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:08 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+Nov 07 12:12 : player: played "Money Game, Pt. 2.mp3"
+Nov 07 12:14 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:14 : player: played "Team America- America F+++ Yeah- Lyrics.mp3"
+Nov 07 12:15 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:17 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:19 : player: played "God, Syria and Bashar!.mp3"
+Nov 07 12:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:24 : player: played "Bosanska Artiljerija.mp3"
+Nov 07 12:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:30 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:31 : player: played "Sixteen Tons.mp3"
+Nov 07 12:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:35 : player: played "Should I Stay or Should I Go.mp3"
+Nov 07 12:38 : player: played "Mother Anarchy Loves Her Sons [English Subtitle].mp3"
+Nov 07 12:44 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 07 12:44 : player: played "68 Guns.mp3"
+Nov 07 12:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:44 : player: played "Tri Poloski.mp3"
+Nov 07 12:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:48 : player: played "Cheeki Breeki.mp3"
+Nov 07 12:50 : player: played "Protivogaz.mp3"
+Nov 07 12:51 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:51 : player: played "Protivogaz.mp3"
+Nov 07 12:51 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 12:54 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 07 12:54 : player: played "Tri Poloski.mp3"
+Nov 07 12:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 13:04 : player: played "Ride of the Valkyries.mp3"
+Nov 07 17:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 20:09 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 20:09 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 20:21 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 07 20:21 : player: played "Aleksandr Borodin - Polovetsian Dances from 'Prince Igor'.mp3"
+Nov 07 20:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 20:33 : player: played "Aleksandr Borodin - Polovetsian Dances from 'Prince Igor'.mp3"
+Nov 07 20:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 20:41 : player: played "Barefoot In The Park.mp3"
+Nov 07 20:44 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Nov 07 20:48 : player: played "Always Look On the Bright Side of Life.mp3"
+Nov 07 20:49 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 20:51 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 07 20:51 : player: played "Enormous Penis.mp3"
+Nov 08 09:34 : player: played "The Real Folk Blues.mp3"
+Nov 08 11:49 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 11:49 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 11:51 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 11:55 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 11:56 : player: played "Mr. Blue Sky.mp3"
+Nov 08 11:59 : player: played "Turn the Lights Off.mp3"
+Nov 08 12:02 : player: played "September.mp3"
+Nov 08 12:05 : player: played "Happy Together.mp3"
+Nov 08 12:09 : player: played "Ruler of Everything.mp3"
+Nov 08 12:11 : player: played "Misato.mp3"
+Nov 08 12:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 12:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 12:17 : player: played "No Woman, No Cry.mp3"
+Nov 08 12:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 12:21 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 12:22 : player: played "TMABird - Everybody's Circulation.mp3"
+Nov 08 12:27 : player: played "Chameleon.mp3"
+Nov 08 12:29 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 12:30 : player: played "Sunday Best.mp3"
+Nov 08 12:34 : player: played "Come and Get Your Love.mp3"
+Nov 08 12:37 : player: played "Catamaran.mp3"
+Nov 08 12:39 : player: played "Crystal Dolphin.mp3"
+Nov 08 12:42 : player: played "The Girl From Ipanema.mp3"
+Nov 08 12:45 : player: played "Cats on Mars.mp3"
+Nov 08 12:50 : player: played "Little Dark Age.mp3"
+Nov 08 12:53 : player: played "Sixteen Tons.mp3"
+Nov 08 12:57 : player: played "Nuestra Canción.mp3"
+Nov 08 16:30 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 16:33 : player: played "Barefoot In The Park.mp3"
+Nov 08 16:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 16:41 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 19:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 19:46 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 20:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 20:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 20:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 21:42 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 22:06 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 22:06 : player: played "Immigrant Song.mp3"
+Nov 08 22:17 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Nov 08 22:17 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 22:56 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 08 23:00 : player: played "Smells Like Teen Spirit.mp3"
+Nov 08 23:04 : player: played "Wham Bam Shang-A-Lang.mp3"
+Nov 08 23:07 : player: played "Fucked with an Anchor.mp3"
+Nov 08 23:12 : player: played "Peace Sells.mp3"
+Nov 08 23:13 : player: played "Print Money.mp3"
+Nov 08 23:16 : player: played "The Red Army Is the Strongest.mp3"
+Nov 08 23:18 : player: played "Fortunate Son.mp3"
+Nov 09 21:10 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Nov 09 21:10 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 21:15 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:01 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:02 : player: played "Walk.mp3"
+Nov 09 22:05 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:10 : output: Failed to flush filter on "My ALSA Device" (alsa): snd_pcm_writei() failed: Broken pipe
+Nov 09 22:10 : player: played "Cowboys from Hell.mp3"
+Nov 09 22:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:13 : output: Failed to flush filter on "My ALSA Device" (alsa): snd_pcm_writei() failed: Broken pipe
+Nov 09 22:13 : player: played "Mother Anarchy Loves Her Sons [English Subtitle].mp3"
+Nov 09 22:15 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:17 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 09 22:17 : player: played "Protect The Land.mp3"
+Nov 10 15:48 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 15:52 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Nov 10 15:52 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 15:54 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 16:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 16:06 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 19:57 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 19:59 : player: played "Don't Tread On Me.mp3"
+Nov 10 20:01 : player: played "The Whole World and You.mp3"
+Nov 10 20:03 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 20:17 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 20:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 20:19 : player: played "Sweet Home Alabama.mp3"
+Nov 10 20:21 : player: played "Immigrant Song.mp3"
+Nov 10 20:25 : player: played "Hey Ya!.mp3"
+Nov 10 20:30 : player: played "Il Vento D'oro.mp3"
+Nov 10 20:34 : player: played "Carry On Wayward Son.mp3"
+Nov 10 20:56 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 20:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 10 20:59 : player: played "Two Wuv.mp3"
+Nov 10 21:01 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 08:46 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 08:48 : player: played "Don't Stop Me Now.mp3"
+Nov 11 08:51 : player: played "Fortunate Son.mp3"
+Nov 11 08:53 : player: played "Brass Monkey.mp3"
+Nov 11 09:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 09:01 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Nov 11 09:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 09:15 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 09:17 : player: played "Don't Stand So Close to Me.mp3"
+Nov 11 09:21 : player: played "Fuck the Fire Department.mp3"
+Nov 11 09:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 09:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 09:27 : player: played "Cheeki Breeki.mp3"
+Nov 11 09:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 09:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 09:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 09:37 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Nov 11 09:42 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 09:43 : player: played "Protect The Land.mp3"
+Nov 11 09:46 : player: played "Low Rider.mp3"
+Nov 11 09:48 : player: played "Pigstep.mp3"
+Nov 11 09:52 : player: played "Crazy Train.mp3"
+Nov 11 09:55 : player: played "The Red Army Is the Strongest.mp3"
+Nov 11 10:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 10:18 : player: played "Print Money.mp3"
+Nov 11 10:22 : player: played "Smells Like Teen Spirit.mp3"
+Nov 11 10:26 : player: played "Banana Man.mp3"
+Nov 11 10:29 : player: played "The Bidding.mp3"
+Nov 11 10:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 10:34 : player: played "Aces High (Live).mp3"
+Nov 11 10:38 : player: played "Good Day.mp3"
+Nov 11 10:40 : player: played "White Winter Hymnal.mp3"
+Nov 11 10:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 11:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 11:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 11:13 : player: played "All Along the Watchtower.mp3"
+Nov 11 14:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 14:49 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 14:54 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 11 15:14 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 12 07:09 : player: played "Seven Nation Army.mp3"
+Nov 12 09:11 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Nov 12 09:11 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 12:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 12:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 12:46 : player: played "Seven Nation Army.mp3"
+Nov 13 12:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 12:52 : player: played "Back In Black.mp3"
+Nov 13 13:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 19:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 19:14 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 19:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 19:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 20:21 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 20:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 22:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 13 22:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 13:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 13:35 : player: played "Swallowing Dust.mp3"
+Nov 14 13:41 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 13:42 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 14:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 14:40 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 14:44 : player: played "Money Game, Pt. 2.mp3"
+Nov 14 14:46 : player: played "Team America- America F+++ Yeah- Lyrics.mp3"
+Nov 14 14:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 14:52 : player: played "Bosanska Artiljerija.mp3"
+Nov 14 14:55 : player: played "Sixteen Tons.mp3"
+Nov 14 14:58 : player: played "Should I Stay or Should I Go.mp3"
+Nov 14 15:01 : player: played "Mother Anarchy Loves Her Sons [English Subtitle].mp3"
+Nov 14 15:06 : player: played "68 Guns.mp3"
+Nov 14 16:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 16:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 21:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 22:31 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 22:36 : player: played "White Winter Hymnal.mp3"
+Nov 14 22:39 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 22:40 : player: played "Feel Good Inc.mp3"
+Nov 14 22:41 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 22:42 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 22:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 22:46 : player: played "All Along the Watchtower.mp3"
+Nov 14 22:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 23:06 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 23:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 23:08 : player: played "Seven Nation Army.mp3"
+Nov 14 23:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 23:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 23:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 23:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 23:32 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 14 23:40 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 17:50 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 19:01 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 19:01 : player: played "Back In Black.mp3"
+Nov 15 19:07 : player: played "Swallowing Dust.mp3"
+Nov 15 19:20 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 19:22 : player: played "Get up, Stand up (Instrumental Version).mp3"
+Nov 15 19:27 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 19:27 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 19:31 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+Nov 15 19:34 : player: played "Money Game, Pt. 2.mp3"
+Nov 15 19:36 : player: played "Team America- America F+++ Yeah- Lyrics.mp3"
+Nov 15 19:40 : player: played "God, Syria and Bashar!.mp3"
+Nov 15 19:44 : player: played "Bosanska Artiljerija.mp3"
+Nov 15 19:46 : player: played "Sixteen Tons.mp3"
+Nov 15 19:49 : player: played "Should I Stay or Should I Go.mp3"
+Nov 15 19:52 : player: played "Mother Anarchy Loves Her Sons [English Subtitle].mp3"
+Nov 15 19:58 : player: played "68 Guns.mp3"
+Nov 15 20:07 : player: played "Kashmir.mp3"
+Nov 15 22:02 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 22:02 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 22:03 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 22:06 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 22:53 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 23:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 23:14 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 23:17 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 23:39 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 23:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 23:50 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 15 23:51 : player: played "The Whole World and You.mp3"
+Nov 15 23:57 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 09:57 : player: played "Immigrant Song.mp3"
+Nov 16 16:03 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 16:06 : player: played "Immigrant Song.mp3"
+Nov 16 16:10 : player: played "Hey Ya!.mp3"
+Nov 16 16:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 16:15 : player: played "Il Vento D'oro.mp3"
+Nov 16 16:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 16:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 16:27 : player: played "Carry On Wayward Son.mp3"
+Nov 16 16:30 : player: played "Two Wuv.mp3"
+Nov 16 21:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 21:10 : player: played "Don't Stop Me Now.mp3"
+Nov 16 21:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 21:25 : player: played "Fortunate Son.mp3"
+Nov 16 21:28 : player: played "Brass Monkey.mp3"
+Nov 16 21:30 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Nov 16 21:34 : player: played "Don't Stand So Close to Me.mp3"
+Nov 16 21:38 : player: played "Fuck the Fire Department.mp3"
+Nov 16 21:41 : player: played "Cheeki Breeki.mp3"
+Nov 16 21:48 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 21:52 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Nov 16 21:57 : player: played "Protect The Land.mp3"
+Nov 16 22:00 : player: played "Low Rider.mp3"
+Nov 16 22:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 23:26 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 23:31 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 23:32 : player: played "Crazy Train.mp3"
+Nov 16 23:35 : player: played "The Red Army Is the Strongest.mp3"
+Nov 16 23:41 : player: played "Print Money.mp3"
+Nov 16 23:46 : player: played "Smells Like Teen Spirit.mp3"
+Nov 16 23:50 : player: played "Banana Man.mp3"
+Nov 16 23:52 : player: played "The Bidding.mp3"
+Nov 16 23:54 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 16 23:58 : player: played "Aces High (Live).mp3"
+Nov 17 00:03 : player: played "Don't Fear the Reaper.mp3"
+Nov 17 00:06 : player: played "Good Day.mp3"
+Nov 17 00:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 00:09 : player: played "White Winter Hymnal.mp3"
+Nov 17 00:13 : player: played "Feel Good Inc.mp3"
+Nov 17 15:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 15:38 : player: played "All Along the Watchtower.mp3"
+Nov 17 15:42 : player: played "Seven Nation Army.mp3"
+Nov 17 15:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 16:03 : player: played "Back In Black.mp3"
+Nov 17 16:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 16:09 : player: played "Swallowing Dust.mp3"
+Nov 17 16:11 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 16:13 : player: played "Get up, Stand up (Instrumental Version).mp3"
+Nov 17 16:14 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 21:53 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 21:53 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+Nov 17 21:54 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 21:58 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 21:58 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 22:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 22:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 22:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 22:01 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 22:02 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 22:02 : player: played "Money Game, Pt. 2.mp3"
+Nov 17 22:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 23:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 17 23:19 : player: played "Bosanska Artiljerija.mp3"
+Nov 17 23:22 : player: played "Sixteen Tons.mp3"
+Nov 17 23:25 : player: played "Should I Stay or Should I Go.mp3"
+Nov 17 23:28 : player: played "Mother Anarchy Loves Her Sons [English Subtitle].mp3"
+Nov 17 23:33 : player: played "68 Guns.mp3"
+Nov 17 23:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 10:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 10:46 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 18 10:46 : player: played "Kashmir.mp3"
+Nov 18 10:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 10:53 : player: played "Sweet Home Alabama.mp3"
+Nov 18 10:55 : player: played "Immigrant Song.mp3"
+Nov 18 14:57 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 15:00 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 15:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 16:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 16:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 16:09 : player: played "Carry On Wayward Son.mp3"
+Nov 18 21:45 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 22:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 22:26 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 22:28 : player: played "Two Wuv.mp3"
+Nov 18 22:31 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 22:32 : player: played "Don't Stop Me Now.mp3"
+Nov 18 22:34 : player: played "Fortunate Son.mp3"
+Nov 18 22:37 : player: played "Brass Monkey.mp3"
+Nov 18 22:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 22:47 : player: played "Ancapistan#(Full#Song).mp3_new.mp3"
+Nov 18 22:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:02 : player: played "Don't Stand So Close to Me.mp3"
+Nov 18 23:06 : player: played "Fuck the Fire Department.mp3"
+Nov 18 23:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:20 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:20 : player: played "Cheeki Breeki.mp3"
+Nov 18 23:24 : player: played "Fucked with an Anchor.mp3"
+Nov 18 23:27 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:29 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:29 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:31 : player: played "A Cruel Angel's Thesis (Director's Edit Version).mp3"
+Nov 18 23:32 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:40 : player: played "Protect The Land.mp3"
+Nov 18 23:41 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:43 : player: played "Low Rider.mp3"
+Nov 18 23:45 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:45 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:46 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 18 23:46 : player: played "Pigstep.mp3"
+Nov 18 23:49 : player: played "Crazy Train.mp3"
+Nov 18 23:52 : player: played "The Red Army Is the Strongest.mp3"
+Nov 18 23:58 : player: played "Thanatos (From 'Neon Genesis Evangelion').mp3"
+Nov 19 00:00 : player: played "Print Money.mp3"
+Nov 19 00:04 : player: played "Smells Like Teen Spirit.mp3"
+Nov 19 00:08 : player: played "Banana Man.mp3"
+Nov 19 09:22 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 09:23 : player: played "The Bidding.mp3"
+Nov 19 09:28 : player: played "Aces High (Live).mp3"
+Nov 19 09:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 09:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 09:37 : player: played "Good Day.mp3"
+Nov 19 09:39 : player: played "White Winter Hymnal.mp3"
+Nov 19 10:49 : player: played "Feel Good Inc.mp3"
+Nov 19 20:06 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 22:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 22:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 22:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 22:14 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 22:15 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 22:15 : player: played "Feel Good Inc.mp3"
+Nov 19 22:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 22:17 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 19 22:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 10:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 10:09 : player: played "All Along the Watchtower.mp3"
+Nov 20 10:31 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 11:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 11:14 : player: played "Seven Nation Army.mp3"
+Nov 20 15:39 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 15:39 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 16:02 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 19:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 19:12 : player: played "Back In Black.mp3"
+Nov 20 19:15 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 19:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 19:39 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 19:43 : player: played "Swallowing Dust.mp3"
+Nov 20 19:47 : player: played "Get up, Stand up (Instrumental Version).mp3"
+Nov 20 19:51 : player: played "Tylko jedno w głowie mam (lyrics).mp3"
+Nov 20 19:55 : player: played "Money Game, Pt. 2.mp3"
+Nov 20 20:45 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 21:05 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 21:20 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 21:22 : player: played "Sixteen Tons.mp3"
+Nov 20 21:25 : player: played "Should I Stay or Should I Go.mp3"
+Nov 20 21:28 : player: played "Mother Anarchy Loves Her Sons [English Subtitle].mp3"
+Nov 20 21:34 : player: played "68 Guns.mp3"
+Nov 20 21:43 : player: played "Kashmir.mp3"
+Nov 20 22:06 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 20 22:06 : player: played "Don't Tread On Me.mp3"
+Nov 21 11:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 21 11:31 : player: played "Barefoot In The Park.mp3"
+Nov 21 11:34 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Nov 21 11:38 : player: played "Always Look On the Bright Side of Life.mp3"
+Nov 21 11:41 : player: played "Enormous Penis.mp3"
+Nov 21 11:47 : player: played "The Real Folk Blues.mp3"
+Nov 21 11:52 : player: played "Mr. Blue Sky.mp3"
+Nov 21 11:55 : player: played "Turn the Lights Off.mp3"
+Nov 21 11:59 : player: played "September.mp3"
+Nov 21 12:02 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 21 12:02 : player: played "Happy Together.mp3"
+Nov 21 12:06 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Nov 21 12:10 : player: played "Ruler of Everything.mp3"
+Nov 21 12:12 : player: played "Misato.mp3"
+Nov 21 12:15 : player: played "Wham Bam Shang-A-Lang.mp3"
+Nov 21 12:22 : player: played "Everything You Ever Dreamed.mp3"
+Nov 21 12:26 : player: played "No Woman, No Cry.mp3"
+Nov 21 12:29 : player: played "TMABird - Everybody's Circulation.mp3"
+Nov 21 12:31 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 21 12:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 21 19:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 21 19:49 : player: played "Chameleon.mp3"
+Nov 21 19:52 : player: played "Sunday Best.mp3"
+Nov 21 19:55 : player: played "Come and Get Your Love.mp3"
+Nov 21 19:59 : player: played "Catamaran.mp3"
+Nov 21 20:01 : player: played "Crystal Dolphin.mp3"
+Nov 21 20:04 : player: played "The Girl From Ipanema.mp3"
+Nov 21 20:07 : player: played "Cats on Mars.mp3"
+Nov 21 20:11 : player: played "Say So.mp3"
+Nov 21 20:16 : player: played "Little Dark Age.mp3"
+Nov 21 20:20 : player: played "Everybody Wants To Rule the World.mp3"
+Nov 21 20:22 : player: played "Sixteen Tons.mp3"
+Nov 21 20:27 : player: played "Nuestra Canción.mp3"
+Nov 21 20:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 21 20:30 : player: played "Barefoot In The Park.mp3"
+Nov 21 20:33 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Nov 21 20:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 21 20:42 : player: played "Ode to Joy.mp3"
+Nov 21 20:46 : player: played "Always Look On the Bright Side of Life.mp3"
+Nov 21 20:49 : player: played "Enormous Penis.mp3"
+Nov 21 20:55 : player: played "The Real Folk Blues.mp3"
+Nov 21 21:00 : player: played "Mr. Blue Sky.mp3"
+Nov 21 21:03 : player: played "Turn the Lights Off.mp3"
+Nov 21 21:06 : player: played "September.mp3"
+Nov 21 21:09 : player: played "Happy Together.mp3"
+Nov 21 21:14 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Nov 21 21:18 : player: played "Ruler of Everything.mp3"
+Nov 21 21:19 : player: played "Misato.mp3"
+Nov 21 21:23 : player: played "Wham Bam Shang-A-Lang.mp3"
+Nov 21 21:30 : player: played "Everything You Ever Dreamed.mp3"
+Nov 21 23:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 21 23:07 : player: played "No Woman, No Cry.mp3"
+Nov 21 23:11 : player: played "TMABird - Everybody's Circulation.mp3"
+Nov 21 23:15 : player: played "Chameleon.mp3"
+Nov 21 23:17 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 21 23:18 : player: played "Sunday Best.mp3"
+Nov 21 23:22 : player: played "Come and Get Your Love.mp3"
+Nov 22 11:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 11:18 : player: played "Catamaran.mp3"
+Nov 22 11:20 : player: played "Crystal Dolphin.mp3"
+Nov 22 11:23 : player: played "The Girl From Ipanema.mp3"
+Nov 22 11:26 : player: played "Cats on Mars.mp3"
+Nov 22 11:30 : player: played "Say So.mp3"
+Nov 22 11:35 : player: played "Little Dark Age.mp3"
+Nov 22 12:11 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 16:38 : player: played "Everybody Wants To Rule the World.mp3"
+Nov 22 16:38 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Nov 22 16:38 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 18:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 18:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 18:36 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 18:57 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 18:58 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 18:58 : player: played "Everybody Wants To Rule the World.mp3"
+Nov 22 18:59 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 21:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 21:37 : player: played "Sixteen Tons.mp3"
+Nov 22 21:40 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 21:43 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 22 21:43 : player: played "Nuestra Canción.mp3"
+Nov 22 21:47 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 21:50 : player: played "Barefoot In The Park.mp3"
+Nov 22 21:53 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Nov 22 22:01 : player: played "Ode to Joy.mp3"
+Nov 22 22:05 : player: played "Always Look On the Bright Side of Life.mp3"
+Nov 22 22:08 : player: played "Enormous Penis.mp3"
+Nov 22 22:14 : player: played "The Real Folk Blues.mp3"
+Nov 22 22:19 : player: played "Mr. Blue Sky.mp3"
+Nov 22 22:22 : player: played "Turn the Lights Off.mp3"
+Nov 22 22:25 : player: played "September.mp3"
+Nov 22 22:28 : player: played "Happy Together.mp3"
+Nov 22 22:33 : player: played "Bakamitai(Taxi Driver Edition).mp3"
+Nov 22 22:37 : player: played "Ruler of Everything.mp3"
+Nov 22 22:38 : player: played "Misato.mp3"
+Nov 22 22:42 : player: played "Wham Bam Shang-A-Lang.mp3"
+Nov 22 22:49 : player: played "Everything You Ever Dreamed.mp3"
+Nov 22 22:52 : player: played "No Woman, No Cry.mp3"
+Nov 22 22:56 : player: played "TMABird - Everybody's Circulation.mp3"
+Nov 22 23:09 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 23:09 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 22 23:14 : player: played "Chameleon.mp3"
+Nov 22 23:17 : player: played "Sunday Best.mp3"
+Nov 22 23:20 : player: played "Come and Get Your Love.mp3"
+Nov 22 23:24 : player: played "Catamaran.mp3"
+Nov 22 23:25 : player: played "Crystal Dolphin.mp3"
+Nov 22 23:29 : player: played "The Girl From Ipanema.mp3"
+Nov 22 23:31 : player: played "Cats on Mars.mp3"
+Nov 22 23:35 : player: played "Say So.mp3"
+Nov 22 23:40 : player: played "Little Dark Age.mp3"
+Nov 22 23:45 : player: played "Everybody Wants To Rule the World.mp3"
+Nov 22 23:47 : player: played "Sixteen Tons.mp3"
+Nov 22 23:51 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 22 23:51 : player: played "Nuestra Canción.mp3"
+Nov 23 00:17 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 23 00:18 : player: played "Barefoot In The Park.mp3"
+Nov 23 00:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 23 00:18 : exception: No such directory
+Nov 23 00:18 : exception: Failed to open '/home/raptor8134/.config/mpd/playlists/swallowing dust.m3u': No such file or directory
+Nov 23 00:18 : exception: No such playlist
+Nov 23 00:19 : exception: Playlist already exists
+Nov 23 12:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 23 18:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 23 18:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 23 18:45 : player: played "Boom!.mp3"
+Nov 23 18:49 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 23 19:11 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 24 11:13 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Nov 24 11:13 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 24 17:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 24 17:37 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 24 17:50 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 24 19:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 24 19:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 24 19:54 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 24 19:55 : player: played "Just don't tell mom I'm in Chechnya - Lyrics - Ты только маме что я в Чечне не говори - текст.mp3"
+Nov 24 19:58 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 24 20:02 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 25 21:39 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 25 21:39 : player: played "Peace Sells.mp3"
+Nov 25 21:39 : output: Failed to drain "My ALSA Device" (alsa): snd_pcm_writei() failed: Broken pipe
+Nov 25 21:39 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 25 21:54 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 25 22:18 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 25 22:20 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 25 22:21 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 25 22:22 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 18:23 : player: played "Killing In the Name.m4a"
+Nov 26 18:23 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+Nov 26 18:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Nov 26 18:23 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 18:28 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 20:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 20:26 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 20:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 20:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 20:39 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 20:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 20:51 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 20:53 : player: played "Killing In the Name.m4a"
+Nov 26 20:53 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 21:05 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 09:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 09:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 09:41 : player: played "War Pigs.mp3"
+Nov 27 09:48 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 09:48 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 09:57 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 09:57 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 12:09 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 12:13 : player: played "For Whom the Bell Tolls.mp3"
+Nov 27 12:20 : player: played "Holy Wars... The Punishment Due.mp3"
+Nov 27 12:27 : player: played "One.mp3"
+Nov 27 12:29 : player: played "Fortunate Son.mp3"
+Nov 27 12:35 : player: played "Swallowing Dust.mp3"
+Nov 27 12:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 12:35 : player: played "Barefoot In The Park.mp3"
+Nov 27 12:35 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 12:38 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 12:39 : player: played "Don't Tread On Me.mp3"
+Nov 27 12:40 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 12:41 : player: played "The Whole World and You.mp3"
+Nov 27 12:46 : player: played "Sweet Home Alabama.mp3"
+Nov 27 12:49 : player: played "Immigrant Song.mp3"
+Nov 27 12:52 : player: played "Hey Ya!.mp3"
+Nov 27 21:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 21:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 21:14 : player: played "Carry On Wayward Son.mp3"
+Nov 27 21:18 : player: played "Two Wuv.mp3"
+Nov 27 21:32 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 21:33 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 21:34 : player: played "Don't Stop Me Now.mp3"
+Nov 27 21:45 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 22:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 22:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 22:23 : player: played "Fortunate Son.mp3"
+Nov 27 22:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 22:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 22:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 22:24 : player: played "Brass Monkey.mp3"
+Nov 27 22:24 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 27 22:25 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 28 15:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 28 15:12 : player: played "&.mp3"
+Nov 28 15:12 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 28 15:16 : player: played "Tank!.mp3"
+Nov 28 15:20 : player: played "Chameleon.mp3"
+Nov 28 15:27 : player: played "Giant Steps.mp3"
+Nov 28 15:32 : player: played "Asayake.mp3"
+Nov 28 15:36 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 28 15:42 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 28 15:43 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 28 15:44 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 28 15:45 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 28 15:46 : player: played "Midnight Rendezvous.mp3"
+Nov 28 15:52 : player: played "Swear.mp3"
+Nov 28 15:57 : player: played "Take Me.mp3"
+Nov 28 16:02 : player: played "Tears Of The Star.mp3"
+Nov 28 16:04 : player: played "Time Limit.mp3"
+Nov 28 16:12 : player: played "Domino Line.mp3"
+Nov 28 16:16 : player: played "Take Five.mp3"
+Nov 28 16:16 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 29 18:08 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 29 18:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 30 09:16 : player: played "Freddie Freeloader.mp3"
+Nov 30 16:52 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 30 17:02 : player: played "Freddie Freeloader.mp3"
+Nov 30 17:05 : player: played "The Girl From Ipanema.mp3"
+Nov 30 17:07 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 30 17:11 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 30 17:13 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 30 17:13 : player: played "Song for My Father.mp3"
+Nov 30 17:14 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM

@@ -6,12 +6,13 @@
 [[ $- != *i* ]] && return
 
 # If logging in on tty1, start X server
-if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then 
-	bluetoothctl power on 
-	startx
-fi
+#if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then 
+#	startx
+#fi
 
 alias ls='ls --color=auto'
+alias grep='grep --color=auto'
+alias pi_ssh='ssh pi@192.168.102.170 -p 8022'
 PS1='[\u@\h \W]\$ '
 #PS1='\033[01;32m\u@\h \033[01;34m\w \$\033[0m '
 #PS1='┏[\u@\h \w]\n┗╸\$'
@@ -25,8 +26,11 @@ doas() {
     fi
 }
 
+if [ -f /etc/bash.command-not-found ]; then
+		. /etc/bash.command-not-found
+fi
+
 export EDITOR='vim'
-export TERMINAL='termite'
 export XDG_CONFIG_HOME='/home/raptor8134/.config/'
 export PATH='/bin:/usr/bin:/usr/local/bin:/user/local/sbin:/user/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/raptor8134/scripts/:/home/raptor8134/.local/bin/:/home/raptor8134/.cargo/bin:/home/raptor8134/appnativefy/'
 #source /etc/profile.d/emscripten.sh

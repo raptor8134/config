@@ -1,0 +1,10 @@
+# settings
+
+(GimpGegl-gegl-cartoon-config "2021-11-20 18:00:37"
+    (time 1637460037)
+    (gimp-mode merge)
+    (gimp-opacity 0.41399999999999998)
+    (mask-radius 31.029)
+    (pct-black 0.71499999999999997))
+
+# end of settings

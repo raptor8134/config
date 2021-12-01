@@ -3,7 +3,7 @@
 :set shiftwidth=4
 :set number
 :set linebreak 
-:colorscheme ron
+" :setlocal foldmethod=indent
 
 " alacritty
 :set ttymouse=sgr
@@ -20,4 +20,9 @@ Plug 'm-pilia/vim-pkgbuild'
 Plug 'kien/ctrlp.vim'
 Plug 'vim-scripts/Rename2'
 Plug 'chriskempson/base16-vim'
+Plug 'dracula/vim',{'as':'dracula'}
 call plug#end()
+
+" Colorscheme(s)
+:colorscheme ron
+":colorscheme dracula

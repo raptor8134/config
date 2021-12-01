@@ -11,8 +11,8 @@
     (size 640 480))
 (session-info "toplevel"
     (factory-entry "gimp-single-image-window")
-    (position 0 0)
-    (size 1920 1080)
+    (position 14 14)
+    (size 1892 1010)
     (open-on-exit)
     (aux-info
         (left-docks-width "283")
@@ -64,7 +64,7 @@
                     (edit-active "true")
                     (current-data "2. Hardness 100"))))
         (book
-            (position 381)
+            (position 672)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style automatic)
@@ -83,7 +83,7 @@
                     (show-button-bar "true"))))))
 (session-info "toplevel"
     (factory-entry "gimp-file-open-dialog")
-    (position 0 27)
+    (position 103 126)
     (size 840 643))
 (session-info "toplevel"
     (factory-entry "gimp-file-save-dialog")
@@ -113,7 +113,18 @@
     (size 172 40))
 (session-info "toplevel"
     (factory-entry "gimp-operation-tool-dialog")
-    (position 722 235))
+    (position 1320 253))
+(session-info "toplevel"
+    (factory-entry "gimp-brightness-contrast-tool-dialog")
+    (position 178 121))
+(session-info "toplevel"
+    (factory-entry "gimp-levels-tool-dialog")
+    (position 140 0)
+    (size 490 639))
+(session-info "toplevel"
+    (factory-entry "gimp-curves-tool-dialog")
+    (position 175 32)
+    (size 472 632))
 
 (hide-docks no)
 (single-window-mode yes)

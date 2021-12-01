@@ -1,7 +1,6 @@
 /* https://blog.wotw.pro/tag/rofi/ */
 configuration {
 	modi: "drun,window";
-	theme: "Monokai.rasi";
 	font: "Deja Vu Mono 12";
 	combi-modi: "window,drun";
 	show-icons: true;
@@ -11,4 +10,5 @@ configuration {
 	cycle: true;
 	sidebar-mode: true;
 }
-/* vim:ft=css
+@theme "Monokai.rasi"
+/* vim: ft=css

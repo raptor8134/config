@@ -1,0 +1,13 @@
+# settings
+
+(GimpGegl-gegl-panorama-projection-config "2021-11-20 18:09:32"
+    (time 1637460572)
+    (gimp-opacity 0.52999999999999992)
+    (pan 140.9542976550137)
+    (tilt 10.309197788593885)
+    (spin 0.23999999999999999)
+    (zoom 21)
+    (inverse no)
+    (sampler-type nearest))
+
+# end of settings

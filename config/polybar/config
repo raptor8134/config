@@ -19,7 +19,7 @@
 [colors]
 ;background = ${xrdb:color0:#222}
 ;background = #222
-background = #b0000000
+background = #c0101010
 background-alt = #444
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
@@ -30,10 +30,15 @@ alert = #bd2c40
 
 [bar/main]
 ;monitor = ${env:MONITOR:HDMI-1}
-width = 1896 
+;width = 1896 
+;height = 45 
+;offset-x = 12
+;offset-y = 8
+
+width = 1920
 height = 45 
-offset-x = 12
-offset-y = 8
+offset-x = 0
+offset-y = 0
 
 radius = 0
 fixed-center = true 
@@ -48,13 +53,13 @@ line-size = 3
 line-color = #f00
 
 ;border-size = 2
-;border-bottom = 2 
+;border-bottom = 2
 ;border-left = 2 
 ;border-right = 2 
 border-color = #000000
 
 padding-left = 2
-padding-right = 2
+padding-right = 1
 
 module-margin-left = 1
 module-margin-right = 1
@@ -64,18 +69,19 @@ font-1 = Symbols Nerd Font:fontformat=truetype:size=14;0
 font-2 = unifont:fontformat=truetype:size=14:antialias=false;0
 ;font-3 = siji:pixelsize=13;1
 
-modules-left = i3 bluetooth memory cpu battery 
+modules-left = i3 bluetooth memory cpu battery xbacklight 
 modules-center = mpd 
 modules-right = pulseaudio weather date wlan 
 
 tray-position = right
+;tray-detached = true
 tray-padding = 0
 ;tray-background = #0063ff
 
 ;wm-restack = bspwm
 wm-restack = i3
 
-override-redirect = true
+override-redirect = false
 
 ;scroll-up = bspwm-desknext
 ;scroll-down = bspwm-deskprev
@@ -99,7 +105,7 @@ type = custom/script
 exec = ~/scripts/activedevice.sh
 label = %output:0:10:%
 interval = 5 
-click-left = termite -e bluetoothctl -t FLOAT_ME
+click-left = alacritty -t "FLOAT_ME" -e "bluetoothctl"
 
 format = <label> 
 format-underline = #ddff00 
@@ -204,7 +210,7 @@ icon-play = ▶
 icon-pause = ⏸ 
 icon-next = ❯
 
-label-song = %{A1:termite -e ncmpcpp -t ncmpcpp:}%artist% - %title% |%{A}
+label-song = %{A1:alacritty -t FLOAT_ME -e ncmpcpp:}%artist% - %title% |%{A}
 ;label-song-maxlen = 50 
 ;label-song-ellipsis = true 
 
@@ -218,8 +224,10 @@ bar-progress-empty = ─
 [module/xbacklight]
 type = internal/xbacklight
 
-format = <label> <bar>
-label = BL 
+format = <label>
+label = %percentage%% ☀
+
+format-underline = #00ffdd
 
 bar-width = 10
 bar-indicator = |
@@ -243,7 +251,7 @@ interval = 2
 format-prefix = 
 ;format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #00ff69 
-label = %{A1:termite -e bpytop -t bpytop:}%percentage:2%%%{A} ﬙
+label = %{A1:alacritty -t "FLOAT_ME" -e "bpytop":}%percentage:2%%%{A} ﬙
 
 [module/memory]
 type = internal/memory
@@ -251,7 +259,7 @@ interval = 2
 format-prefix = 
 ;format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #88ff00
-label = %{A1:termite -e bpytop -t bpytop:}%percentage_used%%%{A} 
+label = %{A1:alacritty -t "FLOAT_ME" -e "bpytop":}%percentage_used%%%{A} 
 
 [module/wlan]
 type = internal/network

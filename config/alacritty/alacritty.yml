@@ -23,15 +23,15 @@
   # available, otherwise `xterm-256color` is used.
 TERM: alacritty
 
-#window:
+window:
   # Window dimensions (changes require restart)
   #
   # Number of lines/columns (not pixels) in the terminal. The number of columns
   # must be at least `2`, while using a value of `0` for columns and lines will
   # fall back to the window manager's recommended size.
-  #dimensions:
-  #  columns: 0
-  #  lines: 0
+  dimensions:
+    columns: 82
+    lines: 24
 
   # Window position (changes require restart)
   #
@@ -46,8 +46,8 @@ TERM: alacritty
   # Blank space added around the window in pixels. This padding is scaled
   # by DPI and the specified value is always added at both opposing sides.
   #padding:
-  #  x: 0
-  #  y: 0
+    x: 20
+    y: 20
 
   # Spread additional padding evenly around the terminal content.
   #dynamic_padding: false
@@ -106,7 +106,7 @@ font:
   # Normal (roman) font face
   normal:
     # Font family
-    family: monospace
+    family: Dejavu Sans Mono
 
     # The `style` can be specified to pick a specific face.
     style: Regular
@@ -184,7 +184,7 @@ colors:
   # foreground: '#eff0eb'
 
   cursor:
-    cursor: '#97979b'
+    cursor: '#e2e4e5'
 
   selection:
     text:       '#282a36'
@@ -375,7 +375,7 @@ colors:
 #
 # Window opacity as a floating point number from `0.0` to `1.0`.
 # The value `0.0` is completely transparent and `1.0` is opaque.
-background_opacity: 0.6
+background_opacity: 0.5
 
 #selection:
   # This string contains all characters that are used as separators for
@@ -385,9 +385,9 @@ background_opacity: 0.6
   # When set to `true`, selected text will be copied to the primary clipboard.
   #save_to_clipboard: false
 
-#cursor:
+cursor:
   # Cursor style
-  #style:
+  style:
     # Cursor shape
     #
     # Values for `shape`:
@@ -403,7 +403,7 @@ background_opacity: 0.6
     #   - Off: Disable blinking by default
     #   - On: Enable blinking by default
     #   - Always: Force the cursor to always blink
-    #blinking: Off
+    blinking: On
 
   # Vi mode cursor style
   #
@@ -414,15 +414,15 @@ background_opacity: 0.6
   #vi_mode_style: None
 
   # Cursor blinking interval in milliseconds.
-  #blink_interval: 750
+  blink_interval: 750
 
   # If this is `true`, the cursor will be rendered as a hollow box when the
   # window is not focused.
-  #unfocused_hollow: true
+  unfocused_hollow: true
 
   # Thickness of the cursor relative to the cell width as floating point number
   # from `0.0` to `1.0`.
-  #thickness: 0.15
+  thickness: 0.1
 
 # Live config reload (changes require restart)
 #live_config_reload: true

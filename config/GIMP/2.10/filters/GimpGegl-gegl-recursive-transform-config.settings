@@ -1,0 +1,22 @@
+# settings
+
+(GimpGegl-gegl-recursive-transform-config "2021-11-20 18:22:50"
+    (time 1637461370)
+    (transform "matrix(0.96367895603179954,0.089271858334541321,0.00019387385691516107,-0.17054866254329679,0.73662453889846824,-0.00020925044373143456,333.30813598632812,21.1412353515625,1)")
+    (first-iteration 0)
+    (iterations 3)
+    (fade-color (color-rgba 0 0 0 0))
+    (fade-opacity 1)
+    (paste-below no)
+    (sampler-type linear))
+(GimpGegl-gegl-recursive-transform-config "2021-11-20 18:20:23"
+    (time 1637461223)
+    (transform "matrix(0.69136248202778783,-0.0058307927433663481,-6.929046929493021e-06,-0.091014890962847372,0.60887844711230987,-1.0905615828365305e-05,321,174,1)")
+    (first-iteration 0)
+    (iterations 3)
+    (fade-color (color-rgba 0 0 0 0))
+    (fade-opacity 1)
+    (paste-below no)
+    (sampler-type linear))
+
+# end of settings

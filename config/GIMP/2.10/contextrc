@@ -2,6 +2,8 @@
 
 (tool "gimp-bucket-fill-tool")
 (paint-info "gimp-paintbrush")
+(foreground (color-rgb 1 1 1))
+(background (color-rgb 0.14473684210526316 0.14473684210526316 0.14473684210526316))
 (brush "2. Hardness 100")
 (dynamics "Dynamics Off")
 (mybrush "100% Opaque")
