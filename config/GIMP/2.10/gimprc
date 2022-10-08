@@ -10,6 +10,7 @@
 (monitor-xresolution 157)
 (monitor-yresolution 161)
 (image-resize-fill-type white)
+(image-resize-layer-set all)
 (layer-new-name "bruh")
 (layer-resize-fill-type white)
 (fill-options

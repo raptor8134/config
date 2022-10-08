@@ -12,9 +12,12 @@
 
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias pi_ssh='ssh pi@192.168.102.170 -p 8022'
-PS1='[\u@\h \W]\$ '
-#PS1='\033[01;32m\u@\h \033[01;34m\w \$\033[0m '
+alias pi_ssh='ssh pi@192.168.103.223 -p 22'
+#PS1='[\u@\h \W]\$ '
+PS1='\[\033[01;37m\]┌─[\[\033[01;32m\]\u\[\033[01;37m\]@\[\033[01;36m\]\h\[\033[01;37m\]]-[\[\033[01;33m\]\W\[\033[00;37m\]\[\033[01;37m\]]
+\[\033[01;37m\]└─[\[\033[05;33m\]$\[\033[00;37m\]\[\033[01;37m\]]\[\033[00;37m\] '
+#PS1='\033[32m > '
+#PS1='\033[01;32m\u@\h \033[01;34m\w\$\033[0m '
 #PS1='┏[\u@\h \w]\n┗╸\$'
 
 doas() {
@@ -25,6 +28,8 @@ doas() {
         /usr/bin/doas "$@"
     fi
 }
+
+xhost + 2>&1 > /dev/null
 
 if [ -f /etc/bash.command-not-found ]; then
 		. /etc/bash.command-not-found

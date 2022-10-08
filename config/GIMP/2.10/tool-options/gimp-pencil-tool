@@ -1,15 +1,13 @@
 # GIMP gimp-pencil-tool options
 
-(foreground (color-rgb 1 1 1))
-(background (color-rgb 0.14473684210526316 0.14473684210526316 0.14473684210526316))
+(foreground (color-rgb 0.27960526315789469 0.27960526315789469 0.27960526315789469))
 (paint-mode merge)
-(brush "2. Hardness 100")
+(brush "2. Hardness 075")
 (dynamics "Dynamics Off")
 (gradient "FG to BG (RGB)")
 (palette "Color History")
-(brush-size 3)
-(brush-angle 1.2490009027033011e-16)
-(brush-hardness 0.56600000000002038)
-(brush-force 1)
+(brush-size 18)
+(brush-hardness 0.75)
+(brush-force 0.56999999999999995)
 
 # end of gimp-pencil-tool options

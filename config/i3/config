@@ -19,8 +19,11 @@
 #set $bgimage /usr/share/backgrounds/archlinux/landscape.jpg
 #set $bgimage /usr/share/backgrounds/raptor8134/rainforest.png
 #set $bgimage /usr/share/backgrounds/raptor8134/forest.png
-set $bgimage /usr/share/backgrounds/raptor8134/desert2.png
+#set $bgimage /usr/share/backgrounds/raptor8134/desert2.png
+set $bgimage /home/raptor8134/Pictures/snowyforestfixed.png
 #set $bgimage /home/raptor8134/Pictures/sunset.png
+
+exec_always convert $bgimage /tmp/bgimage.png && mv /tmp/bgimage.png /usr/share/backgrounds/lightdm.png
 
 exec_always xmodmap ~/.Xmodmap
 set $mod Mod4
@@ -39,8 +42,8 @@ title_align center
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
-exec_always --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork --image $bgimage 
-bindsym $mod+x exec --no-startup-id i3lock --nofork --image $bgimage 
+exec_always --no-startup-id xss-lock --transfer-sleep-lock -- i3lock -t --nofork --image $bgimage 
+bindsym $mod+x exec --no-startup-id i3lock -t --nofork --image $bgimage 
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
@@ -161,6 +164,19 @@ bindsym $mod+Shift+8 move container to workspace number $ws8
 bindsym $mod+Shift+9 move container to workspace number $ws9
 bindsym $mod+Shift+0 move container to workspace number $ws10
 
+workspace 1 output eDP1
+workspace 2 output eDP1
+workspace 3 output eDP1
+workspace 4 output eDP1
+workspace 5 output eDP1
+workspace 6 output eDP1
+workspace 7 output eDP1
+workspace 8 output eDP1
+workspace 9 output HDMI1 
+workspace 10 output HDMI1
+
+exec_always xrandr --output HDMI1 --auto --above eDP1
+
 # reload the configuration file
 bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
@@ -220,7 +236,7 @@ bindsym XF86MonBrightnessUp exec xbacklight -inc 5%
 bindsym XF86MonBrightnessDown exec xbacklight -dec 5% 
 bindsym shift+XF86MonBrightnessUp exec xbacklight -inc 1% 
 bindsym shift+XF86MonBrightnessDown exec xbacklight -dec 1% 
-bindsym ctrl+XF86MonBrightnessUp exec "pkill xbacklight-auto; xbacklight-auto -t 3 -m 1" 
+bindsym ctrl+XF86MonBrightnessUp exec "pkill xbacklight-auto; xbacklight-auto -t 8 -m 1" 
 bindsym ctrl+XF86MonBrightnessDown exec pkill xbacklight-auto 
 
 # Play/pause/fast forward mpd
@@ -230,6 +246,8 @@ bindsym XF86AudioPlay exec mpc play
 bindsym XF86AudioPause exec mpc pause
 bindsym $mod+bracketright exec mpc next
 bindsym $mod+bracketleft exec mpc prev
+bindsym XF86AudioNext exec mpc next
+bindsym XF86AudioPrev exec mpc prev
 bindsym $mod+shift+bracketright exec mpc seek +0:10
 bindsym $mod+shift+bracketleft exec mpc seek -0:10
 bindsym $mod+control+p exec alacritty -t FLOAT_ME -e "ncmpcpp"
@@ -237,7 +255,7 @@ exec_always mpc update /
 
 # connect to earbuds
 exec_always bluetoothctl power on
-bindsym $mod+b exec bluetoothctl connect 1C:52:16:6A:7B:AA || bluetoothctl connect E8:07:BF:11:7D:EF
+bindsym $mod+b exec bluetoothctl connect 58:FC:C6:1F:8E:39 || bluetoothctl connect E8:07:BF:11:7D:EF
 bindsym $mod+shift+b exec bluetoothctl disconnect $(~/scripts/activedevice.sh --device)
 bindsym $mod+ctrl+b  exec alacritty -e "/home/raptor8134/scripts/earbuds.sh && exit" -t htop
 
@@ -248,7 +266,6 @@ exec_always ~/.config/polybar/launch.sh
 
 # Gaps 
 for_window [class=".*"] border pixel 0
-#for_window [class="Termite"] border pixel 1
 gaps inner 12
 gaps bottom -3
 #smart_gaps on
@@ -266,11 +283,11 @@ client.background       #000000
 #start widgets and stuff 
 exec blueman-applet
 exec udiskie -nt
-exec twmnd
+exec_always twmnd
 exec discord --start-minimized 
-exec mpd-rpc
 exec xcmenu
-exec_always pkill redshift; sleep 4; redshift -Pl $(cweather -l | tr "," ":") -t 7500K:4000K 
+exec nohup signal-desktop --start-in-tray
+exec_always pkill redshift; sleep 4; redshift -Pl $(cweather -l | tr "," ":") -t 6500K:3000K 
 #exec_always pkill xbacklight-auto; xbacklight-auto -t 3 -m 1
 
 # make certain windows always floating
@@ -290,6 +307,8 @@ bindsym $mod+m exec twmnc -t "To do " -c \"$(cat ~/todo.txt | perl -pe \"s/\n/\ 
 
 # Alt-tabbing, swipe gestures, and ESC
 bindsym Mod1+Tab exec i3-msg workspace back_and_forth
+exec_always killall libinput-gestures
+exec_always killall libinput-debug-events
 exec_always libinput-gestures
 #bindcode 66  --release exec xdotool key Escape
 
@@ -297,4 +316,4 @@ exec_always libinput-gestures
 bindsym $mod+n exec $HOME/scripts/autoclicker.sh
 bindsym $mod+Shift+n exec pkill autoclicker.sh
 
-exec steam
+#$exec steam
