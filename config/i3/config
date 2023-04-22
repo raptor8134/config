@@ -16,10 +16,11 @@
 #set $bgimage /usr/share/backgrounds/Mandelbrot*.jpg
 #set $bgimage /usr/share/backgrounds/archlinux/archwave.png
 #set $bgimage /usr/share/backgrounds/archlinux/archwaveinv.png
-#set $bgimage /usr/share/backgrounds/archlinux/landscape.jpg
+#set $bgimage /home/raptor8134/backgrounds/landscaperesized.png
 #set $bgimage /usr/share/backgrounds/raptor8134/rainforest.png
 #set $bgimage /usr/share/backgrounds/raptor8134/forest.png
 #set $bgimage /usr/share/backgrounds/raptor8134/desert2.png
+#set $bgimage /usr/share/backgrounds/raptor8134/desert.png
 set $bgimage /home/raptor8134/Pictures/snowyforestfixed.png
 #set $bgimage /home/raptor8134/Pictures/sunset.png
 

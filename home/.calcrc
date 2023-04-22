@@ -10,3 +10,12 @@ g = 9.81
 G = 6.6743 * 10^-11
 define ctok(x) = x + 273.15
 define ktoc(x) = x - 273.15
+define ncr(n,k) = n!/(k!*(n-k)!)
+define binompdf(n, p, x) = ncr(n,x)*p^x*(1-p)^(n-x)
+define binomcdf(n, p, x1, x2) {
+    local ret = 0;
+    for (local i=x1; i<=x2; i++) {
+        ret = ret + binompdf(n, p, i);
+    }
+    return ret;
+}

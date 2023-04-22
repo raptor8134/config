@@ -43,7 +43,7 @@ Plug 'dracula/vim',{'as':'dracula'}
 Plug 'editorconfig/editorconfig-vim'
 Plug 'Yggdroot/indentLine'
     let g:indentLine_char = '│'
-    let g:indentLine_fileType = ['c', 'cpp', 'h', 'hpp', 'python']
+    let g:indentLine_fileType = ['c', 'cpp', 'h', 'hpp', 'python', 'ino']
     let g:indentLine_enabled = 1
     let g:indentLine_color_term = 247
     ":IndentLinesEnable

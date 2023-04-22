@@ -1,9 +1,8 @@
 # GIMP gimp-text-tool options
 
-(foreground (color-rgb 0.27960526315789469 0.27960526315789469 0.27960526315789469))
 (palette "Color History")
-(font "Impact Condensed")
+(font "Arial Black,")
+(font-size 60)
 (letter-spacing -1)
-(box-mode fixed)
 
 # end of gimp-text-tool options

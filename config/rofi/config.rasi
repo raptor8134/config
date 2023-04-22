@@ -1,6 +1,6 @@
 /* https://blog.wotw.pro/tag/rofi/ */
 configuration {
-	modi: "drun,window";
+	modi: "drun";
 	font: "Deja Vu Mono 12";
 	combi-modi: "window,drun";
 	show-icons: true;
