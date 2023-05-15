@@ -64,11 +64,10 @@ padding-right = 1
 module-margin-left = 1
 module-margin-right = 1
 
-;font-0 = fixed:pixelsize=14;1
 font-0 = Dejavu Sans:pixelsize=14;1
-font-1 = Symbols Nerd Font:fontformat=truetype:size=14;0
+font-1 = Symbols Nerd Font:fontformat=truetype:size=14:antialias=true;0
 font-2 = unifont:fontformat=truetype:size=14:antialias=false;0
-;font-3 = siji:pixelsize=13;1
+font-3 = siji:pixelsize=13;1
 
 modules-left = i3 bluetooth memory cpu battery xbacklight 
 modules-center = mpd 
@@ -98,7 +97,6 @@ type = custom/script
 exec = cweather -k $(cat ~/Programs/cweather/key.txt) 2>/dev/null 
 interval = 60
 click-left = firefox --url "https://weather.com/weather/tenday/l/$(cweather -l)?par=google&temp=f"
-
 format-underline = #0099ff
 
 [module/bluetooth]
@@ -252,7 +250,7 @@ interval = 2
 format-prefix = 
 ;format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #00ff69 
-label = %{A1:alacritty -t "FLOAT_ME" -e "htop":}%percentage:2%%%{A} ﬙
+label = %{A1:alacritty -t "FLOAT_ME" -e "htop":}%percentage:2%%%{A} 󰻠
 
 [module/memory]
 type = internal/memory
@@ -260,7 +258,7 @@ interval = 2
 format-prefix = 
 ;format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #88ff00
-label = %{A1:alacritty -t "FLOAT_ME" -e "htop":}%percentage_used%%%{A} 
+label = %{A1:alacritty -t "FLOAT_ME" -e "htop":}%percentage_used%%%{A} 󰍛
 
 [module/wlan]
 type = internal/network
@@ -326,14 +324,12 @@ label-volume-foreground = ${root.foreground}
 format-volume-underline = #00ddff
 format-muted-underline = #00ddff
 
-label-muted = muted 婢
+label-muted = muted 󰝟
 ;label-muted-foreground = #666
 
-ramp-volume-0 =  
-ramp-volume-1 = 奔
-ramp-volume-2 = 奔
-ramp-volume-3 = 墳
-ramp-volume-4 = 墳
+ramp-volume-0 = 
+ramp-volume-1 = 󰖀
+ramp-volume-2 = 󰕾
 
 bar-volume-width = 16 
 bar-volume-foreground-0 = #55aa55
@@ -391,29 +387,28 @@ full-at = 98
 
 time-format = %H:%M
 
-label-charging = %percentage%%
+label-charging = %time% | %percentage%%
 format-charging = <label-charging> <animation-charging>
 format-charging-underline = #00ffaa
 
-label-discharging = %percentage%%
+label-discharging = %time% | %percentage%%
 format-discharging = <label-discharging> <ramp-capacity>
 format-discharging-underline = ${self.format-charging-underline}
 
-format-full-prefix = " "
+format-full-prefix = "󰁹 "
 format-full-prefix-foreground = ${colors.foreground}
 format-full-underline = ${self.format-charging-underline}
 
-ramp-capacity-0 = 
-ramp-capacity-1 = 
-ramp-capacity-2 = 
-ramp-capacity-3 = 
-ramp-capacity-4 = 
-ramp-capacity-5 = 
+ramp-capacity-0 = 󰂃
+ramp-capacity-1 = 󰁻
+ramp-capacity-2 = 󰁽
+ramp-capacity-3 = 󰁿
+ramp-capacity-4 = 󰂁
 ;ramp-capacity-foreground = ${colors.foreground-alt}
 
-animation-charging-0 = 
-animation-charging-1 = 
-animation-charging-2 = 
+animation-charging-0 = 󰂆
+animation-charging-1 = 󰢝
+animation-charging-2 = 󰂅
 ;animation-charging-foreground = ${colors.foreground-alt}
 animation-charging-framerate = 750
 

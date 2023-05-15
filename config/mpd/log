@@ -13770,3 +13770,53 @@ WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedeskto
 WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
 WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
 Apr 21 19:25 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 25 08:34 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 25 08:49 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 25 20:19 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 25 21:19 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 27 08:49 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 30 22:52 : exception: Not playing
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+May 08 10:41 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 10 09:59 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 10 10:17 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 10 10:31 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 11 12:34 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 11 12:56 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 11 14:40 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 11 16:59 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 11 17:03 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 11 17:20 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 11 20:15 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 11 20:54 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 11 20:58 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 12 08:38 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 12 08:40 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 14 21:49 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 14 22:37 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 14 23:03 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
+May 14 23:03 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+May 14 23:04 : player: played "Swallowing Dust.mp3"

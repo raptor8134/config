@@ -1177,7 +1177,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="d51e7dd5ed76a3899f73f27c53a22c58">
+  <resource identifier="gimp-palette-color-history" checksum="0a8bd05e32636e3e344a781a53896a6d">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1498,6 +1498,42 @@
   <resource identifier="DejaVu Sans Bold Semi-Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="DejaVuSansM Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Mono Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Mono Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Propo" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Propo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Propo Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVuSansM Nerd Font Propo Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="DejaVu Sans Mono" checksum="(null)">
   </resource>
 
@@ -1544,18 +1580,6 @@
   </resource>
 
   <resource identifier="DejaVu Serif Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Font Awesome 6 Brands" checksum="(null)">
-  </resource>
-
-  <resource identifier="Font Awesome 6 Free" checksum="(null)">
-  </resource>
-
-  <resource identifier="Font Awesome 6 Free Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Font Awesome v4 Compatibility" checksum="(null)">
   </resource>
 
   <resource identifier="Georgia" checksum="(null)">
@@ -2497,6 +2521,12 @@
   <resource identifier="Noto Sans Nabataean" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Nag Mundari" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Nag Mundari Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Nandinagari" checksum="(null)">
   </resource>
 
@@ -3310,6 +3340,9 @@
   <resource identifier="Noto Serif Oriya Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Ottoman Siyaq" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Sinhala" checksum="(null)">
   </resource>
 
@@ -3547,52 +3580,52 @@
   <resource identifier="Source Code Pro Ultra-Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable" checksum="(null)">
+  <resource identifier="SourceCodeVF" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable" checksum="(null)">
+  <resource identifier="SourceCodeVF" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Bold" checksum="(null)">
+  <resource identifier="SourceCodeVF Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Bold Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Heavy" checksum="(null)">
+  <resource identifier="SourceCodeVF Heavy" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Heavy Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Heavy Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Light" checksum="(null)">
+  <resource identifier="SourceCodeVF Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Light Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Medium" checksum="(null)">
+  <resource identifier="SourceCodeVF Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Medium Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Semi-Bold" checksum="(null)">
+  <resource identifier="SourceCodeVF Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Semi-Bold Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Ultra-Light" checksum="(null)">
+  <resource identifier="SourceCodeVF Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Code Variable Ultra-Light Italic" checksum="(null)">
+  <resource identifier="SourceCodeVF Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Serif JP" checksum="(null)">
