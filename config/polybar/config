@@ -306,7 +306,7 @@ date = "%b %d, "
 date-alt = "%A %d %b %Y "
 
 time = %I:%M %p
-time-alt = %H:%M:%S
+time-alt = %-H:%M:%S
 
 format-prefix =  
 format-prefix-foreground = ${colors.foreground-alt}
@@ -385,13 +385,13 @@ battery = BAT0
 adapter = ADP1
 full-at = 98
 
-time-format = %H:%M
-
-label-charging = %time% | %percentage%%
+time-format = %-H:%M
+label-charging = %time%  %percentage%%
+; 󱋱
 format-charging = <label-charging> <animation-charging>
 format-charging-underline = #00ffaa
 
-label-discharging = %time% | %percentage%%
+label-discharging = %time%  %percentage%%
 format-discharging = <label-discharging> <ramp-capacity>
 format-discharging-underline = ${self.format-charging-underline}
 

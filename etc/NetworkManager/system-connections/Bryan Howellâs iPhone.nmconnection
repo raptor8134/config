@@ -1,0 +1,23 @@
+[connection]
+id=Bryan Howell’s iPhone
+uuid=6b7cf370-1a61-40fe-b2bf-fcbaf28bac72
+type=wifi
+interface-name=wlp0s20f3
+
+[wifi]
+mode=infrastructure
+ssid=66;114;121;97;110;32;72;111;119;101;108;108;226;128;153;115;32;105;80;104;111;110;101;
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=Jhowell8586
+
+[ipv4]
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+method=auto
+
+[proxy]

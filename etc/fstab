@@ -1,0 +1,11 @@
+# UUID=8dd490f1-c0b1-4520-9f76-8b6ef861a510
+/dev/nvme0n1p3      	/         	ext4      	rw,relatime	0 1
+
+# UUID=7686-6478 LABEL=SYSTEM_DRV
+/dev/nvme0n1p1      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# UUID=40F8E130F8E1253E
+/dev/nvme0n1p5      	/home/raptor8134/Windows\040Partition	ntfs      	rw,nosuid,nodev,user_id=0,group_id=0,allow_other,blksize=4096	0 0
+
+# UUID=e6e6916d-b321-4142-9ae4-5c2ad25da832
+/dev/nvme0n1p2      	none      	swap      	defaults  	0 0

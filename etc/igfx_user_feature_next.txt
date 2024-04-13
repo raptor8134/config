@@ -1,0 +1,5 @@
+[config]
+
+[report]
+MemNinja Counter=0
+

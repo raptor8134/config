@@ -16,12 +16,12 @@
 #set $bgimage /usr/share/backgrounds/Mandelbrot*.jpg
 #set $bgimage /usr/share/backgrounds/archlinux/archwave.png
 #set $bgimage /usr/share/backgrounds/archlinux/archwaveinv.png
-#set $bgimage /home/raptor8134/backgrounds/landscaperesized.png
+set $bgimage /home/raptor8134/backgrounds/landscaperesized.png
 #set $bgimage /usr/share/backgrounds/raptor8134/rainforest.png
 #set $bgimage /usr/share/backgrounds/raptor8134/forest.png
 #set $bgimage /usr/share/backgrounds/raptor8134/desert2.png
 #set $bgimage /usr/share/backgrounds/raptor8134/desert.png
-set $bgimage /home/raptor8134/Pictures/snowyforestfixed.png
+#set $bgimage /home/raptor8134/Pictures/snowyforestfixed.png
 #set $bgimage /home/raptor8134/Pictures/sunset.png
 
 exec_always convert $bgimage /tmp/bgimage.png && mv /tmp/bgimage.png /usr/share/backgrounds/lightdm.png
@@ -42,8 +42,8 @@ title_align center
 # they are included here as an example. Modify as you see fit.
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
-# screen before suspend. Use loginctl lock-session to lock your screen.
-exec_always --no-startup-id xss-lock --transfer-sleep-lock -- i3lock -t --nofork --image $bgimage 
+# screen before suspend. Use l;ldsfjoginctl lock-session to lock your screen.
+exec_always --no-startup-id xss-lock sleep-lock -- i3lock -t --nofork --image $bgimage 
 bindsym $mod+x exec --no-startup-id i3lock -t --nofork --image $bgimage 
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
@@ -231,7 +231,7 @@ bindsym $mod+r mode "resize"
 
 # Screenshot from printscreen
 bindsym Print exec scrot ~/Pictures/Screenshots/Screenshot_$(date +%m-%d-%Y-%H:%M:%S).png && twmnc -c "Screenshot added at $(date +%m-%d-%y\ %H:%M:%S)" --pos top_center --fn Monospace --fs 15 
- 
+
 # Brightness keys
 bindsym XF86MonBrightnessUp exec xbacklight -inc 5% 
 bindsym XF86MonBrightnessDown exec xbacklight -dec 5% 

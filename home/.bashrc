@@ -20,16 +20,16 @@ PS1='\[\033[01;37m\]┌─[\[\033[01;32m\]\u\[\033[01;37m\]@\[\033[01;36m\]\h\[\
 #PS1='\033[01;32m\u@\h \033[01;34m\w\$\033[0m '
 #PS1='┏[\u@\h \w]\n┗╸\$'
 
-doas() {
-    # This requires persist to be enabled in doas.conf
-    if ! /usr/bin/doas true; then
-        fortune doas 1>&2; false
-    else
-        /usr/bin/doas "$@"
-    fi
-}
+#doas() {
+#    # This requires persist to be enabled in doas.conf
+#    if ! /usr/bin/doas true; then
+#        fortune doas 1>&2; false
+#    else
+#        /usr/bin/doas "$@"
+#    fi
+#}
 
-xhost + 2>&1 > /dev/null
+#xhost + 2>&1 > /dev/null
 
 if [ -f /etc/bash.command-not-found ]; then
 		. /etc/bash.command-not-found
@@ -37,10 +37,10 @@ fi
 
 export EDITOR='vim'
 export XDG_CONFIG_HOME='/home/raptor8134/.config/'
-export PATH='/bin:/usr/bin:/usr/local/bin:/user/local/sbin:/user/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/raptor8134/scripts/:/home/raptor8134/.local/bin/:/home/raptor8134/.cargo/bin:/home/raptor8134/appnativefy/'
+export PATH="$PATH:/home/raptor8134/scripts/:/home/raptor8134/.local/bin/:/home/raptor8134/.cargo/bin:/home/raptor8134/appnativefy/"
 #source /etc/profile.d/emscripten.sh
 
-alias sudo="doas"
+#alias sudo="doas"
 alias entry='vim ~/.journal/"$(date +%m-%d-%Y\(%a\))".txt'
 alias dunnet='emacs --batch -l dunnet'
 alias ipaddr='nmcli -p device show'
@@ -52,3 +52,4 @@ alias status='echo -e "`acpi`\n`date`\n`date +%s`"'
 alias status2='clear && while true; do printf %b "`acpi`"   "\n`date`\n`date +%s`" && sleep 1 && printf "\033[0;0H"; done'
 
 alias please='sudo $(fc -ln -1)'
+

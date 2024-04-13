@@ -1,0 +1,19 @@
+[connection]
+id=Bridge connection 1
+uuid=2e8d66ce-9207-436b-852d-a5943b0d6de9
+type=bridge
+interface-name=nm-bridge
+permissions=
+
+[bridge]
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
+
+[proxy]

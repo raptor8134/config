@@ -1,0 +1,27 @@
+[connection]
+id=e^iπ 1
+uuid=fe04a506-97b3-40af-a4f3-ad8b7bc8fd92
+type=wifi
+interface-name=wlp0s20f3
+permissions=user:raptor8134:;
+
+[wifi]
+mac-address-blacklist=
+mode=infrastructure
+ssid=101;94;105;207;128;
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=minus one
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
+
+[proxy]

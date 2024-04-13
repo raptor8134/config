@@ -1,0 +1,17 @@
+[connection]
+id=Auto Ethernet
+uuid=d924502f-461d-4e76-8721-577880b767ef
+type=ethernet
+interface-name=enp0s20f0u2
+timestamp=1633999181
+
+[ethernet]
+
+[ipv4]
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+method=auto
+
+[proxy]

@@ -1,0 +1,96 @@
+live_config_reload = true
+
+[bell]
+command = "None"
+duration = 0
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[[colors.indexed_colors]]
+color = "#ff9f43"
+index = 16
+
+[[colors.indexed_colors]]
+color = "#b2643c"
+index = 17
+
+[[colors.indexed_colors]]
+color = "#34353e"
+index = 18
+
+[[colors.indexed_colors]]
+color = "#43454f"
+index = 19
+
+[[colors.indexed_colors]]
+color = "#a5a5a9"
+index = 20
+
+[[colors.indexed_colors]]
+color = "#eff0eb"
+index = 21
+
+[colors.bright]
+black = "#686868"
+blue = "#57c7ff"
+cyan = "#9aedfe"
+green = "#5af78e"
+magenta = "#ff6ac1"
+red = "#ff5c57"
+white = "#eff0eb"
+yellow = "#f3f99d"
+
+[colors.cursor]
+cursor = "#e2e4e5"
+
+[colors.normal]
+black = "#282a36"
+blue = "#57c7ff"
+cyan = "#9aedfe"
+green = "#5af78e"
+magenta = "#ff6ac1"
+red = "#ff5c57"
+white = "#f1f1f0"
+yellow = "#f3f99d"
+
+[colors.primary]
+background = "#000000"
+foreground = "#e2e4e5"
+
+[colors.selection]
+background = "#feffff"
+text = "#282a36"
+
+[cursor]
+blink_interval = 750
+thickness = 0.1
+unfocused_hollow = true
+
+[cursor.style]
+blinking = "On"
+shape = "Block"
+
+[env]
+TERM = "alacritty"
+
+[font]
+size = 13.0
+
+[font.normal]
+family = "Dejavu Sans Mono"
+style = "Regular"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[shell]
+program = "/bin/bash"
+
+[window]
+opacity = 0.65
+
+[window.dimensions]
+columns = 82
+lines = 24

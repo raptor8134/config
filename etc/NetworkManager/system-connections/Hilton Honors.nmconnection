@@ -1,0 +1,22 @@
+[connection]
+id=Hilton Honors
+uuid=75797caf-7a4d-4283-8e51-fac7a2768669
+type=wifi
+interface-name=wlp0s20f3
+permissions=user:raptor8134:;
+
+[wifi]
+mac-address-blacklist=
+mode=infrastructure
+ssid=Hilton Honors
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
+
+[proxy]

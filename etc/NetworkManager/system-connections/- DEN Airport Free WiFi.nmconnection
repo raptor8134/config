@@ -1,0 +1,22 @@
+[connection]
+id=- DEN Airport Free WiFi
+uuid=5ec2bd3a-3713-466c-b3a3-52d54b440f20
+type=wifi
+interface-name=wlp0s20f3
+permissions=user:raptor8134:;
+
+[wifi]
+mac-address-blacklist=
+mode=infrastructure
+ssid=- DEN Airport Free WiFi
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
+
+[proxy]

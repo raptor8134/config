@@ -1,0 +1,21 @@
+<!--
+WARNING: THIS IS AN AUTO-GENERATED FILE. CHANGES TO IT ARE LIKELY TO BE
+OVERWRITTEN AND LOST. Changes to this xml configuration should be made using:
+  virsh pool-edit win10
+or other application using the libvirt API.
+-->
+
+<pool type='fs'>
+  <name>win10</name>
+  <uuid>45a45dc6-146f-4d73-a706-1e92f7aff9f7</uuid>
+  <capacity unit='bytes'>0</capacity>
+  <allocation unit='bytes'>0</allocation>
+  <available unit='bytes'>0</available>
+  <source>
+    <device path='/dev/disk/by-id/nvme-eui.002538aa9100071a-part4'/>
+    <format type='auto'/>
+  </source>
+  <target>
+    <path>/var/lib/libvirt/images/win10</path>
+  </target>
+</pool>

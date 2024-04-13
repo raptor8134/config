@@ -13820,3 +13820,246 @@ May 14 22:37 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer c
 May 14 23:03 : server_socket: bind to '0.0.0.0:8000' failed (continuing anyway, because binding to '[::]:8000' succeeded): Failed to bind socket: Address already in use
 May 14 23:03 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
 May 14 23:04 : player: played "Swallowing Dust.mp3"
+May 15 08:34 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+                                                                                            May 15 15:54 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 16 08:36 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 17 12:43 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 18 10:38 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+May 18 16:24 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 18 23:35 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 19 10:33 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 19 12:45 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 21 17:20 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 22 14:15 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 22 14:24 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 22 20:47 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 23 14:53 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 23 16:31 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 25 22:12 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+May 27 11:17 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 19:50 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 20:03 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 20:34 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 27 22:52 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 15:59 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+May 29 20:18 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 22:23 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 01 22:23 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 02 16:46 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jun 02 18:06 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 02 20:04 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jun 07 22:43 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 08 12:32 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 08 13:12 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jun 09 19:22 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 09 19:30 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 10 16:56 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Jun 11 16:46 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 14 18:57 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 14 21:05 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 15 00:22 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Jun 15 09:54 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 13 17:26 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Gummy Boy - Don't Leave.mp3; Failed to open '/home/raptor8134/Music/Gummy Boy - Don't Leave.mp3': No such file or directory
+Dec 13 17:26 : player: played "Gummy Boy - Don't Leave.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Зодиак - Зодиак.mp3; Failed to open '/home/raptor8134/Music/Зодиак - Зодиак.mp3': No such file or directory
+Dec 13 17:26 : player: played "Зодиак - Зодиак.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Наукоград - Время.mp3; Failed to open '/home/raptor8134/Music/Наукоград - Время.mp3': No such file or directory
+Dec 13 17:26 : player: played "Наукоград - Время.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППК - Воскрешение (Robot's Outro).mp3; Failed to open '/home/raptor8134/Music/ППК - Воскрешение (Robot's Outro).mp3': No such file or directory
+Dec 13 17:26 : player: played "ППК - Воскрешение (Robot's Outro).mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППК - Воскрешение.mp3; Failed to open '/home/raptor8134/Music/ППК - Воскрешение.mp3': No such file or directory
+Dec 13 17:26 : player: played "ППК - Воскрешение.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Творожное озеро - Гроза (vwqp remix).mp3; Failed to open '/home/raptor8134/Music/Творожное озеро - Гроза (vwqp remix).mp3': No such file or directory
+Dec 13 17:26 : player: played "Творожное озеро - Гроза (vwqp remix).mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Priroda - 8080.mp3; Failed to open '/home/raptor8134/Music/Priroda - 8080.mp3': No such file or directory
+Dec 13 17:26 : player: played "Priroda - 8080.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/PRNRML - Загадка 1.mp3; Failed to open '/home/raptor8134/Music/PRNRML - Загадка 1.mp3': No such file or directory
+Dec 13 17:26 : player: played "PRNRML - Загадка 1.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Dmitriy Ivankov - Phobos.mp3; Failed to open '/home/raptor8134/Music/Dmitriy Ivankov - Phobos.mp3': No such file or directory
+Dec 13 17:26 : player: played "Dmitriy Ivankov - Phobos.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/NTorchestra - Млечными путями в Прекрасное далеко.mp3; Failed to open '/home/raptor8134/Music/NTorchestra - Млечными путями в Прекрасное далеко.mp3': No such file or directory
+Dec 13 17:26 : player: played "NTorchestra - Млечными путями в Прекрасное далеко.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Время акаций - Загадка.mp3; Failed to open '/home/raptor8134/Music/Время акаций - Загадка.mp3': No such file or directory
+Dec 13 17:26 : player: played "Время акаций - Загадка.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Импульс-80 - Полёт к Звёздам.mp3; Failed to open '/home/raptor8134/Music/Импульс-80 - Полёт к Звёздам.mp3': No such file or directory
+Dec 13 17:26 : player: played "Импульс-80 - Полёт к Звёздам.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/луноберег - меркурий.mp3; Failed to open '/home/raptor8134/Music/луноберег - меркурий.mp3': No such file or directory
+Dec 13 17:26 : player: played "луноберег - меркурий.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Марксэн - 600 Вт.mp3; Failed to open '/home/raptor8134/Music/Марксэн - 600 Вт.mp3': No such file or directory
+Dec 13 17:26 : player: played "Марксэн - 600 Вт.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Маяк - Выше звезд.mp3; Failed to open '/home/raptor8134/Music/Маяк - Выше звезд.mp3': No such file or directory
+Dec 13 17:26 : player: played "Маяк - Выше звезд.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Наукоград - Звездопад.mp3; Failed to open '/home/raptor8134/Music/Наукоград - Звездопад.mp3': No such file or directory
+Dec 13 17:26 : player: played "Наукоград - Звездопад.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППВК - Комета возвращается.mp3; Failed to open '/home/raptor8134/Music/ППВК - Комета возвращается.mp3': No such file or directory
+Dec 13 17:26 : player: played "ППВК - Комета возвращается.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Протон-4 - За пределами млечного пути.mp3; Failed to open '/home/raptor8134/Music/Протон-4 - За пределами млечного пути.mp3': No such file or directory
+Dec 13 17:26 : player: played "Протон-4 - За пределами млечного пути.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Удары синтезаторов - Предчувствие космоса.mp3; Failed to open '/home/raptor8134/Music/Удары синтезаторов - Предчувствие космоса.mp3': No such file or directory
+Dec 13 17:26 : player: played "Удары синтезаторов - Предчувствие космоса.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Фриссон - Континуум.mp3; Failed to open '/home/raptor8134/Music/Фриссон - Континуум.mp3': No such file or directory
+Dec 13 17:26 : player: played "Фриссон - Континуум.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ЭЛЕКТРОНИКА 302 - Наши достижения.mp3; Failed to open '/home/raptor8134/Music/ЭЛЕКТРОНИКА 302 - Наши достижения.mp3': No such file or directory
+Dec 13 17:26 : player: played "ЭЛЕКТРОНИКА 302 - Наши достижения.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Gummy Boy - Don't Leave.mp3; Failed to open '/home/raptor8134/Music/Gummy Boy - Don't Leave.mp3': No such file or directory
+Dec 13 17:26 : player: played "Gummy Boy - Don't Leave.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Gummy Boy - Don't Leave.mp3; Failed to open '/home/raptor8134/Music/Gummy Boy - Don't Leave.mp3': No such file or directory
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Зодиак - Зодиак.mp3; Failed to open '/home/raptor8134/Music/Зодиак - Зодиак.mp3': No such file or directory
+Dec 13 17:26 : player: played "Зодиак - Зодиак.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Наукоград - Время.mp3; Failed to open '/home/raptor8134/Music/Наукоград - Время.mp3': No such file or directory
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППК - Воскрешение (Robot's Outro).mp3; Failed to open '/home/raptor8134/Music/ППК - Воскрешение (Robot's Outro).mp3': No such file or directory
+Dec 13 17:26 : player: played "Наукоград - Время.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППК - Воскрешение (Robot's Outro).mp3; Failed to open '/home/raptor8134/Music/ППК - Воскрешение (Robot's Outro).mp3': No such file or directory
+Dec 13 17:26 : player: played "ППК - Воскрешение (Robot's Outro).mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППК - Воскрешение.mp3; Failed to open '/home/raptor8134/Music/ППК - Воскрешение.mp3': No such file or directory
+Dec 13 17:26 : player: played "ППК - Воскрешение.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Творожное озеро - Гроза (vwqp remix).mp3; Failed to open '/home/raptor8134/Music/Творожное озеро - Гроза (vwqp remix).mp3': No such file or directory
+Dec 13 17:26 : player: played "Творожное озеро - Гроза (vwqp remix).mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Priroda - 8080.mp3; Failed to open '/home/raptor8134/Music/Priroda - 8080.mp3': No such file or directory
+Dec 13 17:26 : player: played "Priroda - 8080.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/PRNRML - Загадка 1.mp3; Failed to open '/home/raptor8134/Music/PRNRML - Загадка 1.mp3': No such file or directory
+Dec 13 17:26 : player: played "PRNRML - Загадка 1.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Dmitriy Ivankov - Phobos.mp3; Failed to open '/home/raptor8134/Music/Dmitriy Ivankov - Phobos.mp3': No such file or directory
+Dec 13 17:26 : player: played "Dmitriy Ivankov - Phobos.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/NTorchestra - Млечными путями в Прекрасное далеко.mp3; Failed to open '/home/raptor8134/Music/NTorchestra - Млечными путями в Прекрасное далеко.mp3': No such file or directory
+Dec 13 17:26 : player: played "NTorchestra - Млечными путями в Прекрасное далеко.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Время акаций - Загадка.mp3; Failed to open '/home/raptor8134/Music/Время акаций - Загадка.mp3': No such file or directory
+Dec 13 17:26 : player: played "Время акаций - Загадка.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Импульс-80 - Полёт к Звёздам.mp3; Failed to open '/home/raptor8134/Music/Импульс-80 - Полёт к Звёздам.mp3': No such file or directory
+Dec 13 17:26 : player: played "Импульс-80 - Полёт к Звёздам.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/луноберег - меркурий.mp3; Failed to open '/home/raptor8134/Music/луноберег - меркурий.mp3': No such file or directory
+Dec 13 17:26 : player: played "луноберег - меркурий.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Марксэн - 600 Вт.mp3; Failed to open '/home/raptor8134/Music/Марксэн - 600 Вт.mp3': No such file or directory
+Dec 13 17:26 : player: played "Марксэн - 600 Вт.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Маяк - Выше звезд.mp3; Failed to open '/home/raptor8134/Music/Маяк - Выше звезд.mp3': No such file or directory
+Dec 13 17:26 : player: played "Маяк - Выше звезд.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Наукоград - Звездопад.mp3; Failed to open '/home/raptor8134/Music/Наукоград - Звездопад.mp3': No such file or directory
+Dec 13 17:26 : player: played "Наукоград - Звездопад.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППВК - Комета возвращается.mp3; Failed to open '/home/raptor8134/Music/ППВК - Комета возвращается.mp3': No such file or directory
+Dec 13 17:26 : player: played "ППВК - Комета возвращается.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Протон-4 - За пределами млечного пути.mp3; Failed to open '/home/raptor8134/Music/Протон-4 - За пределами млечного пути.mp3': No such file or directory
+Dec 13 17:26 : player: played "Протон-4 - За пределами млечного пути.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Удары синтезаторов - Предчувствие космоса.mp3; Failed to open '/home/raptor8134/Music/Удары синтезаторов - Предчувствие космоса.mp3': No such file or directory
+Dec 13 17:26 : player: played "Удары синтезаторов - Предчувствие космоса.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Фриссон - Континуум.mp3; Failed to open '/home/raptor8134/Music/Фриссон - Континуум.mp3': No such file or directory
+Dec 13 17:26 : player: played "Фриссон - Континуум.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ЭЛЕКТРОНИКА 302 - Наши достижения.mp3; Failed to open '/home/raptor8134/Music/ЭЛЕКТРОНИКА 302 - Наши достижения.mp3': No such file or directory
+Dec 13 17:26 : player: played "ЭЛЕКТРОНИКА 302 - Наши достижения.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Gummy Boy - Don't Leave.mp3; Failed to open '/home/raptor8134/Music/Gummy Boy - Don't Leave.mp3': No such file or directory
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Зодиак - Зодиак.mp3; Failed to open '/home/raptor8134/Music/Зодиак - Зодиак.mp3': No such file or directory
+Dec 13 17:26 : player: played "Gummy Boy - Don't Leave.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Зодиак - Зодиак.mp3; Failed to open '/home/raptor8134/Music/Зодиак - Зодиак.mp3': No such file or directory
+Dec 13 17:26 : player: played "Зодиак - Зодиак.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Наукоград - Время.mp3; Failed to open '/home/raptor8134/Music/Наукоград - Время.mp3': No such file or directory
+Dec 13 17:26 : player: played "Наукоград - Время.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Наукоград - Время.mp3; Failed to open '/home/raptor8134/Music/Наукоград - Время.mp3': No such file or directory
+Dec 13 17:26 : player: played "Наукоград - Время.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППК - Воскрешение (Robot's Outro).mp3; Failed to open '/home/raptor8134/Music/ППК - Воскрешение (Robot's Outro).mp3': No such file or directory
+Dec 13 17:26 : player: played "ППК - Воскрешение (Robot's Outro).mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППК - Воскрешение.mp3; Failed to open '/home/raptor8134/Music/ППК - Воскрешение.mp3': No such file or directory
+Dec 13 17:26 : player: played "ППК - Воскрешение.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Творожное озеро - Гроза (vwqp remix).mp3; Failed to open '/home/raptor8134/Music/Творожное озеро - Гроза (vwqp remix).mp3': No such file or directory
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Priroda - 8080.mp3; Failed to open '/home/raptor8134/Music/Priroda - 8080.mp3': No such file or directory
+Dec 13 17:26 : player: played "Творожное озеро - Гроза (vwqp remix).mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Priroda - 8080.mp3; Failed to open '/home/raptor8134/Music/Priroda - 8080.mp3': No such file or directory
+Dec 13 17:26 : player: played "Priroda - 8080.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/PRNRML - Загадка 1.mp3; Failed to open '/home/raptor8134/Music/PRNRML - Загадка 1.mp3': No such file or directory
+Dec 13 17:26 : player: played "PRNRML - Загадка 1.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Dmitriy Ivankov - Phobos.mp3; Failed to open '/home/raptor8134/Music/Dmitriy Ivankov - Phobos.mp3': No such file or directory
+Dec 13 17:26 : player: played "Dmitriy Ivankov - Phobos.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/NTorchestra - Млечными путями в Прекрасное далеко.mp3; Failed to open '/home/raptor8134/Music/NTorchestra - Млечными путями в Прекрасное далеко.mp3': No such file or directory
+Dec 13 17:26 : player: played "NTorchestra - Млечными путями в Прекрасное далеко.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Время акаций - Загадка.mp3; Failed to open '/home/raptor8134/Music/Время акаций - Загадка.mp3': No such file or directory
+Dec 13 17:26 : player: played "Время акаций - Загадка.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Импульс-80 - Полёт к Звёздам.mp3; Failed to open '/home/raptor8134/Music/Импульс-80 - Полёт к Звёздам.mp3': No such file or directory
+Dec 13 17:26 : player: played "Импульс-80 - Полёт к Звёздам.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/луноберег - меркурий.mp3; Failed to open '/home/raptor8134/Music/луноберег - меркурий.mp3': No such file or directory
+Dec 13 17:26 : player: played "луноберег - меркурий.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Марксэн - 600 Вт.mp3; Failed to open '/home/raptor8134/Music/Марксэн - 600 Вт.mp3': No such file or directory
+Dec 13 17:26 : player: played "Марксэн - 600 Вт.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Маяк - Выше звезд.mp3; Failed to open '/home/raptor8134/Music/Маяк - Выше звезд.mp3': No such file or directory
+Dec 13 17:26 : player: played "Маяк - Выше звезд.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Наукоград - Звездопад.mp3; Failed to open '/home/raptor8134/Music/Наукоград - Звездопад.mp3': No such file or directory
+Dec 13 17:26 : player: played "Наукоград - Звездопад.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППВК - Комета возвращается.mp3; Failed to open '/home/raptor8134/Music/ППВК - Комета возвращается.mp3': No such file or directory
+Dec 13 17:26 : player: played "ППВК - Комета возвращается.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Протон-4 - За пределами млечного пути.mp3; Failed to open '/home/raptor8134/Music/Протон-4 - За пределами млечного пути.mp3': No such file or directory
+Dec 13 17:26 : player: played "Протон-4 - За пределами млечного пути.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Удары синтезаторов - Предчувствие космоса.mp3; Failed to open '/home/raptor8134/Music/Удары синтезаторов - Предчувствие космоса.mp3': No such file or directory
+Dec 13 17:26 : player: played "Удары синтезаторов - Предчувствие космоса.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Фриссон - Континуум.mp3; Failed to open '/home/raptor8134/Music/Фриссон - Континуум.mp3': No such file or directory
+Dec 13 17:26 : player: played "Фриссон - Континуум.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ЭЛЕКТРОНИКА 302 - Наши достижения.mp3; Failed to open '/home/raptor8134/Music/ЭЛЕКТРОНИКА 302 - Наши достижения.mp3': No such file or directory
+Dec 13 17:26 : player: played "ЭЛЕКТРОНИКА 302 - Наши достижения.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Gummy Boy - Don't Leave.mp3; Failed to open '/home/raptor8134/Music/Gummy Boy - Don't Leave.mp3': No such file or directory
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Зодиак - Зодиак.mp3; Failed to open '/home/raptor8134/Music/Зодиак - Зодиак.mp3': No such file or directory
+Dec 13 17:26 : player: played "Gummy Boy - Don't Leave.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Зодиак - Зодиак.mp3; Failed to open '/home/raptor8134/Music/Зодиак - Зодиак.mp3': No such file or directory
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Наукоград - Время.mp3; Failed to open '/home/raptor8134/Music/Наукоград - Время.mp3': No such file or directory
+Dec 13 17:26 : player: played "Зодиак - Зодиак.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Наукоград - Время.mp3; Failed to open '/home/raptor8134/Music/Наукоград - Время.mp3': No such file or directory
+Dec 13 17:26 : player: played "Наукоград - Время.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППК - Воскрешение (Robot's Outro).mp3; Failed to open '/home/raptor8134/Music/ППК - Воскрешение (Robot's Outro).mp3': No such file or directory
+Dec 13 17:26 : player: played "ППК - Воскрешение (Robot's Outro).mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППК - Воскрешение.mp3; Failed to open '/home/raptor8134/Music/ППК - Воскрешение.mp3': No such file or directory
+Dec 13 17:26 : player: played "ППК - Воскрешение.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Творожное озеро - Гроза (vwqp remix).mp3; Failed to open '/home/raptor8134/Music/Творожное озеро - Гроза (vwqp remix).mp3': No such file or directory
+Dec 13 17:26 : player: played "Творожное озеро - Гроза (vwqp remix).mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Priroda - 8080.mp3; Failed to open '/home/raptor8134/Music/Priroda - 8080.mp3': No such file or directory
+Dec 13 17:26 : player: played "Priroda - 8080.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/PRNRML - Загадка 1.mp3; Failed to open '/home/raptor8134/Music/PRNRML - Загадка 1.mp3': No such file or directory
+Dec 13 17:26 : player: played "PRNRML - Загадка 1.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Dmitriy Ivankov - Phobos.mp3; Failed to open '/home/raptor8134/Music/Dmitriy Ivankov - Phobos.mp3': No such file or directory
+Dec 13 17:26 : player: played "Dmitriy Ivankov - Phobos.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/NTorchestra - Млечными путями в Прекрасное далеко.mp3; Failed to open '/home/raptor8134/Music/NTorchestra - Млечными путями в Прекрасное далеко.mp3': No such file or directory
+Dec 13 17:26 : player: played "NTorchestra - Млечными путями в Прекрасное далеко.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Время акаций - Загадка.mp3; Failed to open '/home/raptor8134/Music/Время акаций - Загадка.mp3': No such file or directory
+Dec 13 17:26 : player: played "Время акаций - Загадка.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Импульс-80 - Полёт к Звёздам.mp3; Failed to open '/home/raptor8134/Music/Импульс-80 - Полёт к Звёздам.mp3': No such file or directory
+Dec 13 17:26 : player: played "Импульс-80 - Полёт к Звёздам.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/луноберег - меркурий.mp3; Failed to open '/home/raptor8134/Music/луноберег - меркурий.mp3': No such file or directory
+Dec 13 17:26 : player: played "луноберег - меркурий.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Марксэн - 600 Вт.mp3; Failed to open '/home/raptor8134/Music/Марксэн - 600 Вт.mp3': No such file or directory
+Dec 13 17:26 : player: played "Марксэн - 600 Вт.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Маяк - Выше звезд.mp3; Failed to open '/home/raptor8134/Music/Маяк - Выше звезд.mp3': No such file or directory
+Dec 13 17:26 : player: played "Маяк - Выше звезд.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Наукоград - Звездопад.mp3; Failed to open '/home/raptor8134/Music/Наукоград - Звездопад.mp3': No such file or directory
+Dec 13 17:26 : player: played "Наукоград - Звездопад.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ППВК - Комета возвращается.mp3; Failed to open '/home/raptor8134/Music/ППВК - Комета возвращается.mp3': No such file or directory
+Dec 13 17:26 : player: played "ППВК - Комета возвращается.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Протон-4 - За пределами млечного пути.mp3; Failed to open '/home/raptor8134/Music/Протон-4 - За пределами млечного пути.mp3': No such file or directory
+Dec 13 17:26 : player: played "Протон-4 - За пределами млечного пути.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Удары синтезаторов - Предчувствие космоса.mp3; Failed to open '/home/raptor8134/Music/Удары синтезаторов - Предчувствие космоса.mp3': No such file or directory
+Dec 13 17:26 : player: played "Удары синтезаторов - Предчувствие космоса.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/Фриссон - Континуум.mp3; Failed to open '/home/raptor8134/Music/Фриссон - Континуум.mp3': No such file or directory
+Dec 13 17:26 : player: played "Фриссон - Континуум.mp3"
+Dec 13 17:26 : exception: Failed to decode /home/raptor8134/Music/ЭЛЕКТРОНИКА 302 - Наши достижения.mp3; Failed to open '/home/raptor8134/Music/ЭЛЕКТРОНИКА 302 - Наши достижения.mp3': No such file or directory
+Dec 13 17:26 : player: played "ЭЛЕКТРОНИКА 302 - Наши достижения.mp3"

@@ -1,0 +1,23 @@
+[connection]
+id=e^(i*pi)
+uuid=6155d858-3600-4b2c-bd56-c96dcf6158d8
+type=wifi
+interface-name=wlp0s20f3
+
+[wifi]
+mode=infrastructure
+ssid=e^(i*pi)
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=minus one
+
+[ipv4]
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+method=auto
+
+[proxy]

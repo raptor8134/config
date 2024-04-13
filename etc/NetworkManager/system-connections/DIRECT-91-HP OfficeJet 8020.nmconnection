@@ -1,0 +1,26 @@
+[connection]
+id=DIRECT-91-HP OfficeJet 8020
+uuid=18ff057a-5fc6-4524-a7e3-2925d8737fb6
+type=wifi
+interface-name=wlp0s20f3
+permissions=user:raptor8134:;
+
+[wifi]
+mac-address-blacklist=
+mode=infrastructure
+ssid=DIRECT-91-HP OfficeJet 8020
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
+
+[proxy]

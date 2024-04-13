@@ -1,7 +1,8 @@
 # GIMP gimp-text-tool options
 
+(foreground (color-rgb 0.89019614458084106 0.93725496530532837 0.93725496530532837))
 (palette "Color History")
-(font "Arial Black,")
+(font "Standard Symbols PS")
 (font-size 60)
 (letter-spacing -1)
 

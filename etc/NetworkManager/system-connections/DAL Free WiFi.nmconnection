@@ -1,0 +1,22 @@
+[connection]
+id=DAL Free WiFi
+uuid=d3a504b0-3306-4b2e-a389-bb79014073db
+type=wifi
+interface-name=wlp0s20f3
+permissions=user:raptor8134:;
+
+[wifi]
+mac-address-blacklist=
+mode=infrastructure
+ssid=DAL Free WiFi
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+method=auto
+
+[proxy]

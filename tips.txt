@@ -1,1 +1,3 @@
 Enable `layers.acceleration.force-enabled` in `about:config` on firefox for smooth scrolling
+Generate colorscheme from image with gimp by doing Image > Mode > Indexed and select 16 colors, then Windows > Dockable Dialogs > Colormap
+or just use wal (python-pywal)

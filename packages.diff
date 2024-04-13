@@ -1,0 +1,404 @@
+acpi								acpi
+							      >	adobe-source-han-serif-jp-fonts
+							      >	afetch-git
+							      >	alacarte
+alacritty							alacritty
+							      >	alsa-utils
+							      >	android-file-transfer
+							      >	android-tools
+							      >	archivemount
+archlinux-wallpaper						archlinux-wallpaper
+baobab							      |	arduino
+							      >	arp-scan
+							      >	asar
+							      >	autoconf
+							      >	automake
+base								base
+							      >	base16-manager
+							      >	bash
+							      >	bash-zsh-insulter
+							      >	bc
+							      >	bdf-unifont
+							      >	beep
+							      >	betterdiscordctl-git
+							      >	binutils
+							      >	bison
+							      >	blender
+							      >	blueberry
+							      >	blueman
+							      >	bluez-hid2hci
+							      >	bluez-utils
+							      >	boost
+							      >	bpytop
+							      >	brother-mfc-j6920dw
+							      >	calc
+							      >	ccd2iso
+							      >	check
+cheese								cheese
+chromium							chromium
+							      >	cjson
+							      >	cli-visualizer-git
+							      >	cloc
+							      >	cmake-git
+							      >	cmatrix-git
+							      >	cowsay
+							      >	cronie
+							      >	cura-appimage-bin
+							      >	cweather
+							      >	cython
+							      >	debtap
+dhcpcd								dhcpcd
+							      >	discord
+							      >	dmenu
+							      >	dmidecode
+							      >	dnsmasq
+							      >	doas-sudo-shim
+							      >	doge
+							      >	dos2unix
+							      >	dotnet-sdk
+							      >	drawing
+							      >	easytag
+							      >	ed
+efibootmgr							efibootmgr
+							      >	electrum
+							      >	emacs
+eog								eog
+epiphany						      |	ethtool
+evince								evince
+							      >	evtest
+							      >	eww
+							      >	exfat-utils
+							      >	expac
+							      >	expect
+fakeroot							fakeroot
+							      >	fbcat
+							      >	feh
+							      >	figlet
+							      >	file
+							      >	findutils
+firefox								firefox
+							      >	firewalld
+							      >	fish
+							      >	flashplayer-standalone-debug
+							      >	flashpoint-bin
+							      >	flashrom
+							      >	flex
+							      >	fontconfig
+							      >	fortune-mod
+							      >	fortune-mod-matrix
+fprintd								fprintd
+fwupd							      |	freecad
+							      >	fuse2
+							      >	gawk
+							      >	gcc
+							      >	gdb
+gdm								gdm
+							      >	geckodriver
+							      >	gendesk
+							      >	gettext
+							      >	gimp
+git								git
+							      >	glm
+gnome-backgrounds						gnome-backgrounds
+gnome-browser-connector-git				      |	gnome-boxes
+gnome-calculator						gnome-calculator
+gnome-calendar						      <
+gnome-characters						gnome-characters
+gnome-clocks							gnome-clocks
+gnome-color-manager						gnome-color-manager
+gnome-connections					      <
+gnome-console						      <
+gnome-contacts						      <
+gnome-control-center						gnome-control-center
+gnome-disk-utility					      |	gnome-mines
+gnome-font-viewer					      <
+gnome-keyring						      <
+gnome-logs						      <
+gnome-maps						      <
+gnome-menus						      <
+gnome-music						      <
+gnome-photos							gnome-photos
+gnome-remote-desktop					      |	gnome-screenshot
+gnome-session						      |	gnome-session-properties
+gnome-settings-daemon					      |	gnome-shell-extension-dash-to-panel
+gnome-shell						      <
+gnome-shell-extensions						gnome-shell-extensions
+gnome-software						      <
+gnome-system-monitor						gnome-system-monitor
+gnome-text-editor					      <
+gnome-tour						      <
+gnome-tweaks							gnome-tweaks
+gnome-user-docs						      |	gnu-efi
+gnome-user-share					      |	gnu-netcat
+gnome-weather						      |	gnugo
+							      >	gnuplot
+go								go
+grilo-plugins						      |	golly
+							      >	gomatrix-git
+							      >	gpart
+							      >	gparted
+							      >	grapejuice
+							      >	grep
+							      >	groff
+grub								grub
+gvfs							      |	gtk-doc
+gvfs-afc						      |	gvim
+gvfs-goa						      |	gzip
+gvfs-google						      |	help2man
+gvfs-gphoto2						      |	hexedit
+gvfs-mtp						      |	hollywood
+gvfs-nfs						      |	htop
+gvfs-smb						      |	hw-probe
+iwd							      |	i3-wm
+							      >	i3blocks
+							      >	i3lock
+							      >	i3status
+							      >	ideamaker
+							      >	inetutils
+							      >	inkscape
+							      >	intel-media-driver
+							      >	intel-ucode
+							      >	ipscan
+							      >	iptables-nft
+							      >	jgmenu
+							      >	jre-openjdk
+							      >	julia
+							      >	kexec-tools
+							      >	knock-bin
+							      >	lazygit
+							      >	lib32-openssl-1.0-hardened
+							      >	libfprint
+							      >	libinput-gestures
+							      >	libopenaptx-git
+							      >	librecad
+							      >	libreddit-git
+							      >	libreoffice-fresh
+							      >	libtool
+							      >	libvirt
+lightdm								lightdm
+lightdm-settings					      |	lightdm-gtk-greeter
+lightdm-slick-greeter					      |	lightdm-gtk-greeter-settings
+linux								linux
+							      >	linux-docs
+linux-firmware							linux-firmware
+							      >	linux-headers
+							      >	lolcat
+							      >	lshw
+							      >	lsix-git
+							      >	lsof
+							      >	luit
+							      >	lutris
+lynx								lynx
+							      >	m4
+make								make
+malcontent						      |	makeself
+man-db								man-db
+							      >	mc
+							      >	memtest86-efi
+							      >	meshlab
+							      >	minecraft-launcher
+							      >	mlocate
+							      >	mono
+							      >	mpc
+							      >	mpd
+							      >	mpv
+							      >	multipath-tools
+							      >	musl
+							      >	nano
+							      >	nasm
+nautilus							nautilus
+							      >	nbsdgames-git
+							      >	ncdu
+							      >	ncmpcpp
+							      >	nemo
+neofetch							neofetch
+networkmanager						      |	net-tools
+ntfs-3g							      |	netctl
+obsidian						      |	network-manager-applet
+							      >	nitrogen
+							      >	nlohmann-json
+							      >	nm-connection-editor
+							      >	nmap
+							      >	nss-mdns
+							      >	ntp
+							      >	num-utils
+							      >	nushell
+							      >	obs-studio
+							      >	octave
+							      >	onefetch
+							      >	open-adventure
+							      >	openarena
+							      >	opencl-mesa
+opendoas							opendoas
+orca							      |	openssl-1.0
+os-prober							os-prober
+p7zip								p7zip
+pulseaudio-alsa						      |	pacman
+pulseaudio-bluetooth					      |	pacman-contrib
+rclone							      |	patch
+rclone-browser						      |	pavucontrol
+rnote							      |	pdf2htmlex-appimage
+							      >	pdftk
+							      >	perl-locale-gettext
+							      >	pfetch
+							      >	picom-jonaburg-git
+							      >	pipewire-media-session
+							      >	pkgconf
+							      >	polybar
+							      >	powertop
+							      >	printrun
+							      >	pulseaudio
+							      >	python-ffmpeg
+							      >	python-pip
+							      >	python-simber
+							      >	python2-gimp
+							      >	python2-typing
+							      >	qbittorrent
+							      >	qemu-desktop
+							      >	qtqr
+							      >	qutebrowser
+							      >	ranger
+							      >	redshift
+rofi								rofi
+rygel							      |	rpi-imager-bin
+simple-scan						      |	rsync
+sof-firmware						      |	scilab-bin
+sudo							      |	scrcpy-git
+sushi							      |	screenfetch
+							      >	scrot
+							      >	sdl2_ttf
+							      >	sed
+							      >	sharutils
+							      >	signal-desktop
+							      >	sl
+							      >	slock
+							      >	snd-pcsp-dkms
+							      >	soundfont-fatboy
+							      >	sox
+							      >	speedometer
+							      >	speedtest-cli
+							      >	steam
+							      >	supertux
+sway								sway
+swaybg							      |	sxiv
+totem							      |	system-config-printer
+tracker3-miners						      |	tcsh
+							      >	termite
+							      >	testdisk
+							      >	tetris-cli-git
+							      >	texinfo
+							      >	texlive-core
+							      >	texlive-pictures
+							      >	texworks
+							      >	thunar
+							      >	tidy
+							      >	tilp
+							      >	tlp
+							      >	tlpui
+							      >	tmux
+							      >	torbrowser-launcher
+							      >	torsocks
+							      >	traceroute
+tree								tree
+vim							      |	ttf-dejavu
+							      >	ttf-dejavu-nerd
+							      >	ttf-ms-fonts
+							      >	ttf-nerd-fonts-symbols
+							      >	ttf-symbola
+							      >	ttf-unifont-csur
+							      >	tty-clock
+							      >	twmn-git
+							      >	udiskie
+							      >	ufetch-git
+							      >	upx
+							      >	usb_modeswitch
+							      >	v4l2loopback-dkms
+							      >	verdict
+							      >	vi
+vim-plug							vim-plug
+vulkan-intel						      |	virt-manager
+xdg-desktop-portal-gnome				      |	vlc
+xdg-desktop-portal-wlr					      |	vlc-plugin-fluidsynth-bin
+xdg-user-dirs-gtk					      |	vscodium-bin
+xf86-input-wacom					      |	vscodium-bin-marketplace
+							      >	w3m
+							      >	webtorrent-cli
+							      >	wget
+							      >	which
+							      >	wine
+							      >	winetricks
+							      >	wireguard-dkms
+							      >	wireguard-tools
+							      >	wmctrl
+							      >	xbacklight-auto-git
+							      >	xclip
+							      >	xcmenu-git
+							      >	xdotool
+							      >	xf86-input-evdev
+							      >	xf86-input-synaptics
+							      >	xf86-input-vmmouse
+							      >	xf86-input-void
+							      >	xf86-video-amdgpu
+							      >	xf86-video-ati
+							      >	xf86-video-dummy
+							      >	xf86-video-fbdev
+xf86-video-intel						xf86-video-intel
+							      >	xf86-video-nouveau
+							      >	xf86-video-openchrome
+							      >	xf86-video-qxl
+xf86-video-vesa							xf86-video-vesa
+							      >	xf86-video-vmware
+							      >	xf86-video-voodoo
+							      >	xinit-xsession
+xorg-bdftopcf							xorg-bdftopcf
+xorg-docs							xorg-docs
+xorg-font-util							xorg-font-util
+xorg-fonts-100dpi						xorg-fonts-100dpi
+xorg-fonts-75dpi						xorg-fonts-75dpi
+xorg-iceauth							xorg-iceauth
+xorg-mkfontscale						xorg-mkfontscale
+xorg-server							xorg-server
+xorg-server-devel						xorg-server-devel
+xorg-server-xephyr						xorg-server-xephyr
+xorg-server-xnest						xorg-server-xnest
+xorg-server-xvfb						xorg-server-xvfb
+xorg-sessreg							xorg-sessreg
+xorg-smproxy							xorg-smproxy
+xorg-x11perf							xorg-x11perf
+							      >	xorg-xauth
+xorg-xbacklight							xorg-xbacklight
+xorg-xcmsdb							xorg-xcmsdb
+xorg-xcursorgen							xorg-xcursorgen
+							      >	xorg-xdpyinfo
+xorg-xdriinfo							xorg-xdriinfo
+xorg-xev							xorg-xev
+xorg-xgamma							xorg-xgamma
+xorg-xhost							xorg-xhost
+xorg-xinit							xorg-xinit
+xorg-xinput							xorg-xinput
+xorg-xkbevd							xorg-xkbevd
+xorg-xkbprint						      <
+xorg-xkbutils							xorg-xkbutils
+xorg-xkill							xorg-xkill
+xorg-xlsatoms							xorg-xlsatoms
+xorg-xlsclients							xorg-xlsclients
+							      >	xorg-xmodmap
+xorg-xpr							xorg-xpr
+xorg-xrandr							xorg-xrandr
+xorg-xrefresh							xorg-xrefresh
+xorg-xvinfo							xorg-xvinfo
+xorg-xwayland						      <
+xorg-xwd							xorg-xwd
+xorg-xwininfo							xorg-xwininfo
+xorg-xwud							xorg-xwud
+xournalpp						      |	xss-lock
+xterm								xterm
+yelp							      |	xwinwrap-git
+							      >	yad
+							      >	yarn
+							      >	yay-git
+							      >	youtube-dl
+							      >	ytmdl-git
+							      >	zip
+							      >	zork1
+							      >	zsh

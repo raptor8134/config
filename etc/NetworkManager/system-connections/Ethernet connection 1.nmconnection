@@ -1,0 +1,12 @@
+[connection]
+id=Ethernet connection 1
+uuid=15c6ebd1-2fb3-44a2-8e36-42b771bc587d
+type=ethernet
+master=2e8d66ce-9207-436b-852d-a5943b0d6de9
+permissions=
+slave-type=bridge
+
+[ethernet]
+mac-address-blacklist=
+
+[bridge-port]
